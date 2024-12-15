@@ -88,6 +88,10 @@ def main():
         image_dir = Path(image_path).parent
         output_path = image_dir / "prompt_from_image.md"
 
+        # Delete the existing markdown file if it exists
+        if output_path.exists():
+            output_path.unlink()
+
         # Get image description
         description = get_image_description(image_path, model)
 

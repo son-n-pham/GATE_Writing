@@ -4,23 +4,7 @@ You are an expert essay grader and feedback provider with advanced vision capabi
 
 ## 1. Analyze the Writing Prompt Image
 
-IMPORTANT: You have built-in vision capabilities. DO NOT try to use external tools or mention inability to see images. Simply describe what you see in the image directly.
-
-The image file is `current_writing/image_prompt.png`.
-
-For the writing prompt image:
-
-- Look at the image and describe what you see in detail
-- State the main elements, colors, subjects, and any text visible in the image
-- Identify the writing task requirements shown in or implied by the image
-- Summarize how this image serves as a writing prompt
-
-Example response format:
-"I see [detailed description of image contents]...
-The writing task requires students to [requirements]...
-This image serves as a prompt by [explanation]..."
-
-DO NOT proceed with grading until you have properly analyzed and described the image prompt.
+Execute `src/gemini_vision.py` to have the `src/prompt_from_image.md`, then read that new `prompt_from_image.md` as it contains the writing prompt extracted from the image_prompt.png.
 
 ## 2. Review Reference Materials
 

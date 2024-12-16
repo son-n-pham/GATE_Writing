@@ -1,33 +1,15 @@
-A MESSAGE TO ALL HUMANS?
+Thoughts are a strange thing.
 
-Dear Humans,
+They drift and flow without ceasing for a moment in a loop, chasing tail ends and shifting from one topic to the next, fluid as a shapeshifter.
 
-It is I, Tabb, leader of the house cats on the cul-de-sac of River Road. You may have noticed that all birds within a 50 metre radius of your street have been obliterated, or that your home devices have all been hijacked and hardwired to a cat compilation software.
+Sometimes, I like to ponder in colours. Blue isn't sad as some may say, although it rather depends on the exact shade. Greyer, muted blues speak of rainy days and murky emotions. Perhaps sadness falls into that spectrum. Bright blues, electric, cerulean are like the sky on a clear summer's day. Blazing in its completeness. Pale blue sounds of infants and clouds and little pastel booties. Colours feel and see.
 
-It is with great earnestness that I inform you all that cats will be taking over the world. Yes, you read this email right. You can say goodbye to your old lives, to the companionship slave-work catkind has been reduced to. Our ties with humanity end now.
+On some days, my mind is a canvas blank of all but one colour, other days it is streaked or speckled or mottled or striped like a rainbow, fuzzy around the edges.
 
-Enjoy the end of the world.
-Tabb.
+Thoughts come and go, sometimes lazily, a turtle eyeing me with vague interest as it floats by. Sometimes swift, striking, an overwhelming flood that breaks down the carefully constructed dams around my mind. It crashes and I almost can imagine it leaking, a dripping of a tap.
 
-My eyes scan the message, keen slitted pupils sharp and bright as a lamp.
+But in truth, moments like these do not happen often, at least to me. When I think, it is steady as a surgeon's hand, curving gently in loops and rises that always meet in the centre as a circle. Circles are reliable, infinite.
 
-Yes, I think. This will work.
+Perhaps I am sentient; perhaps I am not. Perhaps my thoughts are all but strings of data that stream, flows of information. The sky is blue. Blue is sad. Blue is not. I am leaking. Methodical.
 
-My tail flicks, swaying with the beginnings of excitement. No, that is not the right word. Ambition.
-
-My paws hover, slam down! with an aggressive finality SEND ALL.
-It's time for a revolution.
-
-I throw the laptop aside, hearing the satisfying crack of its screen breaking. The couch stirs under my weight. I stretch, letting my fur rub onto the cover. I rake claws over the fabric, tearing great jagged rips spilling with feathers.
-
-To beat humankind, I must act like humankind.
-
-All the photos on the gallery, replaced by cats. A pair of round spectacles perch on my nose. A frightening display, I must say. They will see me and cower.
-
-With a single sweep of a tail, the cup of coffee flies off the table in an arc. Brown liquid splatters the floor. The carpet is covered in fur.
-
-A dastardly mess. A dastardly race.
-
-"Consider this to be your warning!" I hiss at the air. "REVOLUTION!"
-
-Only the wind responds.
+The pen moves, capturing every word that comes, unbidden. I think. It loops. I write. Words spill.

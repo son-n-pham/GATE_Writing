@@ -1,14 +1,20 @@
-Rich paws at the brand new laptop. His claws lash out as a bright picture of a dog pops up on the screen. He hisses as he tosses the object away. Rich trots over to a dead goldfish he dug up in the garden and licks it. Then, he turns around and meows smugly as he admires his collection of stolen objects.
+Dear Aunt Sylvie,
 
-Rich lives in a cupboard, a nice toasty cupboard that had been tossed in to an old attic with a tin roof. Rich creeps out like a ninja cat and stealthily steals things—shiny diamond rings, batteries, light bulbs and necklaces. He empties out the pantry with his midnight feasts, leaving the poor owner human of the house scared and confused.
+I hope you're well. I guess I'm fine... but not really. Yesterday, I finished writing my story, it was about dragons and a brave knight called Simon who wields an enchanted mystical sword which is studded with little rubies. I bet you'll love it, but I can't show you because a gang of reckless bullies flushed my note book in the toilet.
 
-Rich adjusts his expensive diamond encrusted tophat and place balances his glasses on his nose as he leaps off his little couch and slips down the attic stairs. He gracefully leaps like a ballerina from object to object, as he finally landing infront of the pantry. He is ready to gorge himself.
+Right now I am working on a fabulous narrative about a famous acrobat who got murdered, everybody suspects the whole circus worked together to kill the acrobat but it's not true! I hope you'll like it once I finish because nobody at school ever likes my imagination. Hope I can visit you soon!
 
-Rich eats until his beautiful grey fur is smeared with grease and his stomach is as round as a basketball. He doesn't notice the sun rise above the horizon and doesn't hear the yawning of an awaking human. The food just slips down his throat.
+XOXO Alexa
 
-"Hey!" A tall man in striped pyjamas looms menacingly over Rich.
-Rich yelps and his tail freezes its continued swishing. The man reaches out a tentative hand and strokes Rich's dirty fur.
-"A cat's been stealing my food!" He cries suddenly. He frowns angrily at Rich. Then he smiles.
-"I've caught you red-handed, you greedy cat."
-The man lifts Rich up until they're nose to nose.
-"Have you been stealing? Don't steal from me," He says. "Now where is my jewellry?"
+Dear Aunt Sylvie,
+
+My dog died. Mum says life is full of rollercoasters. She says I should get over it. My heart hurts. I just finished writing my first sad story. Anyways, I've got to go.
+
+XOXO Alexa
+
+Dear Alexa,
+
+I am so sorry for your loss. I also received your murder mystery yesterday. It is most thrilling! I am so proud of you! You must have such a beautiful imagination to be able to write such a magnificent story. You are truly wonderful and I urge you to push on and write a sequel just for me. Once you become a world-famous best selling author I shall be your faithful business partner. Good luck!
+
+Love,
+Aunt Sylvie

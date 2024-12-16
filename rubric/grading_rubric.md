@@ -1,32 +1,53 @@
-## Combined GATE Writing Assessment Rubric (15 Marks)
+## Marking Rubric
 
-### Content and Ideas (5 Marks)
+### Write in a proper structure (2 marks)
 
-1. **Outstanding and Original Idea** (1 mark)
-2. **Interesting Content with Relevant Details** (1 mark)
-3. **Clear Connection to the Given Prompt** (1 mark)
-4. **Moral or Thematic Depth** (1 mark)
-5. **Appropriate Atmosphere Matching the Theme** (1 mark)
+- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion.
+- 1 mark: The writing has a basic structure but may lack coherence or completeness in one or more sections.
+- 0 marks: The writing lacks a clear structure, making it difficult to follow.
 
-### Structure and Organization (3 Marks)
+### Choose only ONE point of view (1 mark)
 
-1. **Proper Narrative Structure** (1 mark)
-2. **Coherent Organization of Ideas** (1 mark)
-3. **Interesting and Impactful Ending** (1 mark)
+- 1 mark: The writing consistently uses a single point of view throughout.
+- 0 marks: The writing shifts between multiple points of view.
 
-### Character and Emotion Development (3 Marks)
+### Choose a tone to match the theme of the writing (3 marks)
 
-1. **Character Development Using STEAL Characterization** (2 marks)
-2. **Inclusion of Emotions and Feelings** (1 mark)
+- 3 marks: The tone consistently matches and enhances the theme of the writing.
+- 2 marks: The tone is generally appropriate but may occasionally drift from the theme.
+- 1 mark: The tone is inconsistent or only partially matches the theme.
+- 0 marks: The tone does not match the theme of the writing.
 
-### Language and Style (4 Marks)
+### Include emotions and feelings (1 mark)
 
-1. **Wide Range of Vocabulary and Level of Formality** (1 mark)
-2. **Use of at Least Two Figurative Language Techniques** (2 marks)
-3. **Variety of Sentence Lengths, Types, and Structures** (1 mark)
+- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative.
+- 0.5 marks: Emotions and feelings are mentioned but not well-developed.
+- 0 marks: Emotions and feelings are not included or are poorly expressed.
 
-### Overall Writing Quality (1 Mark)
+### Use precise words or phrases (1 mark)
 
-1. **Clarity and Legibility of Writing** (1 mark)
+- 1 mark: Uses clear, specific, and accurate language to convey ideas.
+- 0.5 marks: Uses some precise language, but there are instances of vague or unclear phrasing.
+- 0 marks: Does not use precise language.
 
-Total: 15 Marks
+### Use at least THREE figurative languages (3 marks)
+
+- 3 marks: Effectively uses at least three examples of figurative language (similes, metaphors, personification, etc.).
+- 2 marks: Uses two examples of figurative language effectively.
+- 1 mark: Uses one example of figurative language.
+- 0 marks: Does not use any figurative language.
+
+### Have a moral (Goal to focus on) (1 mark)
+
+- 1 mark: The story clearly conveys a moral or lesson.
+- 0.5 marks: The story suggests a moral, but it is not clearly developed.
+- 0 marks: The story does not convey a moral or lesson.
+
+### Write with an outstanding idea (3 marks)
+
+- 3 marks: The narrative is creative and engaging, with a compelling plot and original ideas.
+- 2 marks: The narrative has some creative elements but is not fully developed.
+- 1 mark: The narrative is basic and lacks originality.
+- 0 marks: The narrative is unoriginal and unengaging.
+
+_Total Marks:_ \_\_/15

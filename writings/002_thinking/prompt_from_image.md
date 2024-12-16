@@ -1,23 +1,12 @@
 # Image Writing Prompt
 
 {
-  "description": "The image depicts a surreal scene with a pink, hollow head in profile, facing right. The top of the head is open, revealing a dark interior. A yellow line, resembling a cord, extends from the top of the head, looping upward and then branching out to the left and right of the frame. Another segment of the same yellow line originates from the bottom of the head, curving down to connect with an arm and hand. The arm and hand are also pink, holding a gray pencil or pen, and positioned as if writing on the green surface below. The background is divided into two solid colors: a bright blue above the horizon and a textured green below. There are no text elements.",
-  "elements": {
-    "colors": [
-      "pink",
-      "yellow",
-      "gray",
-      "blue",
-      "green",
-       "black"
-    ],
-    "subjects": [
-      "hollow head",
-      "yellow cord",
-      "pink arm and hand",
-      "gray pencil or pen"
-    ]
+  "description": "I see a stylized digital illustration featuring a pink, hollow head in profile view, placed on a green surface that appears to be grass. The top of the head is open, revealing a dark interior. A yellow line, resembling a cord or a flexible tube, is connected to the top center of the head, forming a loop above it before extending out to the sides and disappearing out of frame. This same yellow line emerges from the bottom of the head, curves on the green surface, and connects to a detached arm that is also pink. The arm is holding a gray writing implement or pencil and appears to be writing on the green surface. The background of the image is a flat blue color. The lines are clean, and the colors are flat with no shading, giving it a graphic, almost retro feel.",
+   "elements": {
+      "main_elements": ["pink hollow head", "detached pink arm", "yellow line", "green surface", "blue background"],
+      "colors": ["pink", "yellow", "green", "blue", "gray", "black"],
+      "subjects": ["head", "arm", "writing implement"]
   },
-    "writing_task_requirements": "The writing task requires students to explore themes such as interconnectedness between the mind and body, creativity, self-expression, and possibly the idea of thoughts being externalized or tangible, and the overall surreal and abstract nature of the image allows for various interpretations.",
-    "summary": "This image serves as a prompt by sparking curiosity and imagination through its unusual and symbolic composition. The interplay of disconnected yet connected elements like the hollow head, the yellow cord, and the writing hand invites writers to create narratives, explanations, or interpretations that delve into the relationship between thoughts, creativity, and physical action. It encourages the use of figurative language and metaphorical thinking."
+    "writing_task": "The writing task requires students to explore themes of connection and control, or potentially, the relationship between thought and action. The disconnected but linked body parts suggest a narrative about fragmented identities or the process of creation and expression. The image could be seen as a metaphor for brainstorming, writing and art, where the head produces ideas that flow through to the hand that executes them. The fact that the hand is separated suggests the thought and execution are distinct.",
+    "prompt_summary": "This image serves as a prompt by presenting a surreal scene with symbolic elements. It encourages writers to explore abstract concepts through narrative and metaphor. The visual elements of the disconnected head and hand, the connecting yellow line and the act of writing offer an opportunity to interpret themes of creativity, influence, process, or even disconnection and identity."
 }

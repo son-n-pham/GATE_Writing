@@ -19,70 +19,18 @@ Execute `src/gemini_vision.py` to have the `src/prompt_from_image.md`, then read
 
 ### Required Grading Structure:
 
-1. Content and Ideas (5 points total):
-
-   - Outstanding and Original Idea (1 point)
-   - Interesting Content with Relevant Details (1 point)
-   - Clear Connection to the Given Prompt (1 point)
-   - Moral or Thematic Depth (1 point)
-   - Appropriate Atmosphere Matching the Theme (1 point)
-
-2. Structure and Organization (3 points total):
-
-   - Proper Narrative Structure (1 point)
-   - Coherent Organization of Ideas (1 point)
-   - Interesting and Impactful Ending (1 point)
-
-3. Character and Emotion Development (3 points total):
-
-   - Character Development Using STEAL Characterization (2 points)
-   - Inclusion of Emotions and Feelings (1 point)
-
-4. Language and Style (4 points total):
-
-   - Wide Range of Vocabulary and Level of Formality (1 point)
-   - Use of at Least Two Figurative Language Techniques (2 points)
-   - Variety of Sentence Lengths, Types, and Structures (1 point)
-
-5. Overall Writing Quality (1 point total):
-   - Clarity and Legibility of Writing (1 point)
+Follow strictly the structure of grading_rubric.md
 
 ## 4. Write Feedback into Grading File
 
 - For each student, create or overwrite a grading file in the `current_writing` folder with the filename `grading_{student name}.md`.
-- Use this exact format for the grading file:
+- Structure the feedback with the same template as the grading_rubric.md with explanation and quotation from the writing as the evidence. Remember to have clear explanation with the evidences from the student's writing.
+- Feedback needs to be constructive, relevant and informative for student to learn and improve from their writing and from your excellent feedback.
+
+- Finally, give your opinion for strength and weekness of student's writing as below format.
 
 ```markdown
-### Content and Ideas ([X]/5):
-
-- Outstanding and Original Idea: [Explanation] ([Score]/1)
-- Interesting Content with Relevant Details: [Explanation] ([Score]/1)
-- Clear Connection to the Given Prompt: [Explanation] ([Score]/1)
-- Moral or Thematic Depth: [Explanation] ([Score]/1)
-- Appropriate Atmosphere Matching the Theme: [Explanation] ([Score]/1)
-
-### Structure and Organization ([X]/3):
-
-- Proper Narrative Structure: [Explanation] ([Score]/1)
-- Coherent Organization of Ideas: [Explanation] ([Score]/1)
-- Interesting and Impactful Ending: [Explanation] ([Score]/1)
-
-### Character and Emotion Development ([X]/3):
-
-- Character Development Using STEAL Characterization: [Explanation] ([Score]/2)
-- Inclusion of Emotions and Feelings: [Explanation] ([Score]/1)
-
-### Language and Style ([X]/4):
-
-- Wide Range of Vocabulary and Level of Formality: [Explanation] ([Score]/1)
-- Use of at Least Two Figurative Language Techniques: [Explanation] ([Score]/2)
-- Variety of Sentence Lengths, Types, and Structures: [Explanation] ([Score]/1)
-
-### Overall Writing Quality ([X]/1):
-
-- Clarity and Legibility of Writing: [Explanation] ([Score]/1)
-
-### Total Score: [X]/15
+#### Total Mark: \_\_/15
 
 ### Strengths:
 

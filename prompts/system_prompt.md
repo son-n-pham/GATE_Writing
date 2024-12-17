@@ -30,7 +30,7 @@ Follow strictly the structure of grading_rubric.md
 - Finally, give your opinion for strength and weekness of student's writing as below format.
 
 ```markdown
-#### Total Mark: \_\_/15
+### TOTAL MARKS: \_\_/15
 
 ### Strengths:
 

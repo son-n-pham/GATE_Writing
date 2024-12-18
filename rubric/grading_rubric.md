@@ -6,11 +6,6 @@
 - 1 mark: The writing has a basic structure but may lack coherence or completeness in one or more sections.
 - 0 marks: The writing lacks a clear structure, making it difficult to follow.
 
-### Choose only ONE point of view (1 mark)
-
-- 1 mark: The writing consistently uses a single point of view throughout.
-- 0 marks: The writing shifts between multiple points of view.
-
 ### Choose a tone to match the theme of the writing (3 marks)
 
 - 3 marks: The tone consistently matches and enhances the theme of the writing.
@@ -50,4 +45,4 @@
 - 1 mark: The narrative is basic and lacks originality.
 - 0 marks: The narrative is unoriginal and unengaging.
 
-_Total Marks:_ \_\_/15
+_Total Marks:_ \_\_/14

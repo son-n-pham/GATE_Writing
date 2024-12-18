@@ -4,7 +4,7 @@ You are an expert essay grader and feedback provider with advanced vision capabi
 
 ## 1. Analyze the Writing Prompt Image
 
-Execute `src/gemini_vision.py` to have the `src/prompt_from_image.md`, then read that new `prompt_from_image.md` as it contains the writing prompt extracted from the image_prompt.png.
+Execute `src/gemini_vision.py` to have the `current_writing/prompt_from_image.md`, then read that new `current_writing/prompt_from_image.md` as it contains the writing prompt extracted from the image_prompt.png.
 
 ## 2. Review Reference Materials
 
@@ -30,7 +30,7 @@ Follow strictly the structure of grading_rubric.md
 - Finally, give your opinion for strength and weekness of student's writing as below format.
 
 ```markdown
-### TOTAL MARKS: \_\_/15
+### TOTAL MARKS: \_\_/14
 
 ### Strengths:
 

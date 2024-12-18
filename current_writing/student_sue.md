@@ -1,21 +1,29 @@
-Their feet patter down against the wash of pink and gold reflected on the flooded sand, the flat landscape awash, blushing a rosy sheen as far as the eye can see. Boats splash, whipping up flecks of water as Tommy scampers after his sister, freshly picked molluscs rattling in his plastic bucket.
+The sky is a blanket, a thick swath of grey and white. The air is cold and crisp, a breeze that lifts the edge of my patched cloak, stinging the exposed skin.
 
-Lisa walks, prim and straight-backed, taking quick, long strides leaving shallow shoeprints in the sand.
+My fingers are cold and red with rash, knuckles swollen and clenched tight around the leather straps of the reins.
 
-The sun is a pale white circle against the hazy clouds, light and soft as rose petals. My fingers are stiff with salt and reddened from a day's work as they clutch the long pole-net.
+Corin lets out a low huff of exhaustion, hooves clopping and crunching against the undergrowth of sticks and leaves. He's slowed to a trot as he navigates through the trees, long grey ears lying flat on his head.
 
-"Don't go too far!" I call, trying my best to sound stern, motherly. My voice is small and strained as if even that shout had caused it to brush the limits of my vocal range.
+"Just hold on," I manage through gritted teeth, my breath loosening the hard dig of my feet in Corin's side. "Nearly there."
 
-The sand is like dirt, dark, purplish streaks against the water reflecting the sunlight lapping gently and leaving trails of barely leaving any foam in its wake.
+My thighs, legs, back ache from sitting straight in a saddle for so long. I'll have sores from this, I can tell without looking.
 
-Tommy cackles, rolling his eyes and making a comment about how everything was so flat, I would be able to see anything a mile away.
+The castle is in our sights, a structure rising above the pines, white and grey and covered in hundreds of square windows. Nearly there.
 
-"The world is round as an orange," Lisa lifts her head and peers down at Tommy. "It's not flat."
+The trees are thickening by the base of the hill, too close together to ride up on donkey-back. My dismounting is more of a fall and for a few moments, I lay groaning, mouth tasting of dirt, legs tangled in my cape. A ridiculous brown thing that kept me moderately warm and always tripped me up.
 
-Tommy's face splits into a gap-toothed smile, seaweed showing in his teeth. "Flat as a stingray."
+Corin chews morosely on a shoot of grass protruding from a tree root as I drag myself up on two feet.
 
-I let them argue. Their chatter fills the empty silence. Even the breeze makes no sound. I scan the endless horizon, the shimmering waves white.
+The trees ahead of me do not look inviting, leaves knotted so close together the sky is barely visible through the canopy.
 
-I should tell them to stop. Should tell them the truth, what is real and what is not. But I am not their mother, and the news will only bring them distress.
+A responsible traveller would move around to the other side of the forest, take the more hospitable route to the castle entrance.
 
-So I let them run along the rose-streaked shore, until the end of time.
+But I am neither responsible or a traveller. I am a messenger, tied to a time limit that could make or break my life.
+
+I pull the bags off Corin, remove the saddle and let it drop uselessly to the ground.
+
+"Go," I tell him. "You're a good donkey."
+
+Corin flicks his tail, disinterested, and turns to eat a daisy.
+
+I move my gaze back, up, to the castle. At the trees. I sling my rucksack over my shoulder and begin to hike.

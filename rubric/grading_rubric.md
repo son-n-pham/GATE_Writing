@@ -45,4 +45,4 @@
 - 1 mark: The narrative is basic and lacks originality.
 - 0 marks: The narrative is unoriginal and unengaging.
 
-_Total Marks:_ \_\_/14
+_Total Marks:_ \_\_/14 (\_\_%)

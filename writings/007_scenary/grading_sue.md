@@ -1,54 +1,56 @@
+## Grading for Sue's Essay
+
 ### Write in a proper structure (2 marks)
 
-- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion.
-  - The writing has a clear introduction, body, and conclusion. The introduction sets the scene and introduces the character, the body describes the journey and the approach to the castle, and the conclusion sets up the next action.
+- The writing is well-organized with a clear beginning describing the journey, a middle focused on reaching the castle, and an end detailing the dismounting and continued approach. The narrative flows logically and is easy to follow.
+- Evidence: The essay progresses from "The sky is a blanket" to the arrival at the castle ("The castle is in our sights") and finally the decision to proceed on foot.
 
 ### Choose a tone to match the theme of the writing (3 marks)
 
-- 3 marks: The tone consistently matches and enhances the theme of the writing.
-  - The tone is consistently descriptive and slightly melancholic, which matches the theme of a journey to a castle on a cloudy day.
+- The tone consistently matches the theme of a challenging journey. It evokes feelings of cold, exhaustion, and determination, enhancing the reader's immersion in the narrative.
+- Evidence: Phrases like "My fingers are cold and red with rash," "My thighs, legs, back ache," and "tied to a time limit that could make or break my life" contribute to the tone.
 
 ### Include emotions and feelings (1 mark)
 
-- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative.
-  - The author clearly expresses feelings of exhaustion, discomfort, and determination, adding depth to the narrative.
+- Emotions and feelings are clearly expressed throughout the essay, adding depth to the narrative. The reader can feel the messenger's physical discomfort and resolve.
+- Evidence: "My fingers are cold and red with rash, knuckles swollen and clenched tight" and "Just hold on," I manage through gritted teeth" show physical discomfort and determination.
 
 ### Use precise words or phrases (1 mark)
 
-- 1 mark: Uses clear, specific, and accurate language to convey ideas.
-  - The author uses precise words and phrases such as "patched cloak", "knuckles swollen", "morosely", and "hospitable route" to convey their ideas effectively.
+- The essay employs precise and sensory language to create vivid imagery. Words like "crisp," "clenched," "clopping," and "crunching" provide specific details that engage the reader's senses.
+- Evidence: "The air is cold and crisp," "hooves clopping and crunching against the undergrowth," and "mouth tasting of dirt" are examples of precise language.
 
 ### Use at least THREE figurative languages (3 marks)
 
-- 2 marks: Uses two examples of figurative language effectively.
-  - The author uses two examples of figurative language: "The sky is a blanket" (metaphor) and "The trees are thickening by the base of the hill, too close together to ride up on donkey-back" (personification).
+- The essay effectively uses three examples of figurative language:
+  - Metaphor: "The sky is a blanket, a thick swath of grey and white."
+  - Personification: "Corin chews morosely on a shoot of grass."
+  - Metaphor: "The trees are thickening by the base of the hill, too close together to ride up on donkey-back."
+- Evidence: These examples enhance the descriptions and add depth to the writing.
 
-### Have a moral (Goal to focus on) (1 mark)
+### Have a moral (Goal to focus on) (0.5 marks)
 
-- 0.5 marks: The story suggests a moral, but it is not clearly developed.
-  - The story suggests a moral about perseverance and determination, but it is not explicitly stated.
+- The story suggests a moral of perseverance, as the messenger continues despite the hardships. However, it is not explicitly stated or fully developed.
+- Evidence: The messenger's determination to reach the castle despite physical discomfort implies a message of perseverance.
 
-### Write with an outstanding idea (3 marks)
+### Write with an outstanding idea (2.5 marks)
 
-- 2 marks: The narrative has some creative elements but is not fully developed.
-  - The narrative is creative and engaging, with a vivid description of the journey and the setting. However, the idea could be further developed with more details about the messenger's mission and the castle.
+- The narrative of a messenger's arduous journey to the castle is engaging and original. The focus on the physical challenges and the messenger's determination creates a compelling story.
+- Evidence: The detailed description of the journey and the messenger's internal thoughts make the narrative engaging.
 
-### TOTAL MARKS: 11.5/14
+### TOTAL MARKS: 12/14 (86%)
 
 ### Strengths:
 
-- Clear structure with a defined introduction, body, and conclusion.
-- Consistent and appropriate tone.
-- Clear expression of emotions and feelings.
-- Precise word choices to convey ideas.
-- Good use of figurative language.
+- Consistent and effective tone that matches the theme.
+- Vivid and precise language that creates strong sensory imagery.
+- Good use of figurative language to enhance descriptions.
 
 ### Areas for Improvement:
 
-- Include at least three examples of figurative language.
-- Clearly develop the moral or lesson of the story.
-- Further develop the creative ideas with more details about the messenger's mission and the castle.
+- Consider developing the moral of the story more explicitly. While perseverance is implied, making it clearer could strengthen the narrative's impact.
+- Explore adding more detail to the setting or the messenger's motivations to further enrich the story.
 
 ### Overall Assessment:
 
-Sue's essay demonstrates a good understanding of structure, tone, and descriptive writing. The essay is engaging and creative, but could benefit from additional figurative language, a clearer moral, and further development of the plot.
+Sue's essay is a well-written and engaging narrative that effectively uses descriptive language and figurative language to bring the scene to life. The consistent tone and focus on the messenger's challenging journey create a compelling read. Developing the underlying moral could further enhance the essay.

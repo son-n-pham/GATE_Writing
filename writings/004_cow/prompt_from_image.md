@@ -1,22 +1,13 @@
 # Image Writing Prompt
 
 {
-  "description": "The image depicts a group of five people playing cellos in what appears to be a barn. The people are positioned in the center and right side of the image, with their cellos angled toward the left. They are dressed in formal attire, with three of the women wearing long dresses (one black and two red), and two men in dark suits with bowties. Their faces show expressions of concentration and enjoyment while playing their cellos. In the foreground and left side, there are several cows with brown and white coats, their heads turned slightly towards the musicians. The setting is rustic, with a large stack of hay bales in the background, and the ground is covered in straw. The lighting suggests a natural indoor setting. There is text at the top of the image that reads 'Cows and Cellos.'",
-  "main_elements": {
-    "subjects": [
-      "five people playing cellos",
-      "cows",
-       "hay bales"
-    ],
-    "colors": [
-      "brown",
-      "white",
-      "black",
-      "red",
-      "gold"
-    ],
-    "text": "Cows and Cellos"
+  "description": "The image depicts a group of five people playing cellos in what appears to be a barn. Four of them are positioned in a row with their cellos, while the fifth person sits on a bale of hay, slightly in front of them, also with a cello. The cellists are formally dressed; two men wear black tuxedos with bow ties and the three women are wearing long gowns in black and red. In the foreground of the image are the heads of several brown and white cows, partially obscuring the view. The background consists of hay bales and the wooden walls of the barn. The overall color palette is dominated by browns, whites, and reddish-browns, with pops of black, and red and touches of gold in the hay. The lighting suggests an indoor setting with natural light.",
+  "elements": {
+    "main_elements": ["cellists","cows", "hay bales","barn","cellos"],
+    "colors": ["brown", "white", "red", "black", "gold"],
+     "subjects": ["people playing cellos", "cows", "barn"],
+    "text_visible": ["Cows and Cellos"]
   },
-  "writing_task_requirements": "The writing task requires students to create a narrative or descriptive piece that blends the seemingly disparate elements of a formal music performance and a rustic barn setting, including the presence of cows as an audience. This could involve exploring the juxtaposition of the formal musicians and their elegant cellos with the rustic surroundings, including the cows. Students might be prompted to imagine the story behind this unusual scene. Also, it may ask to create a narrative about the impact of the music to the animals.",
-  "prompt_summary": "This image serves as a prompt by presenting a unique and unexpected scenario that stimulates creativity. It invites writers to explore themes of contrast, harmony, and the unusual. The image's combination of formal elements (musicians, cellos, elegant attire) with rustic elements (cows, hay, barn) provides a compelling starting point for a narrative or descriptive piece. It allows for creative exploration of tone, setting, characters, and events, and encourages writers to consider how these disparate elements interact and influence each other."
+  "writing_task_requirements": "The image suggests a contrast between the formal setting of classical music and the rustic, informal setting of a barn with farm animals. A writing prompt could require students to explore this contrast, consider the reactions of the cows to the music, or to imagine a narrative around how this unusual scenario came to be.",
+    "summary": "This image serves as a prompt by creating an unexpected and visually stimulating juxtaposition of classical musicians playing in a barn, surrounded by farm animals. This offers many possibilities for writing, from creating humorous stories to exploring the themes of culture, nature, and the unexpected. The image is highly evocative and prompts imagination."
 }

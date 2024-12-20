@@ -1,45 +1,48 @@
-### Content and Ideas (4/5):
+## Marking Rubric
 
-- Outstanding and Original Idea: The idea is not particularly original, but it is well-executed and relevant to the prompt. (1/1)
-- Interesting Content with Relevant Details: The content is interesting and includes relevant details. (1/1)
-- Clear Connection to the Given Prompt: The story is clearly connected to the prompt. (1/1)
-- Moral or Thematic Depth: There is no clear moral or thematic depth. (0/1)
-- Appropriate Atmosphere Matching the Theme: The atmosphere is suspenseful and matches the theme. (1/1)
+### Write in a proper structure (2 marks)
 
-### Structure and Organization (3/3):
+- **2 marks**: The writing is well-organized with a clear introduction, body, and conclusion. The essay effectively sets the scene with the character's suspicion, builds tension through the identification of the "spies," and concludes with the surprising reveal of the capture the flag game.
 
-- Proper Narrative Structure: The story has a clear narrative structure. (1/1)
-- Coherent Organization of Ideas: The ideas are well-organized and coherent. (1/1)
-- Interesting and Impactful Ending: The ending is interesting and somewhat impactful. (1/1)
+### Choose a tone to match the theme of the writing (3 marks)
 
-### Character and Emotion Development (3/3):
+- **3 marks**: The tone is consistently suspenseful throughout the essay, perfectly aligning with the "Mystery & Suspense" theme. The use of short, impactful sentences and the character's internal monologue effectively create tension and keep the reader engaged.
 
-- Character Development Using STEAL Characterization: The main character is developed using STEAL. (2/2)
-- Inclusion of Emotions and Feelings: Emotions and feelings are clearly expressed. (1/1)
+### Include emotions and feelings (1 mark)
 
-### Language and Style (3/4):
+- **1 mark**: The character's emotions and feelings are clearly expressed, adding depth to the narrative. Examples include the initial paranoia ("I think I'm being watched"), the rising panic ("My pulse spikes"), and the final frustration ("Crap! Not again.").
 
-- Wide Range of Vocabulary and Level of Formality: The vocabulary is good and the level of formality is appropriate. (1/1)
-- Use of at Least Two Figurative Language Techniques: There are some figurative language techniques used, such as "eyes shadowed by sleek black shades". (1/2)
-- Variety of Sentence Lengths, Types, and Structures: There is a good variety of sentence lengths and structures. (1/1)
+### Use precise words or phrases (1 mark)
 
-### Overall Writing Quality (1/1):
+- **1 mark**: The writing demonstrates the use of precise and descriptive language. Phrases like "hiss out of the corner of my mouth," "surreptitiously with the sound button," and "billowing exhaust fumes" create vivid imagery and enhance the reader's understanding.
 
-- Clarity and Legibility of Writing: The writing is clear and legible. (1/1)
+### Use at least THREE figurative languages (3 marks)
 
-### Total Score: 14/15
+- **3 marks**: The essay effectively incorporates at least three examples of figurative language:
+  - Imagery/Idiom: "I hiss out of the corner of my mouth" - This creates a vivid image of secretive communication.
+  - Imagery: "eyes shadowed by sleek black shades" - This descriptive phrase adds to the mysterious atmosphere of the spies.
+  - Personification: "A black car screams down the road" - Giving the car the human action of screaming intensifies the action and suspense.
+
+### Have a moral (Goal to focus on) (1 mark)
+
+- **1 mark**: The story implicitly conveys a moral about the deceptive nature of appearances and the importance of understanding the full context of a situation. The intense focus on "spying" ultimately leads to the realization that it was just a game.
+
+### Write with an outstanding idea (3 marks)
+
+- **3 marks**: The narrative showcases an outstanding and original idea. The compelling plot twist, revealing the spying scenario to be a capture the flag game, is both creative and effectively executed. The essay masterfully uses spy genre conventions and then subverts them to create a surprising and satisfying conclusion.
+
+### TOTAL MARKS: 14/14 (100%)
 
 ### Strengths:
 
-- Clear connection to the prompt
-- Strong narrative structure
-- Good character development
-- Good use of emotion and suspense
-- Good vocabulary and sentence structure
+- Consistent and effective use of suspenseful tone.
+- Precise and descriptive language that creates vivid imagery.
+- Creative and original idea with a well-executed plot twist.
 
 ### Areas for Improvement:
 
-- Include more figurative language techniques
-- Add a moral or thematic depth
+- None apparent. The essay is well-written and effectively addresses the prompt.
 
-### Overall Assessment: The essay is well-written, engaging, and relevant to the prompt. It has a strong narrative structure, good character development, and a good use of emotion and suspense. It could be improved by including more figurative language techniques and adding a moral or thematic depth.
+### Overall Assessment:
+
+Sue's essay is an excellent example of creative writing that effectively utilizes suspense and misdirection. The narrative is well-structured, the language is precise, and the plot twist is both surprising and satisfying. The essay demonstrates a strong understanding of the mystery and suspense genre and successfully fulfills the requirements of the prompt.

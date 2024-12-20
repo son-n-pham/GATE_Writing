@@ -1,47 +1,48 @@
-## Grading for Sue
+### Write in a proper structure (2/2)
 
-### Write in a proper structure (2 marks)
+Excellent structure with a clear introduction immersing the reader in the game, a tense and action-filled body, and a concluding moment of defeat and disqualification.
 
-- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion. The introduction sets the scene, the body describes the events, and the conclusion provides a resolution.
+### Choose a tone to match the theme of the writing (3/3)
 
-### Choose a tone to match the theme of the writing (3 marks)
+The tone is consistently intense and action-packed, perfectly matching the fast-paced environment of a video game. Words like "pounding," "dodging," "scuttle," and "hiss" contribute to this feeling.
 
-- 3 marks: The tone consistently matches and enhances the theme of the writing. The calm and detached tone is consistent with the surreal and dreamlike nature of the prompt.
+### Include emotions and feelings (1/1)
 
-### Include emotions and feelings (1 mark)
+Emotions are effectively conveyed, such as the player's urgency when being followed ("I grit my teeth, urging my legs to go faster") and the frustration and disappointment at being defeated ("I stare at the screen... All that built-up XP, all for nothing.").
 
-- 0.5 marks: Emotions and feelings are mentioned but not well-developed. The narrator mentions feeling "nothing at all" which is a valid emotion, but it could be explored further to add more depth to the narrative.
+### Use precise words or phrases (1/1)
 
-### Use precise words or phrases (1 mark)
+Precise language is used to create vivid imagery, such as "clenching my rifle in tight fists," "bin overflowing with foul-looking bags of rubbish," and "gunfire that tears chunks out of the pavement."
 
-- 1 mark: Uses clear, specific, and accurate language to convey ideas. For example, "near pitch-darkness" and "spiderweb of cracks" are vivid and precise.
+### Use at least THREE figurative languages (3/3)
 
-### Use at least THREE figurative languages (3 marks)
+Good use of figurative language enhances the action:
 
-- 2 marks: Uses two examples of figurative language effectively.
-  - "spiderweb of cracks spread, like lines of infection" (simile)
-  - "The metal redacted, punched through again. It sawed, drawing and shearing back and forth in sharp breaths." (personification)
+- "pounding through the streets of Opus" - _Personification_ gives the streets a sense of being actively traversed.
+- "dodging the cars as they streak down the packed road" - _Simile_ compares the fast movement of cars to streaks.
+- "A sudden explosion rattles the buildings" - _Personification_ makes the explosion feel more impactful.
 
-### Have a moral (Goal to focus on) (1 mark)
+### Have a moral (Goal to focus on) (0/1)
 
-- 0.5 marks: The story suggests a moral, but it is not clearly developed. The story hints at accepting the unexpected, but this could be made more explicit.
+While the story is engaging, it doesn't clearly convey a moral or lesson. The focus is primarily on the action and the immediate experience of the game.
 
-### Write with an outstanding idea (3 marks)
+### Write with an outstanding idea (3/3)
 
-- 2 marks: The narrative has some creative elements but is not fully developed. The calm reaction to the bizarre event is interesting, but the story could be more engaging with a more developed plot or character motivations.
+The narrative is creative and immersive, placing the reader directly into the high-stakes environment of the game. The sequence of events is exciting and easy to visualize.
 
-### TOTAL MARKS: 11/14 (79%)
+### TOTAL MARKS: 13/14 (93%)
 
 ### Strengths:
 
-- Strong and consistent tone that matches the theme.
-- Clear and precise language with vivid descriptions.
-- Good use of figurative language.
+- Excellent use of structure to create a compelling narrative.
+- Consistent and effective tone that matches the theme.
+- Strong incorporation of action and precise language.
 
 ### Areas for Improvement:
 
-- Explore emotions more deeply to add more depth to the narrative.
-- Develop the moral of the story more clearly.
-- Consider adding more engaging plot elements or character motivations.
+- Consider adding a moral or lesson to the story. This could be about teamwork, the consequences of actions, or dealing with defeat.
+- While emotions are present, exploring the internal thoughts and reactions of the character more deeply could add further depth.
 
-### Overall Assessment: Sue's essay is a well-written piece that effectively captures the surreal and dreamlike nature of the prompt. The calm and detached tone, along with the use of precise language and figurative language, make it a compelling read. However, the essay could be improved by exploring emotions more deeply, developing the moral more clearly, and adding more engaging plot elements.
+### Overall Assessment:
+
+Sue has written a dynamic and engaging piece that effectively captures the intensity of a video game scenario. The writing is well-structured, and the use of language creates a vivid experience for the reader. Focusing on incorporating a clear moral could elevate the story further.

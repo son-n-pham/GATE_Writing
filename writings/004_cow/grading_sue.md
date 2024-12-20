@@ -1,45 +1,48 @@
-### Write in a proper structure (2/2):
+### Write in a proper structure (2 marks)
 
-- The writing is well-organized with a clear introduction, body, and conclusion.
+- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion.
+  - Explanation: The essay has a clear structure with a beginning, middle, and end. It's written from the perspective of a cow, which is a unique approach. The story flows logically, describing the scene and the cow's reactions to the music and the humans.
 
-### Choose only ONE point of view (1/1):
+### Choose a tone to match the theme of the writing (3 marks)
 
-- The writing consistently uses a single point of view throughout.
+- 3 marks: The tone consistently matches and enhances the theme of the writing.
+  - Explanation: The tone is consistent throughout the essay, conveying a sense of unease and subtle rebellion from the cow's perspective.
 
-### Choose a tone to match the theme of the writing (3/3):
+### Include emotions and feelings (1 mark)
 
-- The tone consistently matches and enhances the theme of the writing.
+- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative.
+  - Explanation: The essay effectively conveys the cow's emotions, including discomfort, annoyance, and a sense of being trapped. The cow's disdain for the humans and their music is palpable.
 
-### Include emotions and feelings (1/1):
+### Use precise words or phrases (1 mark)
 
-- Emotions and feelings are clearly expressed, adding depth to the narrative.
+- 1 mark: Uses clear, specific, and accurate language to convey ideas.
+  - Explanation: The essay uses precise and evocative language, such as "low, warm drawl," "tasteless crackle," "thrumming keen," and "unpleasant crescent shape." These phrases create vivid imagery and enhance the reader's understanding of the cow's experience.
 
-### Use precise words or phrases (1/1):
+### Use at least THREE figurative languages (3 marks)
 
-- Uses clear, specific, and accurate language to convey ideas.
+- 3 marks: Effectively uses at least three examples of figurative language (similes, metaphors, personification, etc.).
+  - Explanation: The essay includes several examples of figurative language: "My ears flick as if to ward off the noise" (simile), "hay dry and a tasteless crackle of stalks against my teeth" (metaphor), "The cellos groan" (personification).
 
-### Use at least THREE figurative languages (3/3):
+### Have a moral (Goal to focus on) (1 mark)
 
-- Effectively uses at least three examples of figurative language (similes, metaphors, personification, etc.). Examples include: "the low, warm drawl of pulled horse-hair dragging across strings," "hay dry and a tasteless crackle of stalks against my teeth," and "lips pulled in upturned smiles, leering."
+- 1 mark: The story clearly conveys a moral or lesson.
+  - Explanation: The story suggests a moral about the clash between nature and culture, and the potential for rebellion against imposed norms. The ending hints at a planned disruption, which adds a layer of complexity.
 
-### Have a moral (Goal to focus on) (1/1):
+### Write with an outstanding idea (3 marks)
 
-- The story clearly conveys a moral or lesson.
+- 3 marks: The narrative is creative and engaging, with a compelling plot and original ideas.
+  - Explanation: The narrative is highly creative and original, presenting the scene from the perspective of a cow. The plot is engaging, and the ending is intriguing.
 
-### Write with an outstanding idea (3/3):
-
-- The narrative is creative and engaging, with a compelling plot and original ideas.
-
-#### Total Mark: 15/15
+### TOTAL MARKS: 14/14 (100%)
 
 ### Strengths:
 
-- Original and creative perspective.
-- Sophisticated language and vocabulary.
-- Excellent use of figurative language.
+- The story is highly creative and original, told from the perspective of a cow.
+- The tone is consistent and effectively conveys the cow's emotions and perspective.
+- The essay uses precise and evocative language to create vivid imagery.
 
 ### Areas for Improvement:
 
-- None
+- There are no significant areas for improvement. The essay is well-written and meets all the criteria.
 
-### Overall Assessment: Sue's essay is an outstanding piece of writing with a unique perspective, sophisticated language, and excellent use of figurative language. The story is engaging, well-structured, and leaves a lasting impression.
+### Overall Assessment: Sue's essay is an outstanding piece of writing that demonstrates creativity, technical skill, and a strong understanding of the writing prompt. The unique perspective, evocative language, and engaging plot make it a compelling and memorable read.

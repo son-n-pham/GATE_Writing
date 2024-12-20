@@ -1,25 +1,43 @@
-I think I had the most peculiar dream. The room was clean, well-made as always. The bed was a touch too stiff against my back, the pillows flat, the blanket thin. It was hot; I was wearing a sleeveless blouse and had pulled my hair back into a loose braid for the night. I really didn’t need the blanket, but an old childish superstition had crept up on me since I was young, claiming that if I were to sleep with covers off, a monster would crawl under the door and lop off my toes. It was an irrational thought, but one I followed nevertheless.
+I'm pounding through the streets of Opus, dodging the cars as they streak down the packed road. Clenching my rifle in tight fists, I scuttle along the edge of the foot of the skyscraper, around a tree and into a dimly lit alleyway.
 
-The bed was large and empty. I was waiting for my husband to return from his late shift. My eyes strained in the near pitch-darkness; my room had no windows for the moon’s light to slide through. I could just distinguish the corners of the slanted ceiling, the ghost-like afterimage of the lights, the rectangular shadow of the cupboard. A slight ringing overtook my ears. My eyelids closed.
+My headpiece buzzes and Leander's voice crackles in my ear.
 
-I woke to a scratching sound. A rough scraping that struck through solid brick and grated against my eardrums, shaking the very foundations of the house.
+"Lead to team B, meet at the 23rd square. Lie low, don't shoot unless you have to."
 
-I might have been frightened—I should have been—but instead I felt nothing at all, as if this was as normal as my husband returning from work.
+"Copy," I whisper back as I break into a fast run, scaling up a wall to leap over a bin overflowing with foul-looking bags of rubbish.
 
-I sat up, and watched. Waited.
+I move, spurring my legs into motion, kicking up pebbles in my wake.
 
-The ceiling cracked. Something sharp and metal stabbed down, right through it, raining down chunks of plaster and dust. The spiderweb of cracks spread, like lines of infection. A grinding crunch. The metal redacted, punched through again. It sawed, drawing and shearing back and forth in sharp breaths. I watched it move.
+A flicker of something catches the edge of my vision and I swing my gaze around for just a moment—a blur of someone blue tailing me a street away.
 
-Bricks tumbled down from the gaping hole, letting moonlight spill forth onto my bed in a pool. A giant shard of rock narrowly missed my knee.
+Shoot.
 
-I watched, calmly, expressionless as a figure poked their head through the hole in the roof. Their face a shadowed, silhouetted against the stars. They held a great saw in their right hand, blade ragged and dusted, glinting bright.
+"I'm being followed," I hiss into the speaker.  
+"Nightjar speaking, I'm being followed."
 
-They climbed down, stood perfectly balanced on the edge of the bed. Now, I could see them. A tall man, hairy, thick arms and sporting a pair of brown overalls. I could see the crescent-shaped moon in the hole he had created.
+Someone swears on the other end. I grit my teeth, urging my legs to go faster, angling my gun in the direction of my pursuer.
 
-"Hello," I said politely.
+"What colour?" Leander demands.
 
-"Sorry for the bother," he’d replied. "I’ll be on my way."
+"Blue," I say.
 
-I’d nodded, understandingly, and watched him leave.
+I hear him swear again.
 
-When I woke the next morning, I decided it had all been a vivid dream. Except the hole was still there, gaping at me from the roof.
+"Keep running."
+
+I do. I can see the edges of trees that trace 22nd square, but I am beginning to tire, steps slowing.
+
+A sudden explosion rattles the buildings and a blinding burst of light. I'm thrown to the ground in a rush. Someone shouts into the headset, but I can't hear them against the onslaught of gunfire that tears chunks out of the pavement.
+
+I duck and roll, firing shots over my shoulder that go wide. A black car swerves—dangerously close to hitting me.
+
+Something catches me full in the chest—my avatar staggers and keels over.  
+Dead.
+
+I stare at the screen, at the rising smoke and crumpled form. All that built-up XP, all for nothing.
+
+Leander shouts, hurling insults at Team A, his voice ringing on my headphones. He stabs his middle finger in the air and screams a string of profanities.
+
+I slam my fists on the keyboard as a gaming organiser taps me on the shoulder with an apologetic smile.
+
+"Team B has been disqualified."

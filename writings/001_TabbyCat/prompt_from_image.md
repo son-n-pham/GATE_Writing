@@ -1,12 +1,39 @@
 # Image Writing Prompt
 
 {
-  "description": "The image shows a domestic interior with a cat as the central subject. The cat is sitting in a blue armchair and using a silver Samsung laptop. It is wearing glasses, which gives it an intellectual appearance. The room has yellow floral wallpaper, a small wooden side table with a lamp and a mug on top of it, and a folded newspaper beneath it, and several framed photos of cats hanging on the wall. On the floor there is a pair of green slippers. The cat is a tabby cat with brown and black markings, and the room is lit with a warm light, likely from the lamp on the side table. The wall hanging includes four pictures in brown frames. One picture is of a gray kitten, one is of two cats snuggling, one is of the main cat wearing a captain's hat, and the fourth one is of the main cat wearing a blond wig.",
-  "main_elements": {
-    "subjects": ["A cat", "Armchair", "Laptop", "Side table", "Lamp", "Mug", "Newspaper", "Slippers", "Framed photos"],
-    "colors": ["Blue", "Yellow", "Silver", "Brown", "Green", "Gray"],
-    "text": ["SAMSUNG"]
-  },
-  "writing_task_requirements": "The writing task requires students to imagine a narrative based on the image. They might need to create a story about the cat, what it's doing on the laptop, its role in the house, or the kind of personality it has. The image could also be used to write a creative piece about the domestic life of cats, or a fictional story about the cat’s background story as hinted by the framed pictures on the wall.",
-  "prompt_summary": "This image serves as a prompt by offering a whimsical and unusual scene that blends the mundane (a cat using a laptop) with the quirky (framed pictures of the cat in costumes and accessories). It encourages writers to think creatively, develop characters, and create narratives that play with the unusual elements presented in the scene. The setup of the room implies a normal life setting, but the cat being the active protagonist makes it funny."
+  "image_description": "The image shows a cat wearing glasses sitting in a blue armchair, using a laptop. The room has a yellow wallpaper with a small floral pattern. On the wall, there are four framed pictures of cats. One cat in a frame is wearing a captain hat, another has a blonde wig, another frame shows a kitten and the last one shows two cats. There is a brown end table next to the chair with a white mug, a green lamp and a small piece of mail on top. Under the end table, a newspaper is on the shelf. There are green slippers on the brown carpet in front of the armchair. The laptop is a Samsung brand and is silver. The cat is brown with black stripes. The room is well-lit with warm tones, suggesting a cozy indoor setting.",
+   "main_elements": [
+    "a cat with glasses",
+    "a blue armchair",
+    "a laptop",
+    "four framed pictures of cats",
+    "a brown end table",
+    "a white mug",
+    "a green lamp",
+        "a piece of mail",
+        "a newspaper",
+        "green slippers",
+        "brown carpet",
+        "yellow wallpaper with a floral pattern"
+   ],
+   "colors": [
+     "blue",
+     "yellow",
+     "brown",
+      "green",
+      "white",
+      "silver",
+      "black"
+    ],
+  "subjects": [
+    "a cat",
+    "furniture",
+    "domestic objects",
+    "wall art"
+  ],
+  "text_visible": [
+   "SAMSUNG"
+   ],
+  "writing_task_requirements": "The writing task requires students to create a story about the cat and the setting shown in the image. Students can use creative writing skills to imagine the cat's activities and the purpose of the laptop. It may also require them to interpret the image's message and imagine any hidden scenarios.",
+  "prompt_summary": "The image serves as a prompt by providing a humorous scene with anthropomorphic elements, such as the cat using a laptop and wearing glasses. It encourages creative writing by allowing students to imagine the cat's life, thoughts, and goals based on the elements present, such as the technology, framed portraits, cozy furniture, and overall domestic setting. It invites the writers to explain the story behind the cat's behavior, environment, and implied personality, sparking imagination and storytelling potential. The prompt is a good base for a short story or character study."
 }

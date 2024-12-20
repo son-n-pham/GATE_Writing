@@ -1,15 +1,11 @@
-Hestia looked around at her little bedroom. It was a modest little room that had everything except a view. Every night she would gaze longingly at the empty space of tedious grey paint. She felt itchy looking at the uneven paint swirls.
+The rest of the world was blocked out like a thick blanket that had been thrown over Jamie and his laptop. Gunfire exploded as Jamie drove his car, swerving around sharp corners and ramming into police officers. His fire-engine red Cadillac was a blur. Sirens wailed and screamed, but the finish line was right there.
 
-Hestia couldn't sleep. She felt like she was trapped in a wooden box. No air, no view. At the same time, she felt irritated that she was so worried about a little petty problem. With a burst of annoyance, she called a builder to build a window.
+WHAM!
 
-He came surprisingly quickly, knocking on the front door. He had on blue, dirty overalls, and steel-capped boots. His hair was a black ball of wool glued to his round head.
+A battered blue police car rammed against Jamie's expensive red car. CAUGHT! The big red words danced across the screen, taunting him. He quickly checked his inventory. His luxurious scarlet Cadillac was gone! He banged his fist on the desk. His bold and brash move had sealed the loss of his well-earned car!
 
-Hestia led the builder to her room.
-"Can you put a window? Some where?" she asked, gesturing around to her.
-The builder grinned and rubbed his hands together. Whipping out a vicious-looking saw, he proceeded to cut open the ceiling! Dust danced through the air and rested on Hestia's dark curly hair. Her mouth was opening and closing, but no sound came out.
+Jamie slammed his laptop shut and tore off his headphones. He swore he would never play a video game again. He ruffled his red hair and cracked his neck from side to side.
 
-She gazed up at the hole in the roof. The moonlight bathed her dark skin. The builder looked at her.
-"Do you like it?" he asked uncertainly.
-"It's weird..." Hestia whispered hoarsely. "But it's wonderful!"
-The stars twinkled above her. The moon glowed against the canvas of midnight black that was the sky. Hestia couldn't have asked for a better view.
-"Thank you," she said.
+He looked around and saw everybody else was totally absorbed in their video games. "They're all just wasting their time," he thought. He stood up and stretched. He looked outside. The sky was a pure and brilliant blue. The cool breeze ruffled the green grass blades. He couldn't wait for the grass to grow.
+
+"I might go outside instead," he said, grinning.

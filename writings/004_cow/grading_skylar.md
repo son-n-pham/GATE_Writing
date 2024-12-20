@@ -1,47 +1,49 @@
-### Write in a proper structure (2/2):
+### Write in a proper structure (2 marks)
 
-- The writing is well-organized with a clear introduction, body, and conclusion.
+- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion.
+  - Explanation: The essay has a clear beginning, middle, and end. The story flows logically, with a clear introduction of the problem, the attempt to solve it, and the final resolution.
 
-### Choose only ONE point of view (1/1):
+### Choose a tone to match the theme of the writing (3 marks)
 
-- The writing consistently uses a single point of view throughout.
+- 3 marks: The tone consistently matches and enhances the theme of the writing.
+  - Explanation: The tone is generally lighthearted and humorous, which fits the somewhat absurd scenario of a farmer playing cello for his cows. There are moments of frustration and then joy, which are well-conveyed.
 
-### Choose a tone to match the theme of the writing (3/3):
+### Include emotions and feelings (1 mark)
 
-- The tone consistently matches and enhances the theme of the writing.
+- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative.
+  - Explanation: The essay includes a range of emotions, from Farmer Jack's frustration and rage to his eventual joy and excitement. The cows' sadness and happiness are also mentioned.
 
-### Include emotions and feelings (1/1):
+### Use precise words or phrases (1 mark)
 
-- Emotions and feelings are clearly expressed, adding depth to the narrative.
+- 1 mark: Uses clear, specific, and accurate language to convey ideas.
+  - Explanation: The essay uses some precise language, such as "maze of a shed," "callowed hand," and "evaporated," which adds to the imagery.
 
-### Use precise words or phrases (0.5/1):
+### Use at least THREE figurative languages (3 marks)
 
-- Uses some precise language, but there are instances of vague or unclear phrasing.
+- 2 marks: Uses two examples of figurative language effectively.
+  - Explanation: The essay includes a few examples of figurative language: "making him feel insulted like the bad milk was laughing" (personification), "His bow was moving so fast it was merely a blur!" (hyperbole).
 
-### Use at least THREE figurative languages (2/3):
+### Have a moral (Goal to focus on) (1 mark)
 
-- Uses two examples of figurative language effectively. "his bow was moving so fast it was merely a blur!" and "making him feel insulted like the bad milk was laughing"
+- 1 mark: The story clearly conveys a moral or lesson.
+  - Explanation: The story conveys a clear moral: that music can bring joy and solve problems. It also suggests that sometimes the most unexpected solutions can be the best.
 
-### Have a moral (Goal to focus on) (1/1):
+### Write with an outstanding idea (3 marks)
 
-- The story clearly conveys a moral or lesson.
+- 3 marks: The narrative is creative and engaging, with a compelling plot and original ideas.
+  - Explanation: The narrative is creative and engaging, with a unique plot and original ideas. The idea of a farmer playing cello for his cows to make sweet milk is quite imaginative.
 
-### Write with an outstanding idea (3/3):
-
-- The narrative is creative and engaging, with a compelling plot and original ideas.
-
-#### Total Mark: 13.5/15
+### TOTAL MARKS: 13/14 (93%)
 
 ### Strengths:
 
-- Creative and original idea.
-- Clear narrative structure.
-- Good use of emotions and feelings.
+- The story has a clear and logical structure with a beginning, middle, and end.
+- The tone is consistently lighthearted and humorous, matching the theme of the writing.
+- The essay effectively uses emotions and feelings to add depth to the narrative.
 
 ### Areas for Improvement:
 
-- Use more precise language.
-- Include more figurative language.
-- Proofread for minor grammatical errors.
+- Include more examples of figurative language to enhance the writing. Try to include at least three examples.
+- Review the use of precise words and phrases to ensure they are used effectively and accurately.
 
-### Overall Assessment: Skylar's essay is a creative and engaging story with a clear narrative structure and a good use of emotions. The story has a clear moral and the tone matches the theme. There are some areas for improvement, such as using more precise language and including more figurative language.
+### Overall Assessment: Skylar's essay is a creative and engaging piece with a unique plot and original ideas. The story is well-structured, and the tone is appropriate for the theme. The use of emotions and feelings adds depth to the narrative. While the essay is strong, there is room for improvement in the use of figurative language and precise word choice.

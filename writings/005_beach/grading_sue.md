@@ -1,45 +1,43 @@
-### Write in a proper structure (2 marks)
+### Write in a proper structure (2/2):
 
-- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion. The introduction sets the scene, the body describes the interaction between the characters, and the conclusion provides a reflective ending.
+The writing is well-structured with a descriptive opening, a body that develops the scene and characters, and a reflective conclusion.
 
-### Choose a tone to match the theme of the writing (3 marks)
+### Choose a tone to match the theme of the writing (3/3):
 
-- 3 marks: The tone consistently matches and enhances the theme of the writing. The tone is reflective, slightly melancholic, and observant, which fits the theme of a family outing with an underlying sense of unspoken truth.
+The tone is consistently reflective and slightly melancholic, perfectly matching the serene yet subtly poignant atmosphere of the beach scene at sunset. The narrator's internal thoughts contribute to this tone effectively.
 
-### Include emotions and feelings (1 mark)
+### Include emotions and feelings (1/1):
 
-- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative. The student expresses a sense of responsibility, weariness, and a hint of sadness. For example, "My fingers are stiff with salt and reddened from a day's work", "My voice is small and strained", "the news will only bring them distress".
+Emotions and feelings are subtly yet effectively conveyed. The narrator's concern for the children and her internal conflict about what to tell them add emotional depth to the piece. The line "But I am not their mother, and the news will only bring them distress" poignantly expresses her feelings.
 
-### Use precise words or phrases (1 mark)
+### Use precise words or phrases (1/1):
 
-- 1 mark: Uses clear, specific, and accurate language to convey ideas. The student uses vivid and descriptive language, such as "wash of pink and gold", "flat landscape awash, blushing a rosy sheen", "pale white circle against the hazy clouds", "sand is like dirt, dark, purplish streaks".
+The writing employs precise and evocative language throughout. Phrases like "rosy sheen," "prim and straight-backed," and "fingers are stiff with salt" create vivid imagery and contribute to the overall atmosphere.
 
-### Use at least THREE figurative languages (3 marks)
+### Use at least THREE figurative languages (3/3):
 
-- 3 marks: Effectively uses at least three examples of figurative language. The student uses a metaphor "The sun is a pale white circle against the hazy clouds, light and soft as rose petals", a simile "sand is like dirt", and personification "the sunlight lapping gently".
+The essay effectively uses more than three examples of figurative language: "sun is a pale white circle against the hazy clouds, light and soft as rose petals" (simile), "sand is like dirt, dark, purplish streaks against the water" (simile), "The world is round as an orange" (simile), and "Flat as a stingray" (simile).
 
-### Have a moral (Goal to focus on) (1 mark)
+### Have a moral (Goal to focus on) (1/1):
 
-- 1 mark: The story clearly conveys a moral or lesson. The story conveys a moral about the complexities of truth and the burden of responsibility, and the choice to protect innocence even when it means withholding difficult truths.
+The story subtly conveys a moral about the complexities of protecting innocence and the weight of unspoken truths. The narrator's decision to withhold information to avoid distressing the children suggests a reflection on the burdens and responsibilities of caregiving.
 
-### Write with an outstanding idea (3 marks)
+### Write with an outstanding idea (3/3):
 
-- 3 marks: The narrative is creative and engaging, with a compelling plot and original ideas. The narrative is creative and thought-provoking, with a unique perspective and a subtle underlying tension. The ending is particularly strong, leaving the reader with a sense of contemplation.
+The narrative presents an outstanding idea by hinting at a deeper, unspoken issue or context that adds layers of meaning to the seemingly simple scene. This creates intrigue and invites the reader to consider the underlying circumstances and the narrator's motivations.
 
-### TOTAL MARKS: 14/14
+### TOTAL MARKS: 14/14 (100%)
 
 ### Strengths:
 
-- The writing is well-structured with a clear beginning, middle, and end.
-- The tone is consistently reflective and slightly melancholic, matching the theme of the story.
-- The student effectively expresses emotions and feelings, adding depth to the narrative.
-- The student uses precise and vivid language, creating a strong sense of atmosphere.
-- The student effectively uses figurative language, enhancing the imagery and meaning of the story.
-- The story conveys a clear moral about the complexities of truth and responsibility.
-- The narrative is creative, engaging, and thought-provoking, with a unique perspective.
+- Excellent use of precise and evocative language.
+- Effective integration of figurative language.
+- Subtle yet powerful conveyance of emotions and internal conflict.
 
 ### Areas for Improvement:
 
-- There are no significant areas for improvement. The student demonstrates a strong command of writing skills.
+- The essay is very well-written, and there are no significant areas for improvement. The subtlety and nuance are strengths, but one could explore making the underlying tension even more palpable through additional sensory details or internal monologue.
 
-### Overall Assessment: The student demonstrates exceptional writing skills, with a strong command of narrative structure, tone, language, and figurative language. The story is creative, engaging, and thought-provoking, with a clear moral and a unique perspective.
+### Overall Assessment:
+
+Sue's essay is a beautifully written and evocative piece that masterfully captures a serene yet subtly poignant moment at the beach. The language is rich and precise, the use of figurative language is effective, and the underlying emotional current adds significant depth. The narrative subtly hints at a larger story, leaving a lasting impression on the reader.

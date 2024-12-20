@@ -1,30 +1,16 @@
 # Image Writing Prompt
 
 {
-  "description": "The image shows two people standing on opposite sides of a chasm, against a bright pink background. The man on the left is looking down at his phone, while the woman on the right stands with her hands on her hips, facing towards him. Both figures are illustrated in a simplified style. The man is wearing a striped shirt and dark pants, and the woman is wearing a dress with white dots. A single, empty speech bubble floats above the middle point between them, and another speech bubble is falling into a pile of similarly shaped gray and white speech bubbles, which are on the floor of the chasm, underneath the floating one. The ground they are standing on appears to be rough rocky cliffs rendered in shades of black and gray. The drawing has a minimalist, illustrative style, and colors are flat with no gradients.",
+  "description": "The image depicts two figures standing on separate cliffs, with a pink background. The cliff on the left has a man in a striped shirt and red pants, holding a phone. The cliff on the right has a woman with hands on her hips, wearing a white dress with dots. A white, empty speech bubble hovers between them. Below, at the base of the cliffs, there are several grey speech bubbles piled up. The cliffs are black and textured, contrasting with the pink background. The art style is simple and cartoonish, with a focus on bold colors and clear shapes. There are no visible text in the image.",
   "elements": {
-    "main_elements": [
-      "Two figures",
-      "Chasm",
-      "Speech bubbles",
-      "Pink background"
-    ],
-    "colors": [
-      "Pink",
-      "Gray",
-       "White",
-       "Black"
-     ],
-    "subjects": [
-      "Man",
-      "Woman",
-       "Communication",
-       "Miscommunication"
-      ],
-     "text": [
-       "no text visible"
-      ]
-    },
-  "writing_task": "The writing task requires students to explore the theme of miscommunication, potentially focusing on the disconnect between the two characters. The speech bubbles indicate that there is something to be said, but it is not being said directly. The separation of the characters by a chasm suggests a relationship or connection that has broken down. The image can also be used to explore a broader theme of connection, or how we communicate with each other in the modern age.",
-   "prompt_summary": "This image serves as a prompt by presenting a clear visual metaphor for a breakdown in communication. The distinct physical gap between the two characters, combined with the empty speech bubbles, invites a narrative exploring the reasons for this breakdown and the challenges of bridging this gap."
+    "main_elements": ["two figures", "cliffs", "speech bubbles"],
+    "colors": ["pink", "black", "white", "grey", "red"],
+    "subjects": ["man with a phone", "woman with hands on her hips"],
+    "text_visible": "none"
+  },
+  "writing_task": {
+    "requirements": "The writing task requires students to explore themes of communication barriers, the struggle of expressing feelings, and the role of technology in relationships. It also calls for creative storytelling that could fill in the empty speech bubble, suggesting dialogue or thoughts between the characters. The pile of gray bubbles might be interpreted as ignored or lost words, leading to reflection on miscommunication.",
+     "implied_tasks": ["dialogue writing", "narrative development", "exploration of interpersonal barriers"]
+  },
+    "prompt_summary": "This image serves as a writing prompt by visually presenting a scenario of disconnected communication. The empty speech bubble encourages creative writing and dialogue, while the separation between the figures and the pile of lost bubbles offer a visual metaphor for communication breakdown. It can be used for various types of writing, including short stories, dialogues, or reflective pieces."
 }

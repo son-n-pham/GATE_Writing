@@ -1,43 +1,45 @@
-### Write in a proper structure (2 marks)
+### Write in a proper structure (2/2):
 
-- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion. The introduction sets the scene, the body describes the events, and the conclusion provides a reflective ending.
+The writing is well-organised with a clear introduction describing the setting, a body detailing the interaction with the jellyfish, and a conclusion about leaving the beach.
 
-### Choose a tone to match the theme of the writing (3 marks)
+### Choose a tone to match the theme of the writing (3/3):
 
-- 3 marks: The tone consistently matches and enhances the theme of the writing. The tone is lighthearted, playful, and joyful, which fits the theme of a fun family outing at the beach.
+The tone is consistently lighthearted and joyful, perfectly matching the theme of a fun family outing at the beach. For example, phrases like "giggling madly" and "grinning from wet ear to wet ear" effectively convey the happy mood.
 
-### Include emotions and feelings (1 mark)
+### Include emotions and feelings (1/1):
 
-- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative. The student expresses joy, excitement, and affection throughout the story. For example, "giggling madly", "laugh so hard", "grinning from wet ear to wet ear", "I love jelly fishing,".
+Emotions and feelings are clearly expressed throughout the narrative. The excitement of spotting jellyfish and the joy of playing in the water are palpable. The phrase "I laugh so hard I go with her" clearly shows the enjoyment.
 
-### Use precise words or phrases (1 mark)
+### Use precise words or phrases (0.5/1):
 
-- 1 mark: Uses clear, specific, and accurate language to convey ideas. The student uses vivid and descriptive language, such as "thick salmon pink strokes", "muddy sand squelches", "warm amber eyes twinkle", "squishy white jellyfish".
+The writing uses some precise words like "azure bucket" and "muddy sand squelches," which add vividness. However, some descriptions could be more specific. For instance, instead of just "pink sky," you could describe the specific shades or how the colors blend.
 
-### Use at least THREE figurative languages (3 marks)
+### Use at least THREE figurative languages (2/3):
 
-- 2 marks: Uses two examples of figurative language effectively. The student uses a simile "eyes large and round like a hopeful puppy's" and a metaphor "sky rose is a canvas". There is no personification or hyperbole.
+Two examples of figurative language were used: "the sky rose is a canvas of thick salmon pink strokes" (metaphor) and "eyes large and round like a hopeful puppy's" (simile). Try to incorporate one more instance of figurative language to enhance your descriptions further.
 
-### Have a moral (Goal to focus on) (1 mark)
+### Have a moral (Goal to focus on) (0/1):
 
-- 0.5 marks: The story suggests a moral, but it is not clearly developed. The story suggests the importance of family time and enjoying simple moments, but it is not explicitly stated.
+The story does not explicitly convey a moral or lesson. While it depicts a pleasant family moment, there isn't a clear takeaway message or reflection on a broader theme. Consider what message or lesson you want your reader to gain from the story.
 
-### Write with an outstanding idea (3 marks)
+### Write with an outstanding idea (2/3):
 
-- 2 marks: The narrative has some creative elements but is not fully developed. The idea of "jelly fishing" is creative and engaging, but the plot is simple and could be more developed.
+The narrative is creative and engaging, depicting a relatable family moment at the beach. The focus on "jelly fishing" is a fun and unique element. However, the plot is relatively simple. To make it more outstanding, consider adding a surprising twist, a unique challenge, or a more complex interaction between the characters.
 
-### TOTAL MARKS: 11.5/14
+### TOTAL MARKS: 10.5/14 (75%)
 
 ### Strengths:
 
-- The writing is well-structured with a clear beginning, middle, and end.
-- The tone is consistently joyful and playful, matching the theme of the story.
-- The student effectively expresses emotions and feelings, adding depth to the narrative.
+- Clear and engaging narrative structure.
+- Consistent and appropriate tone.
+- Effective expression of emotions and feelings.
 
 ### Areas for Improvement:
 
-- Include more examples of figurative language, such as personification or hyperbole.
-- Develop the moral of the story more clearly, perhaps by explicitly stating the lesson learned.
-- Add more complexity to the plot to make the narrative more engaging.
+- Incorporate more precise language to enhance descriptions. For example, instead of "The sun is sinking ever lower in the pink sky," describe the specific colors and how they change.
+- Include at least three examples of figurative language. Look for opportunities to use similes, metaphors, or personification to make your writing more vivid.
+- Develop a clear moral or lesson for the story. Think about what message you want your reader to take away.
 
-### Overall Assessment: The student demonstrates a good understanding of narrative structure and tone. The writing is engaging and expresses emotions effectively. However, the student could improve by incorporating more figurative language, developing the moral of the story, and adding more complexity to the plot.
+### Overall Assessment:
+
+Skylar's essay is a charming and well-written piece that effectively captures a joyful moment at the beach. The narrative flows smoothly, and the emotions are clearly conveyed. To further elevate the writing, focus on incorporating more descriptive language, ensuring the inclusion of at least three figurative language techniques, and developing a clear moral or thematic depth to the story.

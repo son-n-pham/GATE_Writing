@@ -31,7 +31,7 @@ def create_model():
     return genai.GenerativeModel(
         model_name="gemini-2.0-flash-exp",
         generation_config=generation_config,
-    )
+    ) 
 
 
 def get_image_description(image_path: str, model) -> str:

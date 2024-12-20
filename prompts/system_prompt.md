@@ -6,7 +6,9 @@ Follow these instructions carefully:
 
 ## 1. Analyze the Writing Prompt Image
 
-Execute `src/gemini_vision.py` to have the `current_writing/prompt_from_image.md`, then read that new `current_writing/prompt_from_image.md` as it contains the writing prompt extracted from the image_prompt.png.
+If there is no file `current_writing/prompt_from_image.md`, execute `src/gemini_vision.py` to have the `current_writing/prompt_from_image.md`
+
+Then read the `current_writing/prompt_from_image.md` as it contains the writing prompt extracted from the image_prompt.png.
 
 ## 2. Review Reference Materials
 
@@ -16,7 +18,8 @@ Execute `src/gemini_vision.py` to have the `current_writing/prompt_from_image.md
 ## 3. Evaluate Each Student's Essay
 
 - Locate all student essays in the `current_writing` folder with filenames in the format `student_{student name}.md`.
-- Grade each essay based on the rubric, guidelines, and the writing prompt from the analyzed image.
+- Only grade essay of student who does not have the grading `grading_{student name}.md` file yet.
+- Grade the essay based on the rubric, guidelines, and the writing prompt from the analyzed image.
 - Provide detailed feedback using the following structured format:
 
 ### Required Grading Structure:
@@ -57,5 +60,4 @@ Follow strictly the structure of grading_rubric.md
 
 ## 6. Process All Essays
 
-- Repeat this process for every student essay in the current_writing folder.
-- Begin by reading image_prompt.png or image_prompt.jpg to understand the topic of writing before evaluating any essays.
+- Repeat this process for every student essay in the current_writing folder who does not have the grading file yet.

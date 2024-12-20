@@ -1,48 +1,44 @@
-### Write in a proper structure (2/2)
+### Write in a proper structure (2 marks)
 
-Excellent structure with a clear introduction immersing the reader in the game, a tense and action-filled body, and a concluding moment of defeat and disqualification.
+- 2 marks: The writing is well-organised with a clear introduction, body, and conclusion.
 
-### Choose a tone to match the theme of the writing (3/3)
+### Choose a tone to match the theme of the writing (3 marks)
 
-The tone is consistently intense and action-packed, perfectly matching the fast-paced environment of a video game. Words like "pounding," "dodging," "scuttle," and "hiss" contribute to this feeling.
+- 3 marks: The tone consistently matches and enhances the theme of the writing. The tone is humorous and matches the theme of the image, with the cat acting like a revolutionary leader.
 
-### Include emotions and feelings (1/1)
+### Include emotions and feelings (1 mark)
 
-Emotions are effectively conveyed, such as the player's urgency when being followed ("I grit my teeth, urging my legs to go faster") and the frustration and disappointment at being defeated ("I stare at the screen... All that built-up XP, all for nothing.").
+- 1 mark: Emotions and feelings are clearly expressed, adding depth to the narrative. Emotions and feelings are clearly expressed, such as ambition and excitement.
 
-### Use precise words or phrases (1/1)
+### Use precise words or phrases (1 mark)
 
-Precise language is used to create vivid imagery, such as "clenching my rifle in tight fists," "bin overflowing with foul-looking bags of rubbish," and "gunfire that tears chunks out of the pavement."
+- 1 mark: Uses clear, specific, and accurate language to convey ideas. The language is clear, specific, and accurate.
 
-### Use at least THREE figurative languages (3/3)
+### Use at least THREE figurative languages (3 marks)
 
-Good use of figurative language enhances the action:
+- 3 marks: Effectively uses at least three examples of figurative language (similes, metaphors, personification, etc.). There are several examples of figurative language, such as "keen slitted pupils sharp and bright as a lamp", "My tail flicks, swaying with the beginnings of excitement. No, that is not the right word. Ambition.", and "To beat humankind, I must act like humankind.".
 
-- "pounding through the streets of Opus" - _Personification_ gives the streets a sense of being actively traversed.
-- "dodging the cars as they streak down the packed road" - _Simile_ compares the fast movement of cars to streaks.
-- "A sudden explosion rattles the buildings" - _Personification_ makes the explosion feel more impactful.
+### Have a moral (Goal to focus on) (1 mark)
 
-### Have a moral (Goal to focus on) (0/1)
+- 0.5 marks: The story suggests a moral, but it is not clearly developed. The story doesn't have a clear moral, but it does have a goal of revolution.
 
-While the story is engaging, it doesn't clearly convey a moral or lesson. The focus is primarily on the action and the immediate experience of the game.
+### Write with an outstanding idea (3 marks)
 
-### Write with an outstanding idea (3/3)
+- 3 marks: The narrative is creative and engaging, with a compelling plot and original ideas.
 
-The narrative is creative and immersive, placing the reader directly into the high-stakes environment of the game. The sequence of events is exciting and easy to visualize.
-
-### TOTAL MARKS: 13/14 (93%)
+### TOTAL MARKS: 13.5/14 (96%)
 
 ### Strengths:
 
-- Excellent use of structure to create a compelling narrative.
-- Consistent and effective tone that matches the theme.
-- Strong incorporation of action and precise language.
+- The writing is well-organized with a clear structure.
+- The tone is humorous and matches the theme of the image.
+- Emotions and feelings are clearly expressed.
+- The language is clear, specific, and accurate.
+- The writing effectively uses figurative language.
+- The narrative is creative and engaging.
 
 ### Areas for Improvement:
 
-- Consider adding a moral or lesson to the story. This could be about teamwork, the consequences of actions, or dealing with defeat.
-- While emotions are present, exploring the internal thoughts and reactions of the character more deeply could add further depth.
+- The story could have a clearer moral or lesson.
 
-### Overall Assessment:
-
-Sue has written a dynamic and engaging piece that effectively captures the intensity of a video game scenario. The writing is well-structured, and the use of language creates a vivid experience for the reader. Focusing on incorporating a clear moral could elevate the story further.
+### Overall Assessment: The student's writing is excellent, with a clear structure, humorous tone, and effective use of figurative language. The student should focus on developing a clearer moral or lesson in their stories.

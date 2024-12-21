@@ -1,39 +1,39 @@
 # Image Writing Prompt
 
 {
-  "image_description": "The image shows a cat wearing glasses sitting in a blue armchair, using a laptop. The room has a yellow wallpaper with a small floral pattern. On the wall, there are four framed pictures of cats. One cat in a frame is wearing a captain hat, another has a blonde wig, another frame shows a kitten and the last one shows two cats. There is a brown end table next to the chair with a white mug, a green lamp and a small piece of mail on top. Under the end table, a newspaper is on the shelf. There are green slippers on the brown carpet in front of the armchair. The laptop is a Samsung brand and is silver. The cat is brown with black stripes. The room is well-lit with warm tones, suggesting a cozy indoor setting.",
-   "main_elements": [
-    "a cat with glasses",
-    "a blue armchair",
-    "a laptop",
-    "four framed pictures of cats",
-    "a brown end table",
-    "a white mug",
-    "a green lamp",
-        "a piece of mail",
-        "a newspaper",
-        "green slippers",
-        "brown carpet",
-        "yellow wallpaper with a floral pattern"
-   ],
-   "colors": [
-     "blue",
-     "yellow",
-     "brown",
+  "description": "The image is an illustration depicting a crowd of people taking selfies in front of a framed artwork. The artwork, in a gold frame, is on a blue wall. People of various ages and ethnicities are holding up smartphones, some with selfie sticks. The person in the foreground to the right has long red hair and is holding a phone with a yellow case with green polka dots. Their face is mostly obscured by the phone, but their smile is visible. The person to the left is holding up a gray smartphone. They are wearing a yellow and red plaid shirt. Other figures are partially visible in the background, some holding phones. The illustration style is cartoonish and colorful with bold lines.",
+  "elements": {
+    "main_elements": [
+      "people",
+      "smartphones",
+      "selfie sticks",
+      "framed artwork",
+      "crowd",
+       "yellow and red plaid shirt",
+       "yellow phone case with green polka dots",
+      "blue background"
+     ],
+    "colors": [
+      "blue",
+      "yellow",
+      "red",
       "green",
-      "white",
-      "silver",
-      "black"
+      "black",
+      "gold",
+      "grey"
     ],
-  "subjects": [
-    "a cat",
-    "furniture",
-    "domestic objects",
-    "wall art"
-  ],
-  "text_visible": [
-   "SAMSUNG"
-   ],
-  "writing_task_requirements": "The writing task requires students to create a story about the cat and the setting shown in the image. Students can use creative writing skills to imagine the cat's activities and the purpose of the laptop. It may also require them to interpret the image's message and imagine any hidden scenarios.",
-  "prompt_summary": "The image serves as a prompt by providing a humorous scene with anthropomorphic elements, such as the cat using a laptop and wearing glasses. It encourages creative writing by allowing students to imagine the cat's life, thoughts, and goals based on the elements present, such as the technology, framed portraits, cozy furniture, and overall domestic setting. It invites the writers to explain the story behind the cat's behavior, environment, and implied personality, sparking imagination and storytelling potential. The prompt is a good base for a short story or character study."
+    "subjects": [
+      "public selfies",
+      "technology",
+      "social media",
+      "art",
+      "human interaction",
+      "modern photography"
+    ],
+     "text": [
+          "Public Selfies"
+      ]
+  },
+  "writing_task": "The writing task could be to explore the themes of technology and social media's impact on how we interact with art and public spaces, perhaps by writing an essay, short story, or character sketch of one of the selfie-takers. It could also discuss the social phenomenon of public selfies.",
+  "prompt_summary": "This image serves as a prompt by presenting a visually engaging scene that encapsulates contemporary behavior around art and technology. It invites exploration into topics like the relationship between the individual and the crowd, the performative nature of selfies, the way we experience art, and how technology influences our interactions in public spaces. It can be used to provoke thoughts on the motivations behind taking selfies and the nature of modern social interactions."
 }

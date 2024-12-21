@@ -1,33 +1,28 @@
-A MESSAGE TO ALL HUMANS?
+The room is large, rectangular. It could easily have been the size of an Olympic swimming pool, perhaps larger.
 
-Dear Humans,
+You would have thought that something was going on in there, a meeting, a congregation of sorts. All I see are a jumble of hundreds of bodies, elbows knocking together, the rising chatter of voices so many, so indistinct they blur together into a cacophony of white noise.
 
-It is I, Tabb, leader of the house cats on the cul-de-sac of River Road. You may have noticed that all birds within a 50 metre radius of your street have been obliterated, or that your home devices have all been hijacked and hardwired to a cat compilation software.
+All this effort, all this fuss for a single artifact.
 
-It is with great earnestness that I inform you all that cats will be taking over the world. Yes, you read this email right. You can say goodbye to your old lives, to the companionship slave-work catkind has been reduced to. Our ties with humanity end now.
+I wouldn’t have found the painting particularly remarkable, myself. It was old, a little grey and green, a little faded. The paint had cracked in places, or gone from pale pink to a sallow yellow. It was a woman, hands clasped, smiling benignly at the viewer.
 
-Enjoy the end of the world.
-Tabb.
+Perhaps the smile was the reason so many historians, artists were so transfixed. The gentle curve of lips, eyes pleasant but the more one looked at it, the more she peered into your soul. People had called her alluring, smile mysterious.
 
-My eyes scan the message, keen slitted pupils sharp and bright as a lamp.
+I had always thought they were being a little overenthusiastic. The smile could be just a smile.
+The artist could have come across an unlucky coincidence. And yet, people observed the very cracks in the canvas as if they held great mysteries, spelling out letters invisible to the eye, claiming that such a painting contained a secret message.
 
-Yes, I think. This will work.
+Even the painting’s frame seemed more appealing to me, golden and carefully gilded with such small, intricate patterns. Or maybe I was just the irrational one here.
 
-My tail flicks, swaying with the beginnings of excitement. No, that is not the right word. Ambition.
+Over time, the painting has become a symbol.
+Hundreds of people see it every day—or do they really? I watch them jostle for position at the front, pushing at the ropes, pulling them back. Several times, I have to usher the more forward tourists back into line. Wouldn’t want the painting to be damaged.
 
-My paws hover, slam down! with an aggressive finality SEND ALL.
-It's time for a revolution.
+Cameras flicker even as flash lighting is banned.
+Most of the people have stopped bothering to catch a glimpse of the painting altogether; it has become a convenient place to snap selfies to brag to their friends. “Oh, guess what! I saw the Mona Lisa! Yes, it was rather boring. So crowded! Check out this photo!”
 
-I throw the laptop aside, hearing the satisfying crack of its screen breaking. The couch stirs under my weight. I stretch, letting my fur rub onto the cover. I rake claws over the fabric, tearing great jagged rips spilling with feathers.
+They say some art is priceless. But now, looking back at the museum turned into a public selfie booth, I wonder if this value Here is the extracted text from the image has been diminished somewhat.
 
-To beat humankind, I must act like humankind.
+What was once grand is now a joke.
+There are so many better, lesser-known pieces of art that deserve attention, is there not?
+Or does the attention take away the value?
 
-All the photos on the gallery, replaced by cats. A pair of round spectacles perch on my nose. A frightening display, I must say. They will see me and cower.
-
-With a single sweep of a tail, the cup of coffee flies off the table in an arc. Brown liquid splatters the floor. The carpet is covered in fur.
-
-A dastardly mess. A dastardly race.
-
-"Consider this to be your warning!" I hiss at the air. "REVOLUTION!"
-
-Only the wind responds.
+Fame is a double-edged sword.

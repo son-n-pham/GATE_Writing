@@ -1,14 +1,20 @@
-When your mum drags you by your collar and drags you in front of her phone, a bright red flush creeps up your cheeks. You grit your teeth and plaster a fake grin on your face. "You're blocking the painting!" you mutter between clenched teeth.
+Dear Aunt Sylvie,
 
-Do you have a parent who is wholeheartedly interested in creating embarrassing memories through the horror movie of embarrassing selfies?
+I hope you're well. I guess I'm fine... but not really. Yesterday, I finished writing my story, it was about dragons and a brave knight called Simon who wields an enchanted mystical sword which is studded with little rubies. I bet you'll love it, but I can't show you because a gang of reckless bullies flushed my note book in the toilet.
 
-Do you have a mum who's clogging up your storage with hundreds of selfies? If so, I have the perfect solution to your worries, a list of important reasons to not take too many public selfies.
+Right now I am working on a fabulous narrative about a famous acrobat who got murdered, everybody suspects the whole circus worked together to kill the acrobat but it's not true! I hope you'll like it once I finish because nobody at school ever likes my imagination. Hope I can visit you soon!
 
-Dear selfie addicted adult,
+XOXO Alexa
 
-I fully understand the importance of memories. They can get lost as easily as leaves in the wind. However, millions of public selfies are not the solution. Do you remember when you yelled at your child for saving internet memes? You can't say anything because you've been clogging up photo storage with billions of public selfies. Don't you see the embarrassment on your child's face? Sense their discomfort? At least only take one selfie.
+Dear Aunt Sylvie,
 
-So, please do not clog up your storage and waste your time by the dreaded torture of public selfies. Please reconsider.
+My dog died. Mum says life is full of rollercoasters. She says I should get over it. My heart hurts. I just finished writing my first sad story. Anyways, I've got to go.
 
-Yours Truly,
-The Anti Selfie Activist
+XOXO Alexa
+
+Dear Alexa,
+
+I am so sorry for your loss. I also received your murder mystery yesterday. It is most thrilling! I am so proud of you! You must have such a beautiful imagination to be able to write such a magnificent story. You are truly wonderful and I urge you to push on and write a sequel just for me. Once you become a world-famous best selling author I shall be your faithful business partner. Good luck!
+
+Love,
+Aunt Sylvie

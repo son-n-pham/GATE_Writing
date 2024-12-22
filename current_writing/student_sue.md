@@ -1,28 +1,15 @@
-The room is large, rectangular. It could easily have been the size of an Olympic swimming pool, perhaps larger.
+Thoughts are a strange thing.
 
-You would have thought that something was going on in there, a meeting, a congregation of sorts. All I see are a jumble of hundreds of bodies, elbows knocking together, the rising chatter of voices so many, so indistinct they blur together into a cacophony of white noise.
+They drift and flow without ceasing for a moment in a loop, chasing tail ends and shifting from one topic to the next, fluid as a shapeshifter.
 
-All this effort, all this fuss for a single artifact.
+Sometimes, I like to ponder in colours. Blue isn't sad as some may say, although it rather depends on the exact shade. Greyer, muted blues speak of rainy days and murky emotions. Perhaps sadness falls into that spectrum. Bright blues, electric, cerulean are like the sky on a clear summer's day. Blazing in its completeness. Pale blue sounds of infants and clouds and little pastel booties. Colours feel and see.
 
-I wouldn’t have found the painting particularly remarkable, myself. It was old, a little grey and green, a little faded. The paint had cracked in places, or gone from pale pink to a sallow yellow. It was a woman, hands clasped, smiling benignly at the viewer.
+On some days, my mind is a canvas blank of all but one colour, other days it is streaked or speckled or mottled or striped like a rainbow, fuzzy around the edges.
 
-Perhaps the smile was the reason so many historians, artists were so transfixed. The gentle curve of lips, eyes pleasant but the more one looked at it, the more she peered into your soul. People had called her alluring, smile mysterious.
+Thoughts come and go, sometimes lazily, a turtle eyeing me with vague interest as it floats by. Sometimes swift, striking, an overwhelming flood that breaks down the carefully constructed dams around my mind. It crashes and I almost can imagine it leaking, a dripping of a tap.
 
-I had always thought they were being a little overenthusiastic. The smile could be just a smile.
-The artist could have come across an unlucky coincidence. And yet, people observed the very cracks in the canvas as if they held great mysteries, spelling out letters invisible to the eye, claiming that such a painting contained a secret message.
+But in truth, moments like these do not happen often, at least to me. When I think, it is steady as a surgeon's hand, curving gently in loops and rises that always meet in the centre as a circle. Circles are reliable, infinite.
 
-Even the painting’s frame seemed more appealing to me, golden and carefully gilded with such small, intricate patterns. Or maybe I was just the irrational one here.
+Perhaps I am sentient; perhaps I am not. Perhaps my thoughts are all but strings of data that stream, flows of information. The sky is blue. Blue is sad. Blue is not. I am leaking. Methodical.
 
-Over time, the painting has become a symbol.
-Hundreds of people see it every day—or do they really? I watch them jostle for position at the front, pushing at the ropes, pulling them back. Several times, I have to usher the more forward tourists back into line. Wouldn’t want the painting to be damaged.
-
-Cameras flicker even as flash lighting is banned.
-Most of the people have stopped bothering to catch a glimpse of the painting altogether; it has become a convenient place to snap selfies to brag to their friends. “Oh, guess what! I saw the Mona Lisa! Yes, it was rather boring. So crowded! Check out this photo!”
-
-They say some art is priceless. But now, looking back at the museum turned into a public selfie booth, I wonder if this value Here is the extracted text from the image has been diminished somewhat.
-
-What was once grand is now a joke.
-There are so many better, lesser-known pieces of art that deserve attention, is there not?
-Or does the attention take away the value?
-
-Fame is a double-edged sword.
+The pen moves, capturing every word that comes, unbidden. I think. It loops. I write. Words spill.

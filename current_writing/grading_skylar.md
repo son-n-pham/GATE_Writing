@@ -2,27 +2,30 @@
 
 - 2 marks: The writing is not structured as a traditional essay, but rather as a series of letters. While there are elements of a beginning, middle and end, it does not follow the structure of an essay.
 
-### Choose a tone to match the theme of the writing (3 marks)
+#### Tone (3/3 marks)
 
-- 3 marks: The tone is generally appropriate for a letter, but it shifts between different emotions and topics. The tone is not consistent with the surreal image prompt.
+- Evidence: The tone is a mix of exasperation and a plea for understanding.
+- Analysis: The tone is consistently appropriate, conveying a child's frustration and embarrassment. There's a mix of sarcasm and genuine concern.
+- Score Justification: The tone effectively conveys the intended emotions.
+- Improvement Strategy: No improvements needed for tone.
 
-### Include emotions and feelings (1 mark)
+#### Emotions/Feelings (1/1 marks)
 
 - 1 mark: Emotions and feelings are clearly expressed, such as sadness about the dog and excitement about writing.
 
-### Use precise words or phrases (1 mark)
+#### Precise Language (1/1 marks)
 
 - 1 mark: Uses clear and specific language, such as "enchanted mystical sword" and "reckless bullies".
 
-### Use at least THREE figurative languages (3 marks)
+#### Figurative Language (3/3 marks)
 
 - 0 marks: There are no examples of figurative language used in the writing.
 
-### Have a moral (Goal to focus on) (1 mark)
+#### Moral/Goal (1/1 marks)
 
 - 0 marks: The writing does not convey a clear moral or lesson.
 
-### Write with an outstanding idea (3 marks)
+#### Creative Merit (3/3 marks)
 
 - 2 marks: The narrative has some creative elements, such as the idea of a murdered acrobat and a mystical sword, but it is not fully developed and does not relate to the image prompt.
 

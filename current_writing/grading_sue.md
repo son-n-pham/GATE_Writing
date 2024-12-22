@@ -1,45 +1,57 @@
-## Grading for Sue's Essay
+### Detailed Rubric Assessment
 
-### Write in a proper structure (2 marks)
+#### Structure (2/2 marks)
 
-- **2 marks:** The writing is well-organised with a clear introduction, body, and conclusion. The essay begins with a description of the setting, transitions into a reflection on the painting and the crowd, and ends with a thought-provoking question about fame and value.
+- Evidence: The essay has a clear structure, starting with a description of the room, then focusing on the painting and the crowd, and ending with a reflection on the value of art and fame.
+- Analysis: The essay is well-organized and follows a logical progression of ideas.
+- Score Justification: The essay demonstrates a clear and logical flow of ideas.
+- Improvement Strategy: No improvements needed for structure.
 
-### Choose a tone to match the theme of the writing (3 marks)
+#### Tone (3/3 marks)
 
-- **3 marks:** The tone consistently matches and enhances the theme of the writing. The reflective and slightly critical tone effectively conveys the author's skepticism towards the crowd's behavior and the painting's perceived value.
+- Evidence: The tone is observational and slightly cynical.
+- Analysis: The tone is consistently observational and slightly cynical, reflecting the author's detached perspective on the scene.
+- Score Justification: The tone effectively conveys the intended emotions.
+- Improvement Strategy: No improvements needed for tone.
 
-### Include emotions and feelings (1 mark)
+#### Emotions/Feelings (1/1 marks)
 
-- **1 mark:** Emotions and feelings are clearly expressed, adding depth to the narrative. The essay effectively conveys a sense of disillusionment and skepticism through phrases like "I wouldn’t have found the painting particularly remarkable, myself" and "Or maybe I was just the irrational one here."
+- Evidence: "I wouldn’t have found the painting particularly remarkable, myself.", "Perhaps the smile was the reason so many historians, artists were so transfixed."
+- Analysis: The essay expresses a sense of disillusionment and perhaps a little frustration with the way the artwork is being treated.
+- Score Justification: The essay clearly conveys the author's emotions.
+- Improvement Strategy: No improvements needed for expressing emotions.
 
-### Use precise words or phrases (1 mark)
+#### Precise Language (1/1 marks)
 
-- **1 mark:** Uses clear, specific, and accurate language to convey ideas. The essay uses precise and descriptive language such as "cacophony of white noise," "sallow yellow," and "benignly at the viewer."
+- Evidence: "The room is large, rectangular.", "a jumble of hundreds of bodies, elbows knocking together"
+- Analysis: The language is precise and descriptive, creating a vivid picture of the museum and the crowd.
+- Score Justification: The language is clear and effective.
+- Improvement Strategy: No improvements needed for precise language.
 
-### Use at least THREE figurative languages (3 marks)
+#### Figurative Language (3/3 marks)
 
-- **3 marks:** Effectively uses at least three examples of figurative language. The essay includes "a jumble of hundreds of bodies" (metaphor), "the more she peered into your soul" (personification), and "Fame is a double-edged sword" (metaphor).
+- Evidence: "a cacophony of white noise," "she peered into your soul," "museum turned into a public selfie booth," "Fame is a double-edged sword."
+- Analysis: The essay uses figurative language effectively to enhance the message.
+- Score Justification: The essay demonstrates a good use of figurative language.
+- Improvement Strategy: No improvements needed for figurative language.
 
-### Have a moral (Goal to focus on) (1 mark)
+#### Moral/Goal (1/1 marks)
 
-- **1 mark:** The story clearly conveys a moral or lesson. The essay suggests that the value of art can be diminished by excessive attention and the performative nature of social media.
+- Evidence: "What was once grand is now a joke.", "Or does the attention take away the value?"
+- Analysis: The essay raises a question about the value of art and fame, suggesting that excessive attention can diminish the true worth of something.
+- Score Justification: The essay clearly conveys its moral.
+- Improvement Strategy: No improvements needed for conveying the moral.
 
-### Write with an outstanding idea (3 marks)
+#### Creative Merit (3/3 marks)
 
-- **3 marks:** The narrative is creative and engaging, with a compelling plot and original ideas. The essay offers a critical perspective on the modern experience of art and the impact of social media, making it both creative and thought-provoking.
+- Evidence: The essay offers a unique perspective on a common tourist experience.
+- Analysis: The essay is creative in its approach, offering a unique perspective on a common tourist experience.
+- Score Justification: The essay demonstrates a high level of creativity.
+- Improvement Strategy: No improvements needed for creative merit.
 
-### TOTAL MARKS: 14/14 (100%)
+### Overall Assessment
 
-### Strengths:
-
-- Excellent use of tone to match the theme of the writing.
-- Clear expression of emotions and feelings.
-- Effective use of figurative language.
-
-### Areas for Improvement:
-
-- While the essay is excellent, consider exploring more complex sentence structures to further enhance your writing style.
-- Continue to develop your unique voice and perspective in your writing.
-- Try to incorporate more sensory details to make the writing more immersive.
-
-### Overall Assessment: Sue's essay is outstanding, demonstrating a strong understanding of the prompt and excellent writing skills. The essay is creative, engaging, and effectively conveys its message with a clear voice and tone.
+- Total Score: 14/14 (100%)
+- Key Strengths: Strong structure, appropriate tone, effective use of figurative language.
+- Priority Improvements: No improvements needed.
+- Strategic Development Plan: Continue to develop your creative writing skills.

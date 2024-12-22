@@ -1,45 +1,57 @@
-## Grading for Skylar's Essay
+### Detailed Rubric Assessment
 
-### Write in a proper structure (2 marks)
+#### Structure (2/2 marks)
 
-- **2 marks:** The writing is well-organised with a clear introduction, body, and conclusion. The essay begins with a relatable scenario, transitions into a question, and then presents a clear argument against excessive public selfies, ending with a polite request.
+- Evidence: The essay has a clear introduction, body, and conclusion.
+- Analysis: The essay is well-organized, starting with a relatable scenario, posing questions, and then directly addressing the "selfie-addicted adult." The conclusion is a plea to reconsider.
+- Score Justification: The essay demonstrates a clear and logical flow of ideas.
+- Improvement Strategy: No improvements needed for structure.
 
-### Choose a tone to match the theme of the writing (3 marks)
+#### Tone (3/3 marks)
 
-- **3 marks:** The tone consistently matches and enhances the theme of the writing. The humorous and slightly sarcastic tone effectively conveys the child's exasperation with their parent's selfie habits. For example, the phrase "horror movie of embarrassing selfies" sets the tone early on.
+- Evidence: The tone is a mix of exasperation and a plea for understanding.
+- Analysis: The tone is consistently appropriate, conveying a child's frustration and embarrassment. There's a mix of sarcasm and genuine concern.
+- Score Justification: The tone effectively conveys the intended emotions.
+- Improvement Strategy: No improvements needed for tone.
 
-### Include emotions and feelings (1 mark)
+#### Emotions/Feelings (1/1 marks)
 
-- **1 mark:** Emotions and feelings are clearly expressed, adding depth to the narrative. The essay effectively conveys the child's embarrassment and discomfort through phrases like "bright red flush creeps up your cheeks" and "You grit your teeth and plaster a fake grin on your face."
+- Evidence: "bright red flush creeps up your cheeks", "Sense their discomfort?"
+- Analysis: The essay effectively expresses the child's feelings of embarrassment and discomfort.
+- Score Justification: The essay clearly conveys the child's emotions.
+- Improvement Strategy: No improvements needed for expressing emotions.
 
-### Use precise words or phrases (1 mark)
+#### Precise Language (1/1 marks)
 
-- **1 mark:** Uses clear, specific, and accurate language to convey ideas. The essay uses precise language such as "clogging up your storage" and "dreaded torture of public selfies" to make the argument clear.
+- Evidence: "You're blocking the painting!", "clogging up photo storage"
+- Analysis: The language is generally precise, with clear descriptions of the situation and feelings.
+- Score Justification: The language is clear and effective.
+- Improvement Strategy: No improvements needed for precise language.
 
-### Use at least THREE figurative languages (3 marks)
+#### Figurative Language (3/3 marks)
 
-- **3 marks:** Effectively uses at least three examples of figurative language. The essay includes "horror movie of embarrassing selfies" (metaphor), "memories...lost as easily as leaves in the wind" (simile), and "dreaded torture of public selfies" (hyperbole).
+- Evidence: "horror movie of embarrassing selfies," "lost as easily as leaves in the wind," "dreaded torture of public selfies."
+- Analysis: The essay uses figurative language effectively to enhance the message.
+- Score Justification: The essay demonstrates a good use of figurative language.
+- Improvement Strategy: No improvements needed for figurative language.
 
-### Have a moral (Goal to focus on) (1 mark)
+#### Moral/Goal (1/1 marks)
 
-- **1 mark:** The story clearly conveys a moral or lesson. The essay clearly argues against excessive public selfies and encourages consideration for others.
+- Evidence: "So, please do not clog up your storage and waste your time by the dreaded torture of public selfies. Please reconsider."
+- Analysis: The essay has a clear moral: to reconsider taking excessive public selfies and be mindful of others' feelings.
+- Score Justification: The essay clearly conveys its moral.
+- Improvement Strategy: No improvements needed for conveying the moral.
 
-### Write with an outstanding idea (3 marks)
+#### Creative Merit (3/3 marks)
 
-- **3 marks:** The narrative is creative and engaging, with a compelling plot and original ideas. The essay presents a unique and relatable perspective on the selfie phenomenon from a child's point of view, making it both creative and engaging.
+- Evidence: The essay is written from a child's perspective.
+- Analysis: The essay is creative in its approach, using a child's perspective to address a common issue.
+- Score Justification: The essay demonstrates a high level of creativity.
+- Improvement Strategy: No improvements needed for creative merit.
 
-### TOTAL MARKS: 14/14 (100%)
+### Overall Assessment
 
-### Strengths:
-
-- Excellent use of tone to match the theme of the writing.
-- Clear expression of emotions and feelings.
-- Effective use of figurative language.
-
-### Areas for Improvement:
-
-- While the essay is excellent, consider exploring more complex sentence structures to further enhance your writing style.
-- Continue to develop your unique voice and perspective in your writing.
-- Try to incorporate more sensory details to make the writing more immersive.
-
-### Overall Assessment: Skylar's essay is outstanding, demonstrating a strong understanding of the prompt and excellent writing skills. The essay is creative, engaging, and effectively conveys its message with a clear voice and tone.
+- Total Score: 14/14 (100%)
+- Key Strengths: Strong structure, appropriate tone, effective use of figurative language.
+- Priority Improvements: No improvements needed.
+- Strategic Development Plan: Continue to develop your creative writing skills.

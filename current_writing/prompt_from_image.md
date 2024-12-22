@@ -1,39 +1,13 @@
 # Image Writing Prompt
 
 {
-  "description": "The image is an illustration depicting a crowd of people taking selfies in front of a framed artwork. The artwork, in a gold frame, is on a blue wall. People of various ages and ethnicities are holding up smartphones, some with selfie sticks. The person in the foreground to the right has long red hair and is holding a phone with a yellow case with green polka dots. Their face is mostly obscured by the phone, but their smile is visible. The person to the left is holding up a gray smartphone. They are wearing a yellow and red plaid shirt. Other figures are partially visible in the background, some holding phones. The illustration style is cartoonish and colorful with bold lines.",
+  "description": "The image is an illustration depicting a group of people taking selfies in front of a framed artwork. The people are very close together and are all holding up their smartphones to take pictures. The artwork itself is framed with gold and has a dark, maybe blue, background. The people are diverse with different hair and skin colors. The person in the foreground on the left is wearing a yellow and red plaid jacket, has dark skin, and holds up a grey smartphone. The person in the foreground on the right is smiling and has long orange hair, wearing a white and green striped shirt, and has a bright yellow phone with green polka dots. In addition, there is a person with blond hair holding a red selfie stick with a grey smartphone attached to it. The image also features the text 'Public Selfies' at the top. The style is cartoonish with clear lines, flat colors, and some cross hatching.",
   "elements": {
-    "main_elements": [
-      "people",
-      "smartphones",
-      "selfie sticks",
-      "framed artwork",
-      "crowd",
-       "yellow and red plaid shirt",
-       "yellow phone case with green polka dots",
-      "blue background"
-     ],
-    "colors": [
-      "blue",
-      "yellow",
-      "red",
-      "green",
-      "black",
-      "gold",
-      "grey"
-    ],
-    "subjects": [
-      "public selfies",
-      "technology",
-      "social media",
-      "art",
-      "human interaction",
-      "modern photography"
-    ],
-     "text": [
-          "Public Selfies"
-      ]
+    "main_elements": ["people", "smartphones", "artwork", "selfie stick"],
+    "colors": ["yellow", "red", "green", "grey", "blue", "gold", "white", "brown"],
+    "subjects": ["people taking selfies", "modern technology", "public art", "crowds"],
+    "text_visible": ["Public Selfies"]
   },
-  "writing_task": "The writing task could be to explore the themes of technology and social media's impact on how we interact with art and public spaces, perhaps by writing an essay, short story, or character sketch of one of the selfie-takers. It could also discuss the social phenomenon of public selfies.",
-  "prompt_summary": "This image serves as a prompt by presenting a visually engaging scene that encapsulates contemporary behavior around art and technology. It invites exploration into topics like the relationship between the individual and the crowd, the performative nature of selfies, the way we experience art, and how technology influences our interactions in public spaces. It can be used to provoke thoughts on the motivations behind taking selfies and the nature of modern social interactions."
+    "writing_task_requirements": "The writing task requires students to consider the implications of public selfies, the social phenomenon of capturing images at public venues, and the potential impacts on personal interactions with art and others. It could also explore the cultural implications of smartphones, or the dynamic between technology and human behavior. Students are encouraged to consider multiple angles and form arguments.",
+    "writing_prompt_summary": "This image serves as a writing prompt by presenting a scene of modern social interaction with technology at its core. It creates a visual representation of how people engage with art and public spaces today, opening up avenues for discussions about social interactions, selfie culture, the role of technology, and the impact of smartphones on our lives."
 }

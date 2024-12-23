@@ -9,14 +9,14 @@
 
 #### Tone (3/3 marks)
 
-- Evidence: The tone is conversational and slightly whimsical, with a sense of mystery.
+- Evidence: The tone is reflective and slightly whimsical, with a sense of wonder.
 - Analysis: The tone is consistently appropriate for the narrative.
 - Score Justification: The tone enhances the overall atmosphere of the story.
 - Improvement Strategy: Continue to maintain a consistent and appropriate tone in your writing.
 
 #### Emotions/Feelings (1/1 mark)
 
-- Evidence: The essay expresses a sense of curiosity and slight frustration.
+- Evidence: The essay expresses a sense of curiosity and wonder.
 - Analysis: The emotions are well-expressed and contribute to the reader's engagement with the story.
 - Score Justification: The emotions are effectively conveyed through the character's actions and thoughts.
 - Improvement Strategy: Continue to explore and express a range of emotions in your writing.
@@ -30,7 +30,7 @@
 
 #### Figurative Language (3/3 marks)
 
-- Evidence: The essay uses figurative language such as "sprawled against the seat like a cat basking in the sun", "carpet shifts hues under my feet, rippling blue and white and turquoise like the sea", "sky that spreads red and purple like watercolour".
+- Evidence: The essay uses figurative language such as "their skins glowing like embers", "rippled and shifted as it met the doorway, transforming into a sea of blue and white", "as vast and mysterious as the sea that stretched before me".
 - Analysis: The use of figurative language adds depth and creativity to the writing.
 - Score Justification: The essay effectively uses figurative language to enhance the descriptions.
 - Improvement Strategy: Continue to incorporate figurative language to add depth and creativity to your writing.
@@ -44,7 +44,7 @@
 
 #### Creative Merit (3/3 marks)
 
-- Evidence: The essay is highly creative, with a unique and imaginative setting.
+- Evidence: The essay is creative, with a unique and imaginative setting.
 - Analysis: The setting and characters are imaginative and engaging.
 - Score Justification: The essay demonstrates a high level of creativity and originality.
 - Improvement Strategy: Continue to explore creative ideas and develop unique and imaginative settings.

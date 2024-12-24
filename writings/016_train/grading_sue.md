@@ -1,57 +1,65 @@
 ### Detailed Rubric Assessment
 
 #### Structure (2/2 marks)
-
-- Evidence: The essay has a clear beginning, middle, and end, with a logical flow of events.
-- Analysis: The essay is well-organized and easy to follow.
-- Score Justification: The structure is well-defined and contributes to the overall coherence of the essay.
-- Improvement Strategy: No improvement needed for structure.
+- Evidence: Clear progression from morning rush to final realization, with well-organized paragraphs
+- Analysis: Excellent flow with natural transitions between events and thoughts
+- Score Justification: Story maintains coherent structure with clear beginning, middle, and end
+- Improvement Strategy: Consider using longer paragraphs to develop scenes more fully
 
 #### Tone (3/3 marks)
-
-- Evidence: The tone is consistently appropriate, with a mix of humor and observation.
-- Analysis: The tone is well-maintained throughout the essay.
-- Score Justification: The tone is appropriate and enhances the essay's readability.
-- Improvement Strategy: No improvement needed for tone.
+- Evidence: "Blast it," "rather eat his own tie," "honey, you left your suitcase"
+- Analysis: Consistently maintains a light, humorous tone appropriate for the situation
+- Score Justification: Perfect balance of formal narrative and casual internal dialogue
+- Improvement Strategy: Already excellent, continue developing this strong voice
 
 #### Emotions/Feelings (1/1 mark)
-
-- Evidence: The character's feelings are well-expressed, showing a mix of worry, frustration, and mild panic.
-- Analysis: The character's emotions are clearly conveyed.
-- Score Justification: The emotions are well-expressed and add to the essay's impact.
-- Improvement Strategy: No improvement needed for expressing emotions.
+- Evidence: "sits bolt upright," "hurriedly averts her eyes," "feeling the seat of his pants strain"
+- Analysis: Successfully conveys both physical and emotional states
+- Score Justification: Effectively expresses emotions through actions and reactions
+- Improvement Strategy: Could explore deeper emotional nuances in character interactions
 
 #### Precise Language (1/1 mark)
-
-- Evidence: The language is consistently precise and descriptive.
-- Analysis: The language is clear and effective.
-- Score Justification: The language is precise and contributes to the essay's clarity.
-- Improvement Strategy: No improvement needed for precise language.
+- Evidence: "lingering sweetness perched at the back of his tongue," "nasty-looking food stain"
+- Analysis: Uses specific, vivid descriptions throughout
+- Score Justification: Consistently employs precise, detailed language
+- Improvement Strategy: Continue developing sensory details in descriptions
 
 #### Figurative Language (2/3 marks)
-
-- Evidence: Examples include "eat his own tie" and "lingering sweetness perched at the back of his tongue".
-- Analysis: There are a few examples of figurative language, but more could be used.
-- Score Justification: The use of figurative language is good, but could be more frequent.
-- Improvement Strategy: Try to incorporate more figurative language to enhance the essay's imagery.
+- Evidence:
+  1. "rather eat his own tie"
+  2. "buildings and poles whip by"
+- Analysis: Uses some effective figurative language but could include more
+- Score Justification: Contains two clear examples of figurative language
+- Improvement Strategy: Incorporate more metaphors or similes to enhance descriptive quality
 
 #### Moral/Goal (0.5/1 mark)
+- Evidence: Implied lesson about being prepared and organized
+- Analysis: Message about consequences of rushing/forgetfulness is present but subtle
+- Score Justification: Has a partial moral that isn't fully developed
+- Improvement Strategy: Strengthen the moral through more explicit reflection
 
-- Evidence: The essay doesn't have a clear moral, but it does present a humorous situation.
-- Analysis: The essay is more focused on the situation than a moral.
-- Score Justification: The essay lacks a clear moral or goal.
-- Improvement Strategy: Consider adding a moral or goal to your writing.
-
-#### Creative Merit (2/3 marks)
-
-- Evidence: The essay has an interesting character and a relatable situation.
-- Analysis: The essay is moderately creative.
-- Score Justification: The essay is creative, but could be more imaginative.
-- Improvement Strategy: Try to be more creative and imaginative in your writing.
+#### Creative Merit (3/3 marks)
+- Evidence: Unique perspective, humorous situations, excellent character development
+- Analysis: Creative approach to mundane situation with engaging details and subplot
+- Score Justification: Shows high creativity in developing character and situation
+- Improvement Strategy: Already excellent, continue developing unique narrative angles
 
 ### Overall Assessment
 
-- Total Score: 11.5/14 (82%)
-- Key Strengths: Clear structure, appropriate tone, well-expressed emotions, precise language.
-- Priority Improvements: More figurative language, clearer moral/goal, more creative.
-- Strategic Development Plan: Focus on using more figurative language and adding a clear moral or goal to your writing. Try to be more creative and imaginative in your writing.
+- Total Score: 12.5/14 (89%)
+
+- Key Strengths:
+  1. Excellent character development and voice
+  2. Strong narrative structure with engaging pacing
+  3. Effective use of humor and precise language
+
+- Priority Improvements:
+  1. Incorporate more figurative language
+  2. Develop a stronger moral/message
+  3. Expand on character interactions
+
+- Strategic Development Plan:
+  1. Practice writing exercises focusing on metaphor creation
+  2. Work on incorporating deeper themes while maintaining light tone
+  3. Develop character interaction scenes to add depth to the story
+  4. Consider adding more sensory details to enhance immersion

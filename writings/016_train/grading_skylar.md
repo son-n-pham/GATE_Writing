@@ -1,57 +1,65 @@
 ### Detailed Rubric Assessment
 
 #### Structure (2/2 marks)
-
-- Evidence: The essay has a clear beginning, middle, and end, with a logical flow of events.
-- Analysis: The essay is well-organized and easy to follow.
-- Score Justification: The structure is well-defined and contributes to the overall coherence of the essay.
-- Improvement Strategy: No improvement needed for structure.
+- Evidence: Clear beginning with character description, developed conflict, and reflective ending
+- Analysis: Well-organized progression from observation to interaction to resolution
+- Score Justification: Essay maintains logical flow and clear paragraph structure throughout
+- Improvement Strategy: Consider adding more transition phrases between paragraphs for even smoother flow
 
 #### Tone (2/3 marks)
-
-- Evidence: The narrator's directness is a key part of the character.
-- Analysis: The tone is generally appropriate, with a mix of observation and direct address.
-- Score Justification: The tone is mostly appropriate, but could be more nuanced.
-- Improvement Strategy: Consider varying the tone to create more depth and complexity.
+- Evidence: "Nosy know-it-all," "Sorry sir, but I can't keep holding back my words"
+- Analysis: The tone shifts between observational and confrontational
+- Score Justification: While generally appropriate, some moments feel abrupt in tone shift
+- Improvement Strategy: Work on maintaining a more consistent tone throughout the piece
 
 #### Emotions/Feelings (1/1 mark)
-
-- Evidence: The narrator's feelings are well-expressed, showing a mix of curiosity, concern, and self-awareness.
-- Analysis: The narrator's emotions are clearly conveyed.
-- Score Justification: The emotions are well-expressed and add to the essay's impact.
-- Improvement Strategy: No improvement needed for expressing emotions.
+- Evidence: "seething with frustration," "forehead was creased with worry"
+- Analysis: Successfully conveys both character emotions and narrator's internal state
+- Score Justification: Emotions are clearly and effectively expressed
+- Improvement Strategy: Could explore deeper emotional nuances
 
 #### Precise Language (1/1 mark)
-
-- Evidence: The language is generally precise, with some vivid descriptions.
-- Analysis: The language is clear and effective.
-- Score Justification: The language is precise and contributes to the essay's clarity.
-- Improvement Strategy: No improvement needed for precise language.
+- Evidence: "round, egg-like head," "horrible forward neck posture," "scalp wouldn't itch"
+- Analysis: Uses specific, detailed descriptions throughout
+- Score Justification: Consistently employs precise, vivid language
+- Improvement Strategy: Continue developing vocabulary range
 
 #### Figurative Language (2/3 marks)
-
-- Evidence: Examples include "black bird's nest" and "egg-like head".
-- Analysis: There are a few examples of figurative language, but more could be used.
-- Score Justification: The use of figurative language is good, but could be more frequent.
-- Improvement Strategy: Try to incorporate more figurative language to enhance the essay's imagery.
+- Evidence:
+  1. "hair was a black bird's nest"
+  2. "words spilling out of my mouth"
+- Analysis: Uses effective similes and metaphors but could include more
+- Score Justification: Contains two clear examples of figurative language
+- Improvement Strategy: Incorporate more metaphors or similes to enhance descriptive quality
 
 #### Moral/Goal (1/1 mark)
-
-- Evidence: The essay has a clear moral about the importance of thinking before speaking.
-- Analysis: The moral is clear and well-integrated into the story.
-- Score Justification: The moral is clear and adds to the essay's meaning.
-- Improvement Strategy: No improvement needed for moral/goal.
+- Evidence: "big mouths come with a cost" and reflection on past experience with Paisley
+- Analysis: Clear message about the consequences of being too forward/judgmental
+- Score Justification: Successfully conveys a moral lesson about social interaction
+- Improvement Strategy: Could strengthen the moral through more subtle development
 
 #### Creative Merit (2/3 marks)
-
-- Evidence: The essay has an interesting character and a unique situation.
-- Analysis: The essay is moderately creative.
-- Score Justification: The essay is creative, but could be more imaginative.
-- Improvement Strategy: Try to be more creative and imaginative in your writing.
+- Evidence: Unique perspective of an unable-to-hold-back observer, interesting wig revelation
+- Analysis: Creative approach to character interaction and conflict
+- Score Justification: Shows good creativity but could push boundaries further
+- Improvement Strategy: Consider adding more unexpected elements or deeper character insights
 
 ### Overall Assessment
 
 - Total Score: 11/14 (79%)
-- Key Strengths: Clear structure, well-expressed emotions, precise language.
-- Priority Improvements: Tone could be more nuanced, more figurative language, more creative.
-- Strategic Development Plan: Focus on using more figurative language and varying the tone to create more depth and complexity in your writing. Try to be more creative and imaginative in your writing.
+
+- Key Strengths:
+  1. Strong character voice and personality
+  2. Excellent use of precise, descriptive language
+  3. Effective development of conflict and resolution
+
+- Priority Improvements:
+  1. Incorporate more figurative language
+  2. Maintain more consistent tone throughout
+  3. Expand creative elements for more unique storytelling
+
+- Strategic Development Plan:
+  1. Practice writing exercises focusing on metaphor and simile creation
+  2. Work on tone consistency by reading aloud and noting shifts
+  3. Develop character backgrounds before writing to deepen story complexity
+  4. Consider multiple possible endings to choose the most impactful one

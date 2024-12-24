@@ -106,6 +106,6 @@ Create 'grading\_{student_name}.md' with:
 
 ### 4. EXAMPLE OF ESSAY
 
-Use your expertise to provide your example essay for this topic as the good reference for the students to learn from. Save the file as 'example_essay_from_AI.md' in the 'current_writing' folder.
+Use your expertise to provide your example essay for this topic as the good reference by ticking all and beyond the requirement in the grading rubric for the students to learn from. Save the file as 'example_essay_from_AI.md' in the 'current_writing' folder.
 
 After writing the example essay, give your explanation about the essay in the 'grading_example_from_AI.md' file in the 'current_writing' folder.

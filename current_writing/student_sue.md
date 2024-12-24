@@ -1,27 +1,31 @@
-The boy leans back on the lounge chair, crossing his ankles over the armrest as he sprawled against the seat like a cat basking in the sun, hands pillowed behind his head.
+Mr Hilkins is in for a rather long day.
 
-"I dunno." His eyes trace the outline of the clock hanging suspended above the flower vase, pulse beating to the steady tick... tick...
+He supposes it might have been his fault - for the first time that year, he was about to be late for work.
 
-"It's kind of like those... Russian nesting dolls, you know? The doorways." He turns an orange peach around in his fingers, considering.
+He reaches the station at half-past seven, feeling the seat of his pants strain a little against his stomach. Perhaps it wouldn't have been right after all about him eating too much pudding the night before, although he would rather eat his own tie than admit that to her.
 
-"There's always one inside the other," I supply, watching as he plucks the leaf off the peach and lets it flutter in the non-existent breeze.
+He can still taste the lingering sweetness perched at the back of his tongue, which brings him to wonder if he'd brushed his teeth properly. Blast it, the last thing he needed was a hefty dentist's bill.
 
-"Sounds 'bout right." He cracks his mouth open into a yawn, pink gums and white teeth, stretching languorously.
+"You really ought to take better care of your teeth!" He imagines his wife scolding.
 
-"Easy for you to say," the wind ruffles the decorative monstera leaves, blows the gauzy curtains to a ruffle and tears the petals from roses blooming in the vase. "You're not the one who has to travel interdimensionally.”
+Mr Hilkins very nearly misses his train.
 
-The carpet shifts hues under my feet, rippling blue and white and turquoise like the sea.
+Inside, the compartments are crowded, each seat filled. The air smells faintly of new shoes, engines and airports.
 
-"Do what you want," Peach juice leaks from the corner of his mouth, the skin of its sweet flesh stuck in his teeth. "You could just stay in this in-between place for all I care."
+He sits down, claiming the last available seat. He doesn't notice that his seat has a rather nasty-looking food stain on it, and his fellow passengers inwardly decide that it would be kinder not to let him know.
 
-I open the door, feeling the hard plastic of the handle turning. It is a room, just like this one and an identical white panelled door that leads to another, and another and another. I count four, the last opening to red sky and bringing with it the scent of roses and peaches and sea salt. The exit.
+The train starts, racing across the tracks as buildings and poles whip by. Mr Hilkins watches them for a moment. The woman he is sitting next to does as well; neither of them are up to much small-talking.
 
-I take a step forward, the breeze cool on my skin.
+His phone rings out, a tune jangling that elicits a few curious head turns in his direction. Hilkins pulls it out and sees the notification.
 
-"Thank you," I tell the boy, but when I turn he is gone; all that is left is the lounge chair, three purple canvas cushions piled in the corners and a rumple blanket. My words are met with air.
+The woman beside him tilts her head slightly, vaguely intrigued. Hilkins doesn't see her, or the lady in front giving him a side-eye.
 
-The clock ticks.
+He reads the message. It's from his wife.
 
-"Endless, huh?" I turn to the doorways, the sky that spreads red and purple like watercolour, heedless of boundaries.
+"Honey, you left your suitcase at home!"
 
-"I guess I'll just see what the universe has in store for me!" Easier said than done.
+Wait. What?
+
+He sits bolt upright and his eyes fly back to the window. His seat mate hurriedly averts her eyes, pretending she hadn't been watching after all.
+
+He is approximately 4 miles west from his house and suitcase.

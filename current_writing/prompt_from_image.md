@@ -1,39 +1,12 @@
 # Image Writing Prompt
 
 {
-  "description": "The image is an interior scene with surreal elements. In the foreground, there is a round, light-wood table on the left with a vase of colorful flowers and a few red-orange fruits. A pink sofa with light purple pillows and a beige throw blanket is on the right. The floor is a light green color, and from the open doorway, which consists of a series of white doors in a row leading to the horizon, the floor changes into water with a slight ripple effect. The background features a light pink sky with a darker red color on the horizon line where the sky meets the sea. On the wall, there is also a white clock with black hands pointing at around 10:10. A potted leafy green plant sits behind the pink sofa. There are also a few falling pink petals and yellow leaves floating throughout the room. The artwork style is reminiscent of a colored pencil drawing.",
+  "description": "The image is a drawing depicting three people sitting in what appears to be a train or bus. The drawing uses simple lines and a limited color palette, primarily consisting of shades of blue, grey, and black. The background shows a series of light grey rectangles and horizontal blue lines representing the train's windows and interior paneling. The three characters are stylized and not drawn with realistic proportions. On the left, a man with short black hair and a checkered blue and white shirt looks downward. He is holding something in his hands, possibly a phone. Next to him is a woman with shoulder length dark hair wearing a gray dress who appears to be looking down as well. On the right, another woman with dark hair tied up in two buns is looking towards the right, wearing a white dress with blue polka dots. The seats they are sitting in are also stylized, with blue dotted pattern for the seat and a black linear structure. The drawing style is child-like and naive.",
   "elements": {
-    "main_elements": [
-      "table",
-      "flowers",
-      "fruits",
-      "sofa",
-      "pillows",
-      "blanket",
-      "doors",
-      "water",
-      "sky",
-      "clock",
-      "plant"
-    ],
-    "colors": [
-      "white",
-      "pink",
-      "green",
-      "red",
-      "yellow",
-      "purple",
-      "beige",
-      "light blue"
-    ],
-    "subjects": [
-      "interior scene",
-      "surreal setting",
-      "open doors",
-      "water floor"
-    ],
-    "text": "No text is visible in the image."
+    "colors": ["blue", "gray", "black", "white"],
+    "subjects": ["three people", "train", "bus", "seats", "windows"],
+    "text": "None"
   },
-    "writing_task": "The writing task requires a narrative or descriptive piece about a place that merges reality with the surreal. The image suggests a transition between a familiar, cozy room and an infinite, watery path. It invites creative exploration of a world with unusual physics and a hint of fantasy.",
-  "summary": "This image serves as a prompt by presenting a setting that blends domestic comfort with a strange, almost dreamlike transition. The open doors leading to a sea-like floor invite contemplation about journeys, passages, and transformations. The prompt can inspire reflections on the nature of reality, doorways to other worlds, or the feeling of being in a liminal space."
+  "writing_task_requirements": "The image presents a scene of people in transit, which could prompt a story about their relationships, destinations, or internal thoughts. It also encourages creative storytelling due to the stylized and non realistic characters. There is also the possibility to talk about public transport and commuting, or the simple mundane things in life.",
+  "summary": "The image serves as a prompt by presenting a simple scene with potential for character development and narrative exploration. It sparks imagination and allows for a wide range of stories, whether realistic or imaginative. The expressions on the characters faces can trigger feelings, thoughts, and other inner states to the writer. "
 }

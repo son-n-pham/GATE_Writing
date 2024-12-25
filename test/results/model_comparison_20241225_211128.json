@@ -1,0 +1,1447 @@
+{
+    "phi3.5": {
+        "accuracy": 0.6875,
+        "total_comparisons": 32,
+        "total_matches": 22,
+        "execution_time": 25.7041437625885,
+        "average_file_time": 6.426035940647125,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 9.998254299163818,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 6.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 4,
+                "total": 8,
+                "execution_time": 5.530488014221191,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "have a moral",
+                        "expected": {
+                            "marks": 1,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 4
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 5.202429533004761,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 11,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 7,
+                "total": 8,
+                "execution_time": 4.9729719161987305,
+                "mismatches": [
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 13.5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 12,
+                            "total": 14
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "granite3.1-moe:1b": {
+        "accuracy": 0.5,
+        "total_comparisons": 32,
+        "total_matches": 16,
+        "execution_time": 27.25697660446167,
+        "average_file_time": 6.8142441511154175,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 1,
+                "total": 8,
+                "execution_time": 8.46696138381958,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 3,
+                            "total": 6
+                        }
+                    },
+                    {
+                        "category": "emotions/feelings",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 1.5
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 4
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 3,
+                            "total": 6
+                        }
+                    },
+                    {
+                        "category": "have a moral",
+                        "expected": {
+                            "marks": 0,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0,
+                            "total": 0
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 6.005778789520264,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 4,
+                "total": 8,
+                "execution_time": 5.9725189208984375,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "have a moral",
+                        "expected": {
+                            "marks": 0,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0,
+                            "total": 0
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 6.811717510223389,
+                "mismatches": [
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 1,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "granite3.1-dense:2b": {
+        "accuracy": 0.75,
+        "total_comparisons": 32,
+        "total_matches": 24,
+        "execution_time": 20.594724416732788,
+        "average_file_time": 5.148681104183197,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 7.305208683013916,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 5.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 4.527236223220825,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 7,
+                "total": 8,
+                "execution_time": 4.337688684463501,
+                "mismatches": [
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 11,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 11.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 4.422581434249878,
+                "mismatches": [
+                    {
+                        "category": "have a moral",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 13.5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "granite3.1-dense:latest": {
+        "accuracy": 0.9375,
+        "total_comparisons": 32,
+        "total_matches": 30,
+        "execution_time": 108.66096687316895,
+        "average_file_time": 27.165241718292236,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 28.568004608154297,
+                "mismatches": []
+            },
+            {
+                "student": "mang_1",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 29.863284587860107,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1.5,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 28.259812355041504,
+                "mismatches": []
+            },
+            {
+                "student": "sue",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 21.968864917755127,
+                "mismatches": []
+            }
+        ]
+    },
+    "llama3.2:latest": {
+        "accuracy": 0.75,
+        "total_comparisons": 32,
+        "total_matches": 24,
+        "execution_time": 19.635108947753906,
+        "average_file_time": 4.908777236938477,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 8.79671049118042,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 3.609606981277466,
+                "mismatches": [
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 3.6054773330688477,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 11,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 7,
+                "total": 8,
+                "execution_time": 3.6223011016845703,
+                "mismatches": [
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 13.5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "minicpm-v:8b-2.6-q4_K_M": {
+        "accuracy": 0.6875,
+        "total_comparisons": 32,
+        "total_matches": 22,
+        "execution_time": 113.24035120010376,
+        "average_file_time": 28.31008780002594,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 36.942018032073975,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 5.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 25.180025100708008,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 25.93563485145569,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 11,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 11.57,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 25.181673526763916,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 13.5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "vanilj/Phi-4:latest": {
+        "accuracy": 0.90625,
+        "total_comparisons": 32,
+        "total_matches": 29,
+        "execution_time": 237.39620733261108,
+        "average_file_time": 59.34905183315277,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 65.01985383033752,
+                "mismatches": []
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 55.86821222305298,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 64.18711018562317,
+                "mismatches": []
+            },
+            {
+                "student": "sue",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 52.32002377510071,
+                "mismatches": []
+            }
+        ]
+    },
+    "mistral": {
+        "accuracy": 0.875,
+        "total_comparisons": 32,
+        "total_matches": 28,
+        "execution_time": 32.38416337966919,
+        "average_file_time": 8.096040844917297,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 12.360291004180908,
+                "mismatches": []
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 6.655489921569824,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 6.473692417144775,
+                "mismatches": []
+            },
+            {
+                "student": "sue",
+                "matches": 7,
+                "total": 8,
+                "execution_time": 6.894690036773682,
+                "mismatches": [
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 3
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "phi3:3.8b-mini-4k-instruct-q8_0": {
+        "accuracy": 0.5625,
+        "total_comparisons": 32,
+        "total_matches": 18,
+        "execution_time": 55.83885407447815,
+        "average_file_time": 13.959713518619537,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 2,
+                "total": 8,
+                "execution_time": 15.929620027542114,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "emotions/feelings",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 1
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 6
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 4.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 15.597249507904053,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 5
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 10.52828574180603,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 11,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 5,
+                "total": 8,
+                "execution_time": 13.783698797225952,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 3,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 13.5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 10.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "granite3.1-moe:3b-instruct-q8_0": {
+        "accuracy": 0.78125,
+        "total_comparisons": 32,
+        "total_matches": 25,
+        "execution_time": 34.92001152038574,
+        "average_file_time": 8.730002880096436,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 11.891350746154785,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "total marks",
+                        "expected": {
+                            "marks": 5,
+                            "total": 14
+                        },
+                        "got": {
+                            "marks": 5.5,
+                            "total": 14
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "mang_1",
+                "matches": 4,
+                "total": 8,
+                "execution_time": 8.028494596481323,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "emotions/feelings",
+                        "expected": {
+                            "marks": 1,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 3
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 7,
+                "total": 8,
+                "execution_time": 6.6729302406311035,
+                "mismatches": [
+                    {
+                        "category": "structure",
+                        "expected": {
+                            "marks": 1.5,
+                            "total": 2
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "sue",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 8.32723593711853,
+                "mismatches": []
+            }
+        ]
+    },
+    "granite3.1-dense:8b-instruct-q5_K_M": {
+        "accuracy": 0.9375,
+        "total_comparisons": 32,
+        "total_matches": 30,
+        "execution_time": 146.94583749771118,
+        "average_file_time": 36.736459374427795,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 42.50323438644409,
+                "mismatches": []
+            },
+            {
+                "student": "mang_1",
+                "matches": 6,
+                "total": 8,
+                "execution_time": 36.159242153167725,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1.5,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 33.468441009521484,
+                "mismatches": []
+            },
+            {
+                "student": "sue",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 34.81391000747681,
+                "mismatches": []
+            }
+        ]
+    },
+    "mistral-nemo:12b-instruct-2407-q4_K_M": {
+        "accuracy": 0.875,
+        "total_comparisons": 32,
+        "total_matches": 28,
+        "execution_time": 187.8790624141693,
+        "average_file_time": 46.96976560354233,
+        "detailed_results": [
+            {
+                "student": "mang",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 54.38536024093628,
+                "mismatches": []
+            },
+            {
+                "student": "mang_1",
+                "matches": 4,
+                "total": 8,
+                "execution_time": 46.37525820732117,
+                "mismatches": [
+                    {
+                        "category": "tone",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    },
+                    {
+                        "category": "precise words or phrases",
+                        "expected": {
+                            "marks": 0.5,
+                            "total": 1
+                        },
+                        "got": {
+                            "marks": 0.5,
+                            "total": 0.5
+                        }
+                    },
+                    {
+                        "category": "use at least THREE figurative languages",
+                        "expected": {
+                            "marks": 1,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 1,
+                            "total": 1
+                        }
+                    },
+                    {
+                        "category": "write with an outstanding idea",
+                        "expected": {
+                            "marks": 2,
+                            "total": 3
+                        },
+                        "got": {
+                            "marks": 2,
+                            "total": 2
+                        }
+                    }
+                ]
+            },
+            {
+                "student": "skylar",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 42.1978919506073,
+                "mismatches": []
+            },
+            {
+                "student": "sue",
+                "matches": 8,
+                "total": 8,
+                "execution_time": 44.91955018043518,
+                "mismatches": []
+            }
+        ]
+    }
+}

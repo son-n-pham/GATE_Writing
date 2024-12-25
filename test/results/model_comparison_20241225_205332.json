@@ -1,0 +1,38 @@
+{
+    "phi3.5": {
+        "error": "name 'time' is not defined"
+    },
+    "granite3.1-moe:1b": {
+        "error": "name 'time' is not defined"
+    },
+    "granite3.1-dense:2b": {
+        "error": "name 'time' is not defined"
+    },
+    "granite3.1-dense:latest": {
+        "error": "name 'time' is not defined"
+    },
+    "llama3.2:latest": {
+        "error": "name 'time' is not defined"
+    },
+    "minicpm-v:8b-2.6-q4_K_M": {
+        "error": "name 'time' is not defined"
+    },
+    "vanilj/Phi-4:latest": {
+        "error": "name 'time' is not defined"
+    },
+    "mistral": {
+        "error": "name 'time' is not defined"
+    },
+    "phi3:3.8b-mini-4k-instruct-q8_0": {
+        "error": "name 'time' is not defined"
+    },
+    "granite3.1-moe:3b-instruct-q8_0": {
+        "error": "name 'time' is not defined"
+    },
+    "granite3.1-dense:8b-instruct-q5_K_M": {
+        "error": "name 'time' is not defined"
+    },
+    "mistral-nemo:12b-instruct-2407-q4_K_M": {
+        "error": "name 'time' is not defined"
+    }
+}

@@ -1,0 +1,7 @@
+# Image Writing Prompt
+
+{
+  "image_description": "The image shows a text excerpt, likely from a test or assignment, presented against a plain white background. The text is black and uses a serif font, and is contained within a thin blue rectangular border. There are two distinct paragraphs. The first paragraph begins with 'Write about the following topic:' followed by a declarative sentence, 'Everybody should be allowed admission to university study programs' regardless of their level of academic ability.'. The second paragraph presents a question, 'To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience.'",
+  "writing_task_requirements": "The writing task requires the respondent to discuss whether everyone should be allowed admission to university, regardless of academic ability. The respondent is expected to express their agreement or disagreement with the statement, provide reasons for their position, and incorporate relevant personal knowledge or experiences.",
+  "prompt_summary": "This image serves as a writing prompt by presenting a controversial statement about university admissions and requiring the respondent to engage in argumentative writing, thus assessing their critical thinking and ability to articulate their own position supported by logical reasoning and personal experience."
+}

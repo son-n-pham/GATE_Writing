@@ -1,0 +1,5 @@
+The idea that everyone should be allowed admission to university, regardless of academic ability, is a complex one. On one hand, it seems fair to give everyone a chance to pursue higher education. After all, shouldn't passion and potential be just as important as grades? However, universities also need to maintain a certain standard of academic rigor.
+
+Perhaps a more balanced approach is needed. While academic ability is undoubtedly important, it shouldn't be the only factor considered. Universities could also look at a student's passion for a subject, their potential to contribute to the academic community, and their unique perspectives. This would allow for a more diverse student body and a richer learning environment.
+
+Ultimately, the goal of university should be to foster intellectual growth and prepare students for the future. By considering a wider range of factors beyond just academic scores, universities can create a more inclusive and effective educational system. This would not only benefit individual students but also society as a whole.

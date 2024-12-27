@@ -110,4 +110,4 @@ Create 'grading\_{student_name}.md' with:
 2. **Requirements**: Ensure the essay meets all the criteria in the grading rubric from `system_prompt.md`.
 3. **File Saving**:
    - Save the essay as `example_essay_from_AI.md` in the `current_writing` folder.
-   - Save an explanation of the essay in `grading_example_from_AI.md` in the `current_writing` folder.
+   - Do grading for `example_essay_from_AI.md` with the grading rubric and save that grading report in `grading_example_from_AI.md` in the `current_writing` folder.

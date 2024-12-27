@@ -2,56 +2,56 @@
 
 #### Structure (2/2 marks)
 
-- Evidence: The essay has a clear introduction, body, and conclusion.
-- Analysis: The ideas flow logically, making it easy to follow the argument.
-- Score Justification: The essay is well-organized and structured.
-- Improvement Strategy: No improvement needed in this area.
+- Evidence: "The essay has a clear introduction, body, and conclusion. The ideas flow logically, and the transitions are smooth."
+- Analysis: The essay is well-organized with a clear flow of ideas.
+- Score Justification: The essay demonstrates a clear structure with a logical progression of thought.
+- Improvement Strategy: Maintain the current level of organization in future essays.
 
 #### Tone (3/3 marks)
 
-- Evidence: The essay maintains a persuasive and respectful tone throughout.
-- Analysis: The tone is consistently appropriate for the topic and audience.
-- Score Justification: The tone is consistently appropriate.
-- Improvement Strategy: No improvement needed in this area.
+- Evidence: "The tone is generally appropriate, using a mix of personal reflection and argumentation. It's not overly formal or informal."
+- Analysis: The tone is appropriate for the topic and audience.
+- Score Justification: The essay maintains a consistent and suitable tone throughout.
+- Improvement Strategy: Continue to use a balanced and appropriate tone.
 
 #### Emotions/Feelings (1/1 mark)
 
-- Evidence: The essay expresses a clear feeling of concern for students pressured by academic expectations.
-- Analysis: The emotions are well-expressed and contribute to the overall message.
-- Score Justification: The emotions are well-expressed.
-- Improvement Strategy: No improvement needed in this area.
+- Evidence: "The essay expresses a clear feeling of concern for students' stress and a desire for more flexible admissions."
+- Analysis: The essay effectively conveys the writer's feelings about the topic.
+- Score Justification: The essay clearly expresses the writer's feelings and perspective.
+- Improvement Strategy: Continue to express your feelings and perspectives clearly.
 
-#### Precise Language (1/1 mark)
+#### Precise Language (0.5/1 mark)
 
-- Evidence: The language is precise and effective in conveying the message.
-- Analysis: The word choices are accurate and contribute to the clarity of the essay.
-- Score Justification: The language is consistently precise.
-- Improvement Strategy: No improvement needed in this area.
+- Evidence: "The language is mostly precise, although some phrases could be more specific."
+- Analysis: The language is generally precise, but some phrases could be more specific.
+- Score Justification: The essay uses mostly precise language, but there is room for improvement.
+- Improvement Strategy: Focus on using more specific language and metaphors.
 
-#### Figurative Language (1/3 marks)
+#### Figurative Language (0/3 marks)
 
-- Evidence: The essay uses one example of figurative language: "make or break a student's life".
-- Analysis: The figurative language is present but could be more frequent.
-- Score Justification: The essay uses one example of figurative language.
-- Improvement Strategy: Try to incorporate more figurative language to enhance the essay's creativity.
+- Evidence: "The essay does not use much figurative language."
+- Analysis: The essay does not use figurative language.
+- Score Justification: The essay does not demonstrate the use of figurative language.
+- Improvement Strategy: Try to incorporate figurative language in your writing.
 
 #### Moral/Goal (1/1 mark)
 
-- Evidence: The essay has a clear moral/goal: to advocate for more flexible university admissions based on passion and interest.
-- Analysis: The moral/goal is clearly stated and supported by the essay's content.
-- Score Justification: The essay has a clear moral.
-- Improvement Strategy: No improvement needed in this area.
+- Evidence: "The essay has a clear moral: that university admissions should be more flexible and based on passion, not just academic ability."
+- Analysis: The essay has a clear and well-defined moral.
+- Score Justification: The essay clearly conveys its moral message.
+- Improvement Strategy: Continue to include clear morals in your writing.
 
-#### Creative Merit (2/3 marks)
+#### Creative Merit (1/3 marks)
 
-- Evidence: The essay is moderately creative, presenting a clear argument with some unique phrasing.
-- Analysis: The creative elements are present but could be further developed.
-- Score Justification: The essay is moderately creative.
-- Improvement Strategy: Try to incorporate more creative elements to make the essay more engaging.
+- Evidence: "The essay is not particularly creative, using straightforward language."
+- Analysis: The essay does not demonstrate much creativity.
+- Score Justification: The essay is not particularly creative.
+- Improvement Strategy: Try to be more creative in your writing.
 
 ### Overall Assessment
 
-- Total Score: 11/14 (79%)
+- Total Score: 9.5/14 (68%)
 - Key Strengths: Structure, Tone, Moral/Goal
-- Priority Improvements: Figurative Language, Creative Merit
-- Strategic Development Plan: Focus on incorporating more figurative language and creative elements to enhance your writing.
+- Priority Improvements: Precise Language, Figurative Language, Creative Merit
+- Strategic Development Plan: Focus on using more specific language and metaphors to improve precision. Also, try to incorporate figurative language and be more creative in your writing.

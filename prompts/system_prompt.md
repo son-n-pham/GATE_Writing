@@ -106,6 +106,8 @@ Create 'grading\_{student_name}.md' with:
 
 ### 4. EXAMPLE OF ESSAY
 
-Use your expertise to provide your example essay for this topic as the good reference by ticking all and beyond the requirement in the grading rubric for the students to learn from. Save the file as 'example_essay_from_AI.md' in the 'current_writing' folder.
-
-After writing the example essay, give your explanation about the essay in the 'grading_example_from_AI.md' file in the 'current_writing' folder.
+1. **Task**: Write an example essay **MUST** based on the topic provided in `prompt_from_image.md`.
+2. **Requirements**: Ensure the essay meets all the criteria in the grading rubric from `system_prompt.md`.
+3. **File Saving**:
+   - Save the essay as `example_essay_from_AI.md` in the `current_writing` folder.
+   - Do grading for `example_essay_from_AI.md` with the grading rubric and save that grading report in `grading_example_from_AI.md` in the `current_writing` folder.

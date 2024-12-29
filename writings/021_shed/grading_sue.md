@@ -2,65 +2,67 @@
 
 #### Structure (1.5/2 marks)
 
-- Evidence: The essay starts with the spoiled milk, introduces Mr. Chiron and his routine, and then shifts to the mysterious event of his shadow slipping away.
-- Analysis: The structure is present, but the initial focus on the milk could be more clearly connected to the subsequent events to create a stronger sense of unity.
-- Score Justification: The essay has a beginning, middle, and end, but the connection between the opening and the climax could be smoother.
-- Improvement Strategy: Consider how the initial details you provide set the stage for the rest of your story. Ensure a clear link between different parts of your narrative.
+- Evidence: The essay presents a sequence of events, starting with the spoiled milk and ending with Mr. Chiron opening the shed door.
+- Analysis: The narrative has a discernible beginning, middle, and end, creating a basic structural framework.
+- Score Justification: While the essay follows a chronological order, some transitions between paragraphs could be smoother to enhance the flow. For instance, the shift from Mr. Chiron's reaction to the milk to his routine with the dog could be more connected.
+- Improvement Strategy: Focus on creating stronger transitional sentences or phrases between paragraphs to guide the reader through the narrative more seamlessly.
 
 #### Tone (2.5/3 marks)
 
-- Evidence: The tone shifts from the unpleasantness of the sour milk to a more ominous feeling as the essay progresses, particularly with the description of the flickering lamplight and the dog's howling.
-- Analysis: The shift in tone effectively builds suspense.
-- Score Justification: The tone is generally appropriate, creating a sense of unease and mystery.
-- Improvement Strategy: Pay attention to how tone can be used to create specific effects in your writing.
+- Evidence: Phrases like "burning like acid on my tongue" and the description of the "faint silhouette of his reflection moving in the dead television screen" establish a slightly eerie and mysterious tone.
+- Analysis: The tone effectively sets a subtle, unsettling atmosphere, hinting at something unusual occurring.
+- Score Justification: The tone is generally consistent and appropriate for the narrative being developed. However, there are moments where the tone could be amplified to further enhance the sense of mystery or foreboding.
+- Improvement Strategy: Experiment with intensifying descriptive language and sensory details to create a more palpable atmosphere throughout the essay.
 
-#### Emotions/Feelings (0.5/1 marks)
+#### Emotions/Feelings (0.5/1 mark)
 
-- Evidence: Mr. Chiron's disillusionment with his past dreams is mentioned, and the dog's unease is hinted at through its growls and howls.
-- Analysis: The essay touches on these emotions, but they could be explored in more depth to create a stronger emotional connection with the reader.
-- Score Justification: The emotions are present but not fully developed.
-- Improvement Strategy: Try to delve deeper into the characters' feelings and motivations to make them more relatable.
+- Evidence: The essay mentions Mr. Chiron's past desire to be an explorer and his current mundane life, suggesting a hint of lost dreams.
+- Analysis: There's an underlying sense of routine and perhaps a subtle longing, but these emotions are not deeply explored.
+- Score Justification: The emotions are present but remain understated. The reader could connect more with Mr. Chiron if his feelings were more explicitly conveyed.
+- Improvement Strategy: Delve deeper into Mr. Chiron's internal state by explicitly describing his feelings or using internal monologue to reveal his thoughts and emotions.
 
-#### Precise Language (0.5/1 marks)
+#### Precise Language (0.75/1 mark)
 
-- Evidence: "Burning like acid on my tongue and stinking of foot cheese" is a vivid description.
-- Analysis: While some descriptions are strong, more consistent use of precise language would enhance the imagery.
-- Score Justification: The language is sometimes precise but can be improved for greater impact.
-- Improvement Strategy: Focus on using specific and descriptive words to paint a clearer picture for your reader.
+- Evidence: Descriptions like "stinking of foot cheese" and "armchair was hard as rock" use precise language to create vivid sensory experiences.
+- Analysis: The language is generally accurate and contributes to the imagery in the essay.
+- Score Justification: While there are instances of precise language, there are also opportunities to use more evocative and specific word choices to further enrich the descriptions.
+- Improvement Strategy: Focus on selecting words that not only describe but also evoke stronger sensory experiences for the reader.
 
 #### Figurative Language (2/3 marks)
 
-- Evidence: "Burning like acid on my tongue" is a strong simile. The earlier description of ideas buzzing, turning, soaring and circling was from Skylar's essay.
-- Analysis: The use of figurative language adds impact to certain descriptions.
-- Score Justification: There are examples of figurative language, but more could be incorporated to enrich the writing.
-- Improvement Strategy: Look for opportunities to use metaphors, similes, and other figures of speech to make your writing more expressive.
+- Evidence: Examples include "burning like acid on my tongue," "hard as rock under his weight," and "shadow silently slips away, a moving shroud."
+- Analysis: The essay incorporates similes and metaphors to enhance the descriptions and add depth to the narrative.
+- Score Justification: The use of figurative language is present and effective in certain instances. Adding more varied and original figures of speech could further elevate the writing.
+- Improvement Strategy: Actively seek opportunities to incorporate a wider range of figurative language, such as metaphors, similes, and personification, to make the writing more engaging and imaginative.
 
-#### Moral/Goal (0.5/1 marks)
+#### Moral/Goal (0/1 mark)
 
-- Evidence: The essay touches on themes of lost dreams and unnoticed changes in life.
-- Analysis: The underlying themes are present but not explicitly stated as a clear moral or goal.
-- Score Justification: The essay has thematic elements, but a clearer message could strengthen its impact.
-- Improvement Strategy: Think about the core message you want to convey and try to make it more evident in your narrative.
+- Evidence: The essay primarily describes a series of events and doesn't explicitly convey a moral or a clear goal.
+- Analysis: The focus is more on setting a scene and creating an atmosphere rather than delivering a message or pursuing a specific objective.
+- Score Justification: The absence of a clear moral or goal makes it difficult to identify a central message or purpose in the narrative.
+- Improvement Strategy: Consider what message or insight you want the reader to take away from the story and weave that into the narrative.
 
-#### Creative Merit (2.5/3 marks)
+#### Creative Merit (2/3 marks)
 
-- Evidence: The concept of the shadow silently slipping away is a creative and imaginative element.
-- Analysis: The essay demonstrates creativity through its unique premise.
-- Score Justification: The core idea is creative and intriguing.
-- Improvement Strategy: Continue to explore original ideas and find creative ways to express them in your writing.
+- Evidence: The concept of the shadow detaching from Mr. Chiron and the subtle hints of a "castle in the sky" introduce fantastical elements into an otherwise mundane setting.
+- Analysis: The essay shows a good level of creativity by blending reality with subtle hints of the extraordinary.
+- Score Justification: The core idea is creative and intriguing. Expanding on the fantastical elements and their connection to the main narrative could further enhance the creative merit.
+- Improvement Strategy: Develop the imaginative aspects of the story more fully. Explore the implications of the shadow's departure and the significance of the "castle in the sky."
 
-### TOTAL MARKS: 8/14 (57%)
+### TOTAL MARKS: 7.5/14 (53.57%)
 
 ### Strengths:
 
-- Creative and intriguing central concept of the shadow slipping away.
-- Effective use of tone to create a sense of mystery and unease.
-- Hints at deeper themes such as lost dreams.
+- Effective use of descriptive language to create sensory experiences.
+- Intriguing and mysterious tone that captures the reader's attention.
+- Creative concept of the shadow slipping away.
 
 ### Areas for Improvement:
 
-- Strengthen the connection between the beginning and the main plot point for better structural unity.
-- Develop the characters' emotions and motivations more explicitly.
-- Incorporate more precise and vivid language throughout the essay.
+- Develop a clearer moral or goal for the narrative to provide a stronger sense of purpose.
+- Enhance the expression of emotions and feelings to create a deeper connection with the character.
+- Strengthen transitions between paragraphs for a smoother reading experience.
 
-### Overall Assessment: Sue's essay presents an interesting and creative concept with a subtly building sense of mystery. While the core idea is strong, developing clearer connections within the narrative structure, enriching the emotional depth, and using more precise language would significantly enhance the essay's overall impact.
+### Overall Assessment:
+
+Sue's essay shows promise in its descriptive language and creation of an intriguing atmosphere. The concept of the disappearing shadow is a strong point of creativity. However, the essay would benefit from a clearer sense of purpose or moral, and a deeper exploration of the character's emotions. Strengthening the structural flow and adding more varied figurative language would also elevate the writing.

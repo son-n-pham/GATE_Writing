@@ -27,7 +27,7 @@ For each ungraded essay:
 
 A. First Pass: Holistic Review
 
-- Read complete essay
+- Read complete essay seperately, each of them are writen by different students and there is no connection between them.
 - Identify main themes and approaches
 - Note initial impressions
 

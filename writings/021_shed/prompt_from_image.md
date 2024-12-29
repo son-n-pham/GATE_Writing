@@ -1,39 +1,39 @@
 # Image Writing Prompt
 
 {
-  "description": "I see an illustration of a backyard at dusk, with a person emerging from a shed. The sky is a deep blue, transitioning to lighter hues towards the horizon. There are wispy clouds and a crescent moon. In the distance, a fantastical city with spires and arches is depicted, seemingly floating in the clouds. In the foreground, there's a wooden fence enclosing the yard, and a green lawn with a few scattered objects like a gold chalice, a sword stuck in the ground, gold coins, and a necklace. A brown dog is walking towards the right of the image, near a doghouse and a dog bowl. A person in jeans and a light top is exiting the opened door of a shed. The shed is made of weathered wood and has a simple design. There are two tall green evergreen trees next to the left fence.",
-  "elements": {
+  "description": "The image depicts a backyard scene at dusk or early evening. The sky is a gradient of blues, with lighter hues near the horizon and darker shades towards the top, along with stylized clouds that look almost like brush strokes. A crescent moon is visible in the sky. In the background, there's a fantastical, almost ethereal cityscape with spires and domes, giving a dreamlike quality to the scene. A long bridge connects the city to the foreground. In the midground, there is a wooden fence surrounding the yard. Two tall, dark green, conifer trees stand out against the lighter sky. In the foreground, a small wooden shed with an open door is prominent. A person is entering or exiting the shed. A dog is walking towards the right. Near the center of the foreground is a sword sticking upright in the ground, and a golden cup has fallen over. Some gold coins and a green necklace are also visible scattered around. There's also a dog bowl and a dog house on the right side.",
+   "elements": {
     "main_elements": [
-      "person",
-      "shed",
-      "dog",
-      "doghouse",
-      "fence",
-      "sword",
-       "chalice",
-      "coins",
-      "necklace",
-      "fantasy_city",
       "sky",
-      "moon"
+      "cityscape",
+      "bridge",
+      "fence",
+       "trees",
+       "shed",
+       "person",
+       "dog",
+        "sword",
+        "cup",
+        "coins",
+        "necklace",
+         "dog bowl",
+        "dog house"
     ],
-    "colors": [
+     "colors": [
       "blue",
-      "green",
-      "brown",
-      "white",
-       "gold"
-    ],
+       "green",
+        "gold",
+         "brown",
+         "gray",
+           "white"
+      ],
     "subjects": [
-      "backyard",
-      "fantasy",
-      "adventure"
+        "fantasy elements",
+         "backyard",
+        "mystery or quest"
     ],
-     "text": null
-  },
-  "writing_task": {
-    "requirements": "The writing task requires students to create a story based on this image, incorporating the elements present. They can choose the genre, but the setting and objects provide a lot of fantasy, mistery and adventure suggestions. It could be a quest, a discovery, a secret entrance, an escape, or a portal to another realm. Students need to build a narrative around the person coming out of the shed and why those objects are on the floor in a normal backyard with a doghouse.",
-      "suggested_themes": ["fantasy","adventure", "mystery", "quest", "discovery","magic", "portal"]
-  },
-  "prompt_summary": "This image serves as a prompt by blending a normal backyard scene with elements of fantasy. The juxtaposition of the ordinary shed and fence with the magical city and scattered treasure creates a sense of mystery and intrigue, encouraging students to craft a narrative that bridges the two worlds. The presence of a person, a dog, and unusual objects provides a starting point for a story about exploration and adventure, making it perfect to encourage creativity and imagination."
+    "text": null
+   },
+    "writing_task_requirements": "The image suggests a narrative or storytelling writing task. Students could be asked to create a story around the discovery of the magical items in the backyard, the appearance of the fantastical city, or why a person is entering/exiting the shed. Students could also consider the dog's role in this scene. A story could be developed around how the backyard got in this state and what is going to happen next.",
+    "prompt_summary": "The image combines ordinary backyard elements with fantastical and mysterious ones, creating a sense of wonder and inviting narrative exploration. This contrast between the mundane and the magical makes it a strong writing prompt. The elements in the picture invite a story or narrative about discovery, adventure, or the blurring of reality and fantasy."
 }

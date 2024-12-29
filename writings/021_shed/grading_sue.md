@@ -1,67 +1,66 @@
 ### Detailed Rubric Assessment
 
-#### Structure (2/2 marks)
+#### Structure (1.5/2 marks)
 
-- Evidence: The essay begins with Sue's interaction with Smores, moves to her anticipation and opening of the shed, and concludes with her reaction to what's inside.
-- Analysis: The writing is well-organized, with a clear flow from the initial dialogue to the exploration of the shed.
-- Score Justification: The structure is logical and easy to follow, enhancing the reader's engagement with the narrative.
-- Improvement Strategy: Continue to use clear sequencing and paragraphing to maintain well-structured writing.
+- Evidence: The essay starts with the spoiled milk, introduces Mr. Chiron and his routine, and then shifts to the mysterious event of his shadow slipping away.
+- Analysis: The structure is present, but the initial focus on the milk could be more clearly connected to the subsequent events to create a stronger sense of unity.
+- Score Justification: The essay has a beginning, middle, and end, but the connection between the opening and the climax could be smoother.
+- Improvement Strategy: Consider how the initial details you provide set the stage for the rest of your story. Ensure a clear link between different parts of your narrative.
 
-#### Tone (3/3 marks)
+#### Tone (2.5/3 marks)
 
-- Evidence: Words and phrases like "I grin," "ask eagerly," and "What an unexpected surprise!" convey excitement and curiosity.
-- Analysis: The tone consistently reflects Sue's enthusiastic and imaginative personality, fitting the theme of potential magical discovery.
-- Score Justification: The tone is perfectly matched to the narrative's theme, creating an immersive reading experience.
-- Improvement Strategy: Keep focusing on maintaining a consistent and appropriate tone throughout your narratives.
+- Evidence: The tone shifts from the unpleasantness of the sour milk to a more ominous feeling as the essay progresses, particularly with the description of the flickering lamplight and the dog's howling.
+- Analysis: The shift in tone effectively builds suspense.
+- Score Justification: The tone is generally appropriate, creating a sense of unease and mystery.
+- Improvement Strategy: Pay attention to how tone can be used to create specific effects in your writing.
 
-#### Emotions/Feelings (1/1 marks)
+#### Emotions/Feelings (0.5/1 marks)
 
-- Evidence: "Ideas buzz through me like bees," and "My heart thumps like a drum" vividly express Sue's excitement and anticipation.
-- Analysis: The emotions are clearly articulated, adding depth to Sue's character and making her reactions relatable.
-- Score Justification: The effective expression of emotions enhances the reader's connection to the narrative.
-- Improvement Strategy: Continue to incorporate strong emotional cues to make your characters and their experiences more vivid.
+- Evidence: Mr. Chiron's disillusionment with his past dreams is mentioned, and the dog's unease is hinted at through its growls and howls.
+- Analysis: The essay touches on these emotions, but they could be explored in more depth to create a stronger emotional connection with the reader.
+- Score Justification: The emotions are present but not fully developed.
+- Improvement Strategy: Try to delve deeper into the characters' feelings and motivations to make them more relatable.
 
-#### Precise Language (1/1 marks)
+#### Precise Language (0.5/1 marks)
 
-- Evidence: Descriptions like "cobwebs everywhere," "black as midnight," and "torch into the emptiness" create clear and specific images.
-- Analysis: The precise language helps the reader visualize the scene inside the shed and Sue's surroundings.
-- Score Justification: The use of precise words enhances the clarity and impact of the writing.
-- Improvement Strategy: Keep using specific and descriptive language to paint a clear picture for your readers.
+- Evidence: "Burning like acid on my tongue and stinking of foot cheese" is a vivid description.
+- Analysis: While some descriptions are strong, more consistent use of precise language would enhance the imagery.
+- Score Justification: The language is sometimes precise but can be improved for greater impact.
+- Improvement Strategy: Focus on using specific and descriptive words to paint a clearer picture for your reader.
 
-#### Figurative Language (3/3 marks)
+#### Figurative Language (2/3 marks)
 
-- Evidence: "Ideas buzz through me like bees, turn like cogs, soar like planes and circle around like a ferris wheel," and "My heart thumps like a drum."
-- Analysis: The multiple similes effectively convey the flurry of Sue's thoughts and her excitement.
-- Score Justification: The essay includes more than three clear and effective examples of figurative language, enriching the descriptions.
-- Improvement Strategy: Continue to creatively incorporate figurative language to add depth and interest to your writing.
+- Evidence: "Burning like acid on my tongue" is a strong simile. The earlier description of ideas buzzing, turning, soaring and circling was from Skylar's essay.
+- Analysis: The use of figurative language adds impact to certain descriptions.
+- Score Justification: There are examples of figurative language, but more could be incorporated to enrich the writing.
+- Improvement Strategy: Look for opportunities to use metaphors, similes, and other figures of speech to make your writing more expressive.
 
-#### Moral/Goal (0/1 marks)
+#### Moral/Goal (0.5/1 marks)
 
-- Evidence: The excerpt focuses on the discovery and excitement rather than conveying a specific moral or lesson.
-- Analysis: The narrative is centered on the anticipation and the reveal, lacking a clear message or takeaway.
-- Score Justification: The absence of a discernible moral or goal results in not earning this mark.
-- Improvement Strategy: Consider if there's a lesson or message you want to impart through your story and try to weave it into the narrative.
+- Evidence: The essay touches on themes of lost dreams and unnoticed changes in life.
+- Analysis: The underlying themes are present but not explicitly stated as a clear moral or goal.
+- Score Justification: The essay has thematic elements, but a clearer message could strengthen its impact.
+- Improvement Strategy: Think about the core message you want to convey and try to make it more evident in your narrative.
 
-#### Creative Merit (3/3 marks)
+#### Creative Merit (2.5/3 marks)
 
-- Evidence: The imaginative possibilities of what could be inside the shed, ranging from a magic portal to Queen Victoria's locket, showcase high creativity.
-- Analysis: The narrative is highly engaging due to the sense of wonder and the creative potential of the discovered items.
-- Score Justification: The originality and imaginative quality of the narrative earn full marks for creative merit.
-- Improvement Strategy: Keep exploring unique ideas and scenarios to make your stories compelling and imaginative.
+- Evidence: The concept of the shadow silently slipping away is a creative and imaginative element.
+- Analysis: The essay demonstrates creativity through its unique premise.
+- Score Justification: The core idea is creative and intriguing.
+- Improvement Strategy: Continue to explore original ideas and find creative ways to express them in your writing.
 
-### TOTAL MARKS: 13/14 (92.86%)
+### TOTAL MARKS: 8/14 (57%)
 
 ### Strengths:
 
-- Consistent and engaging tone that perfectly matches the theme of discovery.
-- Vivid and precise language that creates strong imagery.
-- Excellent use of figurative language to enhance descriptions and convey emotions.
+- Creative and intriguing central concept of the shadow slipping away.
+- Effective use of tone to create a sense of mystery and unease.
+- Hints at deeper themes such as lost dreams.
 
 ### Areas for Improvement:
 
-- Incorporate a clear moral or lesson into the story. Think about what message or insight you want your readers to gain.
-- While the focus on discovery is engaging, consider adding a layer of reflection or a takeaway message.
+- Strengthen the connection between the beginning and the main plot point for better structural unity.
+- Develop the characters' emotions and motivations more explicitly.
+- Incorporate more precise and vivid language throughout the essay.
 
-### Overall Assessment:
-
-Sue demonstrates excellent writing skills, particularly in creating a sense of wonder and excitement. The use of vivid language and figurative language is particularly strong. To further enhance the writing, incorporating a moral or a clear takeaway message would add another layer of depth to the narrative.
+### Overall Assessment: Sue's essay presents an interesting and creative concept with a subtly building sense of mystery. While the core idea is strong, developing clearer connections within the narrative structure, enriching the emotional depth, and using more precise language would significantly enhance the essay's overall impact.

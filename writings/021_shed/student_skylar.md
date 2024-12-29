@@ -1,21 +1,17 @@
-"The map says..."
-"Whatever! I don't care what the stupid map says! Let's go back."
+"Don't go in there!" I tell Smores sternly, arms crossed like a disapproving mother.
 
-Silas grabs me by my shoulders and steers me around like car.
+Smores paws against the wooden shed door and barks fiercely. I scratch his brown ears and smile.
 
-"I don't even know what 'Point of No Return' is," I say, indicating to the digital sign at the side of the road. Silas shakes his head and begins to turn around but I grab his wrist.
+"Because I'm going in there first," I grin, sprint across the garden in my fluffy brown slippers.
 
-"The map says there is a checkpoint in there!"
+I brandish the key like it's a magical sword and jam it into the lock. I think of what could be inside. A magic portal leading to a majestic marble palace shrouded in tall pine trees? A sword of medieval times encrusted with rubies? A golden goblet made by a magical dwarf from the forges of Earth's core? A mysterious shadow man come to whisk me away to a school for wizards? A locket containing emeralds, worn by Queen Victoria herself?
 
-Silas wrinkles his nose.
-"Point of no return sounds like whoever goes past that sign will never return."
+The ideas buzz through me like bees, turn like cogs, soar like planes and circle around like a ferris wheel.
 
-We stand there arguing like squabbling pigeons on the dirt path, the sky a darkening canvas above us.
+"What do you think, Smores?" I ask eagerly, but Smores just excitedly wags its tail.
 
-My face is red.
-"Honestly!" I huff and shove Silas past the sign.
-He lands on his back, sand in his muddy brown hair and fire in his eyes.
-"You're so annoying," He snorts as he dusts off his denim jacket.
+The door slowly creaks open, cobwebs everywhere. It's as black as midnight. I shine my torch into the emptiness. Something hums. A portal? Something glints. Piles of rare treasures? Something whispers. A shadow man... My heart thumps like a drum and I laugh out loud.
 
-I begin to laugh but Silas looks so infuriated that I cough my giggles down. He begins to storm towards me, probably to hurt my arm, but stops like he's bumped against an invisible barrier wall. He tries to slap me but his hand bends weirdly. He presses his whole body against the invisible barrier. His eyes squeeze like it's against glass.
-"I'm stuck!" He yells. "You should've read that sign!"
+"What an unexpected surprise in an unexpected place!" I cry, a big smile on my face.
+
+Smores scurries up behind me and licks my hand. Even he seems to say 'Wow'. And wow indeed.

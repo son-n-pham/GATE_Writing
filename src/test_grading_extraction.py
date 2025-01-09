@@ -138,7 +138,9 @@ models_to_test = [
     "granite3.1-moe:3b-instruct-q8_0",
     "granite3.1-dense:8b-instruct-q5_K_M",
     "mistral-nemo:12b-instruct-2407-q4_K_M",
-    "smallthinker:latest"
+    # "smallthinker:latest",
+    # "phi4:latest",
+    "dolphin3:latest"
 ]
 
 if __name__ == "__main__":

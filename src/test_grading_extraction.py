@@ -1,13 +1,12 @@
-from test.grade_extraction.result import GRADING_FOR_TEST
-from src.grading_extraction import extract_grading_data_from_markdown_file
-import json
-from datetime import datetime
-import os
-import sys
-from pathlib import Path
-import time
-
 # Add project root to path
+import time
+from pathlib import Path
+import sys
+import os
+from datetime import datetime
+import json
+from src.grading_extraction import extract_grading_data_from_markdown_file
+from test.grade_extraction.result import GRADING_FOR_TEST
 project_root = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(project_root))
 
@@ -138,7 +137,8 @@ models_to_test = [
     "phi3:3.8b-mini-4k-instruct-q8_0",
     "granite3.1-moe:3b-instruct-q8_0",
     "granite3.1-dense:8b-instruct-q5_K_M",
-    "mistral-nemo:12b-instruct-2407-q4_K_M"
+    "mistral-nemo:12b-instruct-2407-q4_K_M",
+    "smallthinker:latest"
 ]
 
 if __name__ == "__main__":

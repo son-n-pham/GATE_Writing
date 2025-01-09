@@ -1,0 +1,38 @@
+{
+    "phi3.5": {
+        "error": "'structure'"
+    },
+    "granite3.1-moe:1b": {
+        "error": "'structure'"
+    },
+    "granite3.1-dense:2b": {
+        "error": "'structure'"
+    },
+    "granite3.1-dense:latest": {
+        "error": "'structure'"
+    },
+    "llama3.2:latest": {
+        "error": "'structure'"
+    },
+    "minicpm-v:8b-2.6-q4_K_M": {
+        "error": "'structure'"
+    },
+    "vanilj/Phi-4:latest": {
+        "error": "'structure'"
+    },
+    "mistral": {
+        "error": "'structure'"
+    },
+    "phi3:3.8b-mini-4k-instruct-q8_0": {
+        "error": "'structure'"
+    },
+    "granite3.1-moe:3b-instruct-q8_0": {
+        "error": "'structure'"
+    },
+    "granite3.1-dense:8b-instruct-q5_K_M": {
+        "error": "'structure'"
+    },
+    "mistral-nemo:12b-instruct-2407-q4_K_M": {
+        "error": "'structure'"
+    }
+}

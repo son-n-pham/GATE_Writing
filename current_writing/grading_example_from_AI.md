@@ -9,16 +9,16 @@
 
 #### Tone (3/3 marks)
 
-- Evidence: The tone is consistently appropriate, reflecting the solemnity and responsibility of the lighthouse keeper.
+- Evidence: The tone is consistently appropriate, reflecting the monotony and isolation of the man.
 - Analysis: The tone is well-maintained throughout the essay, effectively conveying the intended atmosphere.
 - Score Justification: The tone is consistently appropriate.
 - Improvement Strategy: No improvement needed in this area.
 
 #### Emotions/Feelings (1/1 mark)
 
-- Evidence: The essay effectively expresses the worry for the sailors and the dedication to his duty.
+- Evidence: The essay effectively expresses the sense of isolation, longing for freedom, and hope.
 - Analysis: The emotions are well-expressed, adding depth to the narrative.
-- Score Justification: The essay effectively conveys the lighthouse keeper's emotional state.
+- Score Justification: The essay effectively conveys the man's emotional state.
 - Improvement Strategy: No improvement needed in this area.
 
 #### Precise Language (1/1 mark)
@@ -30,21 +30,21 @@
 
 #### Figurative Language (3/3 marks)
 
-- Evidence: Examples include "The wind howled like a banshee," "the sea was a fickle mistress," and "a silent sentinel watching over the world."
+- Evidence: Examples include "a tropical paradise trapped within four walls," "numbers seemed to slip away like sand through his fingers," and "the walls felt like they were closing in."
 - Analysis: The essay uses figurative language effectively to enhance the descriptions.
 - Score Justification: The essay demonstrates a strong command of figurative language.
 - Improvement Strategy: No improvement needed in this area.
 
 #### Moral/Goal (1/1 mark)
 
-- Evidence: The essay has a clear moral: the importance of duty and hope.
+- Evidence: The essay has a clear moral: the importance of patience, resilience, and hope in the face of confinement.
 - Analysis: The moral is clear and effectively summarizes the lesson learned.
 - Score Justification: The essay has a clear and concise moral.
 - Improvement Strategy: No improvement needed in this area.
 
 #### Creative Merit (3/3 marks)
 
-- Evidence: The essay presents a unique and evocative narrative.
+- Evidence: The essay presents a unique and evocative narrative that directly addresses the prompt.
 - Analysis: The essay demonstrates a high level of creativity and originality.
 - Score Justification: The essay is highly creative and engaging.
 - Improvement Strategy: No improvement needed in this area.

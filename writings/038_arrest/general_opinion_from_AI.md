@@ -1,0 +1,7 @@
+### Ranking of Essays
+
+1.  **`example_essay_from_AI.md`**: This essay is the best because it most directly addresses the prompt. It focuses on the man in the image, his actions of marking the wall, and his feelings of isolation and hope. It uses vivid descriptions and figurative language to create a compelling narrative that aligns perfectly with the prompt's themes. The essay also maintains a consistent tone and perspective throughout.
+
+2.  **`student_sue.md`**: This essay is the second best. It also captures the essence of the prompt by describing the setting and the man's situation. It explores the themes of confinement and unease, and it uses descriptive language to create a sense of luxury and then growing discomfort. However, it doesn't focus as directly on the act of marking the wall as the AI essay does, and it introduces a more abstract sense of unease rather than the concrete act of counting down days.
+
+3.  **`student_skylar.md`**: This essay is the third best. While it does address the idea of counting down days, it does so in the context of a personal experience of room arrest, which is not directly related to the image prompt. The essay is well-written and uses figurative language effectively, but it doesn't fully capture the specific details and themes of the prompt. It focuses more on the student's personal feelings and experiences rather than the man in the image.

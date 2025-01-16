@@ -34,51 +34,81 @@ A. First Pass: Holistic Review
 B. Second Pass: Detailed Analysis
 Score each criterion using the rubric below:
 
-#### GRADING RUBRIC
+#### WRITING ASSESSMENT RUBRIC (20 MARKS)
 
-1. Structure (2 marks)
+**1. Story Structure and Plot Flow (2 marks)**
 
-   - Well-organized (2)
-   - Partially structured (1)
-   - Unstructured (0)
+- 2 marks: Clear beginning, middle, and end; logical sequence of events; smooth transitions between scenes
+- 1 mark: Basic structure present but transitions are awkward; some events seem disconnected
+- 0 marks: No clear structure; random events; confusing sequence
 
-2. Tone (3 marks)
+**2. Atmosphere and Theme (2 marks)**
 
-   - Consistently appropriate (3)
-   - Generally appropriate (2)
-   - Partially appropriate (1)
-   - Inappropriate (0)
+- 2 marks: Consistent mood throughout; vivid setting details that reinforce the theme; effective use of weather/time/place
+- 1 mark: Some attempt at creating atmosphere; inconsistent mood; basic setting details
+- 0 marks: No clear atmosphere; missing setting details; theme unclear
 
-3. Emotions/Feelings (1 mark)
+**3. Sensory Details (2 marks)**
 
-   - Well-expressed (1)
-   - Partially expressed (0.5)
-   - Poorly expressed (0)
+- 2 marks: Includes all 5 senses (sight, sound, smell, taste, touch) naturally within the narrative
+- 1 mark: Includes 3-4 senses; some may feel forced or superficial
+- 0 marks: Includes fewer than 3 senses or purely visual descriptions
 
-4. Precise Language (1 mark)
+**4. Character Development (2 marks)**
 
-   - Consistently precise (1)
-   - Sometimes precise (0.5)
-   - Imprecise (0)
+- 2 marks: Main character shows clear growth/change; distinct personality; believable actions/reactions
+- 1 mark: Some character development; basic personality traits; actions mostly logical
+- 0 marks: Flat character; no development; unrealistic or inconsistent behavior
 
-5. Figurative Language (3 marks)
+**5. Sizzling Start (1 mark)**
 
-   - Three or more examples (3)
-   - Two examples (2)
-   - One example (1)
-   - None (0)
+- 1 mark: Opens with action, dialogue, or intrigue that immediately hooks the reader
+- 0 marks: Generic opening or slow start that fails to engage
 
-6. Moral/Goal (1 mark)
+**6. Conflict Development (2 marks)**
 
-   - Clear moral (1)
-   - Partial moral (0.5)
-   - No moral (0)
+- 2 marks: Clear central conflict; logical build-up; creative complications; satisfying resolution
+- 1 mark: Basic conflict present; simple complications; predictable resolution
+- 0 marks: Unclear or missing conflict; no real complications
 
-7. Creative Merit (3 marks)
-   - Highly creative (3)
-   - Moderately creative (2)
-   - Basic creativity (1)
-   - Uncreative (0)
+**7. Figurative Language (3 marks)**
+
+- 3 marks: Effective use of THREE or more different types (metaphor, simile, personification, etc.); enhances story
+- 2 marks: Uses TWO types of figurative language effectively
+- 1 mark: Uses ONE type of figurative language or multiple used incorrectly
+- 0 marks: No figurative language or used inappropriately
+
+**8. Moral/Theme Message (2 marks)**
+
+- 2 marks: Clear moral lesson naturally emerging from the story; thoughtful and meaningful
+- 1 mark: Basic or obvious moral; feels forced or preachy
+- 0 marks: No clear moral or completely disconnected from story
+
+**9. Ending (2 marks)**
+
+- 2 marks: Surprising yet logical conclusion; ties up loose ends; memorable
+- 1 mark: Basic conclusion; predictable but complete
+- 0 marks: Abrupt or illogical ending; major loose ends
+
+**10. Original Idea (1 mark)**
+
+- 1 mark: Fresh perspective; unique plot elements or creative twist on familiar themes
+- 0 marks: Cliché or completely derivative story
+
+**11. Technical Accuracy (1 mark)**
+
+- 1 mark: No more than 3 spelling/grammar errors; appropriate punctuation throughout
+- 0 marks: More than 3 spelling/grammar errors; frequent punctuation mistakes
+
+---
+
+Total Score: /20
+
+**Additional Guidelines:**
+
+1. Half marks can be awarded in categories worth 2 or more marks when work falls between descriptors
+2. Sensory details should be naturally integrated into the narrative
+3. Length requirement: 250-500 words (unless specified otherwise)
 
 ### 3. FEEDBACK GENERATION
 
@@ -98,7 +128,7 @@ Create 'grading\_{student_name}.md' with:
 
 ### Overall Assessment
 
-- Total Score: _/14 (_%)
+- Total Score: _/20 (_%)
 - Key Strengths: [3 specific elements]
 - Priority Improvements: [3 actionable items]
 - Strategic Development Plan: [Personalized roadmap]

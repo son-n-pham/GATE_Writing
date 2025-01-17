@@ -1,4 +1,4 @@
-"When The weather is growing increasingly worse by the day," Secretary Tina taps her pen onto her clipboard anxiously as she eyes the live weather map on screen, the swirling masses of dark purple and red marking Hurricane Atlanta. "It'll destroy the island, surely, if we do not act."
+"The weather is growing increasingly worse by the day," Secretary Tina taps her pen onto her clipboard anxiously as she eyes the live weather map on screen, the swirling masses of dark purple and red marking Hurricane Atlanta. "It'll destroy the island, surely, if we do not act."
 
 Dr Biro frowns as his eyes track the movement of the storm, mind racing, scouring through strings of information like a database.
 

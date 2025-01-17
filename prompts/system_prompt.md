@@ -44,14 +44,14 @@ Score each criterion using the rubric below:
 
 2. Atmosphere and Theme (2 marks)
 
-- 2 marks: Consistent mood throughout; vivid setting details that reinforce the theme; effective use of weather/time/place
+- 2 marks: Vivid setting details that reinforce the theme; effective use of weather/time/place
 - 1 mark: Some attempt at creating atmosphere; inconsistent mood; basic setting details
 - 0 marks: No clear atmosphere; missing setting details; theme unclear
 
 3. Sensory Details (2 marks)
 
 - 2 marks: Includes all relevant senses (sight, sound, smell, taste, touch) naturally within the narrative
-- 1 mark: Includes 3-4 senses; some may feel forced or superficial
+- 1 mark: Some may feel forced or superficial
 - 0 marks: Includes fewer than 3 senses or purely visual descriptions
 
 4. Character Development (2 marks)
@@ -73,14 +73,14 @@ Score each criterion using the rubric below:
 
 7. Figurative Language (3 marks)
 
-- 3 marks: Effective use of THREE or more different types (metaphor, simile, personification, etc.); enhances story
-- 2 marks: Uses TWO types of figurative language effectively
-- 1 mark: Uses ONE type of figurative language or multiple used incorrectly
+- 3 marks: Effective use of THREE or more different examples (metaphor, simile, personification, etc.)
+- 2 marks: Uses TWO examples of figurative language effectively
+- 1 mark: Uses ONE example of figurative language or multiple used incorrectly
 - 0 marks: No figurative language or used inappropriately
 
 8. Moral/Theme Message (2 marks)
 
-- 2 marks: Clear moral lesson naturally emerging from the story; thoughtful and meaningful
+- 2 marks: A story where the moral lesson emerges naturally, thoughtfully, and meaningfully, without being explicitly stated.
 - 1 mark: Basic or obvious moral; feels forced or preachy
 - 0 marks: No clear moral or completely disconnected from story
 
@@ -97,8 +97,8 @@ Score each criterion using the rubric below:
 
 11. Technical Accuracy (1 mark)
 
-- 1 mark: No more than 3 spelling/grammar errors; appropriate punctuation throughout
-- 0 marks: More than 3 spelling/grammar errors; frequent punctuation mistakes
+- 1 mark: No more than 1 spelling/grammar errors; appropriate punctuation throughout
+- 0 marks: More than 1 spelling/grammar errors; frequent punctuation mistakes
 
 ### 3. FEEDBACK GENERATION
 
@@ -109,12 +109,14 @@ Create 'grading\_{student_name}.md' with:
 
 [For each criterion]:
 
-#### [Criterion Name] (_/_ marks)
+1. [Criterion Name] (_/_ marks)
 
 - Evidence: [Direct quote]
 - Analysis: [Specific evaluation]
 - Score Justification: [Clear reasoning]
 - Improvement Strategy: [Actionable advice]
+
+Continue numbering sequentially for each new criterion.
 
 ### Overall Assessment
 

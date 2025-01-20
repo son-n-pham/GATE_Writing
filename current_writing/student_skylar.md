@@ -1,25 +1,23 @@
-Quit Horsing Around
+"Human." The robot said, its voice cold and hard, "We would like to negotiate."
 
-"Here," I said thrusting a rolled up hay bale in front of the horse.
+I wrinkled my nose, however, I resisted the urge to rudely insult them.
 
-He examined it, peering over his imaginary glasses like a scientist. His eyebrows dipped down in anger.
+"How," I replied in a measured voice. On my lap, my fists clenched. If these bug-like robots dressed in business suits wanted peace then they shouldn't have kidnapped me at all.
 
-"Pip," He demanded, "Quit horsing around. I like apples."
+I took a deep breath. I was the manager of the committee. I was born to stop the war. I sighed. I had to listen to the infamous robot council anyways.
 
-He pointed an accusing hoof at me. I rolled my electric blue eyes. I shouldn't have let the horse wear an ugly sweater in the first place. I couldn't stand living with a horse who thought he was a human.
+I watched as giant robots stomped outside, flattening humans like bugs. I could taste the acrid scent of smoke lingering on my tongue. I wanted to block out the horrible world I lived in.
 
-"Honestly, horses eat hay so please eat up. I even made it look like a cinnamon roll," I said.
+But I couldn't. I could only stop it.
 
-The horse snorted angrily and uses his sticky tongue like a launchpad, propelling the hay until it knocked down a beautiful porcelain jar engraved with neat flowers.
+"Robots are running out of batteries," a gold robot said, not a hint of sadness in its words.
 
-He bared his big and flat teeth. I groaned and stormed off. I could still hear the horse yelling, "QUIT HORSING AROUND!"
+I bit my lip to stop myself from yelling. "You said you wanted to negotiate," I pushed.
 
-I ran out to the garden and kicked a tree. Thump. I looked around and saw juicy red apples falling down around me like rain.
+A strange triangular robot slapped his hand on the table. Its mouth opened and a flood of flat talk came out.
 
-Apples.
+"You want us to forfeit..." I mutter.
 
-The ones that horses like. I scooped them up until my arms were full and hurried to the horse. He perked up immediately like a dog.
+My face was blank, but inside, my insides writhed with fury. We had to be allowed to cling onto the little string of hope left, the little strand of dignity. My job was to thicken it until it was a win.
 
-"Quit horsing around and clean up your mess," I stated, keeping a firm hold on the apples. "And then apples," I added, taking a big bite of a big scarlet apple.
-
-I let the juice dribble down my chin. The horse grumbled and shuffled over to the broken porcelain jar. I felt good. Maybe having a horse-human wasn't so bad after all.
+We would never work for robots. Never.

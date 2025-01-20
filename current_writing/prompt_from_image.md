@@ -1,7 +1,45 @@
 # Image Writing Prompt
 
 {
-  "description": "The image shows a man interacting with a bronze statue of a seated man. The statue is on a bench and is holding a newspaper. The man is standing and leaning towards the statue's face as if he is whispering or talking. The statue is dark grey-bronze color. The man is wearing a light brown jacket, blue jeans, and black athletic shoes. The background includes a red brick wall and a light grey stone or pavement ground.  The ground appears to be made of two different materials:  one which is a cobblestone-like texture behind the bench, and the other a brick patterned area in front of the bench. There are no visible text in the image, and the colors are mostly neutral, with the brown of the jacket and red of the brick being the most vibrant. The main subject is the interaction between the real person and the statue, which creates a humorous and somewhat surreal scene.",
-  "writing_task": "The writing task requires the students to use their imagination and creativity by writing a story or dialogue around the interaction between the real man and the statue. Students could explore the content of the conversation or create a scene where the statue suddenly comes to life.  Or imagine who the statue is supposed to represent and what his story could be.",
-  "prompt_summary": "This image serves as a writing prompt by providing an unusual and engaging visual scene that encourages creative storytelling. The juxtaposition of a real person and a statue opens up possibilities for narrative development, character interaction, and imaginative scenarios. It prompts exploration of the relationship between the two figures, creating a perfect setting for creative writing."
+  "description": "The image shows a cartoon scene inside a kitchen. The two characters appear to be from the animated TV show 'BoJack Horseman'. On the left side, a brown horse-headed anthropomorphic character with a dark mane is seated at a table. He's wearing a light orange sweater with pink apples and crosses and blue jeans. He's pointing his right index finger towards a large, round, light-yellow item on a plate at the center of the table. In front of the horse, we can see a silver fork. On the right side, there's a blonde-haired woman standing holding a silver pitchfork. She is wearing a long-sleeved shirt with red, blue, green and yellow squares and a purple skirt with white lines. The background consists of a kitchen with light orange cabinets and white walls. There is a tan microwave, a white jar with a lid on the counter, a white phone on the wall and a white dish drying rack on the right side of the image. The table is white and is in the middle of the scene.",
+  "elements": [
+    "kitchen",
+    "horse character",
+    "woman character",
+    "table",
+    "pitchfork",
+    "round yellow item",
+    "microwave",
+     "jar",
+    "phone",
+    "drying rack"
+   ],
+  "colors": [
+    "brown",
+    "orange",
+    "pink",
+    "blue",
+    "yellow",
+    "white",
+    "purple",
+    "green",
+    "silver"
+   ],
+  "subjects": [
+    "cartoon characters",
+    "kitchen scene",
+    "anthropomorphic horse",
+    "woman with pitchfork",
+    "unidentified food",
+    "household objects"
+   ],
+  "text": [],
+   "writing_task_requirements": [
+        "Describe the relationship between the characters.",
+        "Explain why the woman is holding a pitchfork.",
+        "Speculate what the round yellow food item could be.",
+        "Write a dialogue between the two characters.",
+       "Create a story based on the events that could have lead to this scene."
+    ],
+  "prompt_summary": "This image serves as a prompt by presenting a bizarre situation with two distinctive characters in a kitchen, sparking creativity and encouraging narrative exploration. The contrast between the anthropomorphic horse, the woman with a pitchfork, and the mysterious food item provides many avenues for speculative, humorous, or dramatic writing."
 }

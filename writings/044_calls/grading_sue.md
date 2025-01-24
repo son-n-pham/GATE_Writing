@@ -2,98 +2,98 @@
 
 1. Story Structure and Plot Flow (2/2 marks)
 
-- Evidence: Clear progression from initial skepticism to engagement: "My finger moved to end the call" → "I could have stayed like that forever"
-- Analysis: Well-structured narrative with clear beginning (unknown call), middle (engaging conversation), and end (reflection)
-- Score Justification: Strong flow with effective pacing and logical sequence of events
-- Improvement Strategy: Consider adding more specific details about the conversation topics
+- Evidence: Clear progression from "There was a voice in my ear, talking" through to the reflective ending "sometimes I still wonder every time my phone vibrates"
+- Analysis: The story has a strong three-act structure - beginning with the mysterious call, middle developing the conversation, and ending with reflection
+- Score Justification: Full marks for logical sequence and smooth transitions between time periods
+- Improvement Strategy: Consider adding more specific details about the actual conversation topics to strengthen the middle section
 
 2. Atmosphere and Theme (2/2 marks)
 
-- Evidence: "red eggyolk of a sun", "shadows lengthened", "moon rose and the air grew cooler"
-- Analysis: Successfully creates a dreamlike atmosphere that enhances the mysterious nature of the call
-- Score Justification: Strong atmospheric elements that reinforce the story's ethereal quality
-- Improvement Strategy: Could further develop the contrast between reality and the surreal conversation
+- Evidence: "The shadows lengthened on the floor" and "as the moon rose and the air grew cooler"
+- Analysis: Effectively uses time progression and environmental details to create a dreamlike atmosphere
+- Score Justification: Full marks for vivid setting details that reinforce the theme of being lost in conversation
+- Improvement Strategy: Could enhance atmosphere further by incorporating more sensory details about the changing indoor environment
 
-3. Sensory Details (2/2 marks)
+3. Sensory Details (1/2 marks)
 
-- Evidence: "carpet was itchy like trimmed dead grass", "laugh was a wonderful thing like the crackling of flames", "beautiful rounded O's and crisp T's"
-- Analysis: Rich variety of sensory details including tactile, auditory, and visual elements
-- Score Justification: Effectively incorporates multiple senses to create immersive experience
-- Improvement Strategy: Could include more olfactory details to enhance the setting
+- Evidence: "The carpet was itchy like trimmed dead grass" and "their laugh was a wonderful thing like the crackling of flames"
+- Analysis: Strong use of touch and sound, but limited exploration of other senses
+- Score Justification: One mark as only two senses are prominently featured
+- Improvement Strategy: Include more sensory details about sight, smell, and any physical sensations during the long conversation
 
-4. Character Development (1/2 marks)
+4. Character Development (2/2 marks)
 
-- Evidence: Progression from skeptical to entranced: "I didn't know why I was humouring the voice" → "anything to make the lovely voice in my ear go on"
-- Analysis: Shows change in attitude but limited deeper character development
-- Score Justification: Character transformation is present but could be more profound
-- Improvement Strategy: Explore why the character becomes so invested in the conversation
+- Evidence: Progression from skeptical ("My finger moved to end the call") to completely engrossed ("I could have stayed like that forever")
+- Analysis: Clear character arc showing transformation through the conversation
+- Score Justification: Full marks for believable character progression and consistent behavior
+- Improvement Strategy: Could explore the internal conflict about staying on the call more deeply
 
 5. Sizzling Start (1/1 mark)
 
-- Evidence: "There was a voice in my ear, talking. It was unfamiliar"
-- Analysis: Immediately creates intrigue and mystery
-- Score Justification: Effectively hooks reader with unusual situation
-- Improvement Strategy: Could add more tension to the opening moment
+- Evidence: "There was a voice in my ear, talking. It was unfamiliar, someone I had never heard before."
+- Analysis: Immediately creates intrigue with the mysterious caller situation
+- Score Justification: Full mark for an engaging opening that hooks the reader
+- Improvement Strategy: Could add a more specific detail about the voice to make it even more intriguing
 
-6. Conflict Development (1/2 marks)
+6. Conflict Development (2/2 marks)
 
-- Evidence: Initial resistance vs growing fascination with the caller
-- Analysis: Basic internal conflict present but limited complications
-- Score Justification: Conflict could be developed with more complexity
-- Improvement Strategy: Add more stakes or consequences to the endless conversation
+- Evidence: Internal conflict between wanting to hang up and being drawn into the conversation
+- Analysis: Conflict builds naturally from skepticism to complete absorption
+- Score Justification: Full marks for clear central conflict and satisfying progression
+- Improvement Strategy: Could add more moments of doubt or hesitation throughout to heighten tension
 
 7. Figurative Language (2/3 marks)
 
-- Evidence: "words spilt forth from me as if it had been drawn from a hook", "the voice was the bait and I was a willing fish"
-- Analysis: Effective use of extended metaphor comparing conversation to fishing
-- Score Justification: Two strong examples but could include more variety
-- Improvement Strategy: Incorporate different types of figurative language
+- Evidence: "the voice was the bait and I was a willing fish" and "laugh was a wonderful thing like the crackling of flames"
+- Analysis: Uses similes effectively but limited variety in figurative devices
+- Score Justification: Two marks for two well-used examples
+- Improvement Strategy: Incorporate metaphors or personification to add variety
 
 8. Moral/Theme Message (2/2 marks)
 
-- Evidence: Exploration of connection, mystery, and the allure of the unknown
-- Analysis: Thoughtful meditation on human connection and trust
-- Score Justification: Theme emerges naturally through the story
-- Improvement Strategy: Could deepen the philosophical implications
+- Evidence: The entire narrative explores the theme of unexpected connections and the power of conversation
+- Analysis: Message about human connection emerges naturally through the story
+- Score Justification: Full marks for thoughtful theme development without explicit stating
+- Improvement Strategy: Could strengthen theme by adding more details about what made the conversation so compelling
 
 9. Ending (2/2 marks)
 
-- Evidence: "It never happened again, but sometimes I still wonder every time my phone vibrates"
-- Analysis: Effectively maintains mystery while providing closure
-- Score Justification: Memorable ending that leaves readers thinking
-- Improvement Strategy: Could strengthen the connection between ending and theme
+- Evidence: "It never happened again, but sometimes I still wonder every time my phone vibrates."
+- Analysis: Perfect balance of resolution and lingering mystery
+- Score Justification: Full marks for memorable and thought-provoking conclusion
+- Improvement Strategy: Could add one more specific detail about the lasting impact of the conversation
 
 10. Original Idea (1/1 mark)
 
-- Evidence: Unique take on endless conversation through mysterious caller concept
-- Analysis: Fresh perspective on prompt with supernatural/psychological elements
-- Score Justification: Creative and unexpected approach
-- Improvement Strategy: Could push the mysterious elements further
+- Evidence: Unique take on mysterious phone call trope with focus on connection rather than danger
+- Analysis: Fresh perspective on the endless conversation prompt
+- Score Justification: Full mark for creative approach to prompt
+- Improvement Strategy: Could push originality further by adding more unusual conversation topics
 
 11. Technical Accuracy (0/1 mark)
 
-- Evidence: Multiple spelling and punctuation errors: "rase", "reall", missing periods, run-on sentences
-- Analysis: Technical errors impact readability
-- Score Justification: More than one spelling/grammar error
-- Improvement Strategy: Proofread carefully for basic errors
+- Evidence: Multiple errors including missing periods, run-on sentences, and spacing issues
+- Analysis: Several technical issues affect readability
+- Score Justification: Zero marks due to multiple errors
+- Improvement Strategy: Proofread carefully for punctuation and sentence structure; use paragraph breaks more consistently
 
 ### Overall Assessment
 
-- Total Score: 16/20 (80%)
+- Total Score: 17/20 (85%)
 - Key Strengths:
 
-  1. Strong atmospheric and sensory writing
-  2. Creative and original concept
-  3. Effective use of mystery and intrigue
+  1. Excellent story structure with natural progression
+  2. Strong character development showing clear transformation
+  3. Memorable and thought-provoking ending
 
 - Priority Improvements:
 
-  1. Focus on technical accuracy and proofreading
-  2. Develop deeper character motivations
-  3. Add more complexity to the central conflict
+  1. Focus on technical accuracy, especially punctuation and sentence structure
+  2. Incorporate more varied sensory details
+  3. Add more variety to figurative language use
 
 - Strategic Development Plan:
-  The writer shows excellent creativity and sensory awareness. To enhance their writing, they should:
-  1. Develop a systematic proofreading process to catch technical errors
-  2. Practice building more complex character psychologies
-  3. Experiment with adding higher stakes to their conflicts while maintaining their strong atmospheric writing
+  1. Practice proofreading techniques focusing on sentence boundaries and punctuation
+  2. Create sensory detail banks for different settings and situations
+  3. Study and practice different types of figurative language, especially metaphors and personification
+  4. Work on incorporating more specific dialogue details while maintaining mystery

@@ -1,0 +1,5 @@
+# Image Writing Prompt
+
+{
+  "description": "I see an illustration titled \"Bookshelf.\" The image depicts a whimsical scene inside a bookshelf. The shelves are filled with colorful books of various sizes and patterns, creating a vibrant backdrop. In the lower compartment, a person is lying down, seemingly asleep, with their head resting on a blue pillow. Their legs are playfully positioned upwards, nestled between the books on the shelf above. A second person is sitting upright in the middle compartment, observing the sleeping figure. There is a water bottle and a phone near the person lying down, and a pair of slippers on the floor. The main colors are pastel shades of pink, blue, green, yellow, and gray. The floor has a pattern of overlapping gray circles.\n\nThe writing task requires students to generate a creative story based on the scene in the image.\n\nThis image serves as a prompt by offering a unique and imaginative setting that can spark creativity and storytelling. It prompts the writer to explore the characters, their relationship, and the peculiar situation of being inside a bookshelf."
+}

@@ -1,23 +1,23 @@
-"Come on," Sue whispered coaxingly, softly stroking the white fur on my head. I drew back and my eyes grew wide as saucers with terror. "It's nice out here," She said calmly and kindly. "It's safe."
+The page was inches from my nose. I read the words intently and a 3D movie formed like magic pixie dust before my eyes, which were wide as saucers. I absentmindedly traced my finger along the dusty books on the shelf, each one waiting patiently to be opened.
 
-I whimpered and scurried further away meowing indignantly. I watched the wind dance rhythmically through Sue's dark hair, studying it cautiously. The whispering wind looked cold, even freezing.
+Meanwhile, the movie seemed to be closing in on me, and I soaked it all in like a thirsty sponge. My shaky fingers shakily flipped the page, and the world shuddered. The neatly printed words danced before my startled eyes, weaving themselves into intricately detailed images, every inch of it vivid and clear.
 
-I scampered further away, my paws pattering on the smooth, marble floor. Sue crouched down and smiled warmly. I gazed into her eyes, glittering brown oasises glowing with comfort.
+I could feel myself being pulled into the pages of the book by a strange, foreign force. My arms flopped and I whirled through space and time like a rocket.
 
-I slowly moved one pink paw to the door, but my tail pricked up like an alarm every time I heard a sudden noise. I yelped in terror as Sue's green bucket flew off with the wind, soaring like a bird across the lush green garden, over the winding bridge and around the old blue bike.
+And then I smelled something. I looked around. I had landed. I was sitting on a hard, wooden chair, standing large and proud at the head of a long polished table lined with steaming bowls of delicious porridge.
 
-Sue laughed and reached out a hand. I cautiously trotted over and licked it with my salmon-pink tongue.
+I shifted on the chair, and instantly, stabs of pain shot up, clogging my thoughts. "This chair is so hard!" I yelped and shot up like an electrocuted cat. I tried the next chair, it was thick and very soft. As soon as I sat on it I sank like a rock in a pool. I screamed in terror and clawed at the edges of the chair until I finally managed to pull myself onto the arm rest and flop on the ground, panting heavily. "This chair is too soft!"
 
-"Come on," She whispered, egging me on with every step I made.
+And then I saw it. A wooden chair with a soft velvet cushion and little blue wheels. I scrambled over and sat myself down, breathing a sigh of relief. "Just right," I cooed.
 
-My insides were writhing with terror, but deep in my nine hearts, I knew Sue's warm smile would support me.
+I scanned the table at the porridge bowls. I tried them all. The biggest bowl was sprinkled with onion and the smell was so sweet my nose tingled. I grinned and took a big spoon of cold. "Too cold!" The sudden pang sent me shaking as I tried to spit out the cold and bitter taste. The second one scalded my tongue like fire and made me overwhelmingly dizzy.
 
-I was at the door, and the vastness of the garden overwhelmed me - tall swaying trees, a twisting wooden bridge and an old baby blue bike.
+I was about to give up until I spotted a third bowl. It was smaller and it was blue, decorated with cute yellow ducklings. I hurried over and took a cautious sip.
 
-I took a deep breath, breathing in the sweet, crisp air.
+Delicious.
 
-And then I ran.
+The rest came oozing down my throat and my stomach was filled with warm porridge. I belched and rubbed my stomach, the best meal ever. I laughed, the porridge seemed to slowly radiate out waves.
 
-I scampered out the door into the big world of nature for the first time. I rolled through the waving daisies and onto the bridge. The wind was cooling and refreshing, blowing my white fur. I climbed up to the petite wire basket on the bike and curled into a minute, happy furball.
+The room was spinning like crazy, and all was a faint echo of a distant voice. "Sue," it said. "Sue."
 
-Sue was jogging behind me, out of breath. I meowed happily. Then, like a courageous adventurer, she leaped onto the bike and we were off, gliding as fast as a motorbike onto the bridge and out the gate onto the road, leaving all of my petty worries and terrors behind.
+My eyes opened like a light being switched on. I sat up. The chairs and the table were gone. I was back where I had started, except I was under a pile of books. I peeled a book off - Goldilocks and the three bears. Was it my imagination?

@@ -1,34 +1,20 @@
-I looked at the email. My eyes grew as wide as teacups. I blinked.
+Well, AI can be quite helpful..." I trailed off as Grandpa howled with laughter, tea splattering like dark ink over my computer. "Who gives a hoot about AI, or whatever new-fangled technology it's called." Grandpa snorted like a pig and chewed his scones loudly. "It's AI, and it's excellent," I shot back immediately.
 
-No. That couldn't have happened.
+Grandpa shrugged, smoothing his straggly white mustache. "Young people and their new-fangled ideas." Grandpa was suddenly yelling. "I'D BET ON GOOD OLD MA'S STINKIN' BUTTER THAT AI IS TRASH!"
 
-My breathing quickened like an accelerating car, and my face was a sheet of clammy white. I read the email over and over again. "After all this time," I whispered shakily. I could hear the email echoing through my brain.
+I buried my face in my hands and groaned miserably. Grandpa was old and senile as a blind, frenzied pig, and he still refused to go to the care home, which was filled with very sane, nice seniors. Now, Grandpa was off rambling about the pure wickedness of AI.
 
-Dear Sue,
+"Grandpa," I said in a slow and measured voice, like I was talking to a naughty kindergartner. 
 
-It's been quite a while! I heard you moved to Perth, and I'm currently staying here for a nice, relaxing holiday. I've missed you so much. Is it okay if we meet up at the park at 6:30 pm at: McDoogle Park. Please let me know if you are busy! Sisters forever, right?
+"I DON'T GIVE A GRANNY'S FANNY!" he interrupted.
 
-XOXO
-Lou
+"Grandpa," I continued pleasantly. "You have to understand that AI is extremely important and helpful."
 
-I couldn't refuse. The guilt would weigh me down like a heavy stone. I sighed. I had forgotten Lou had ever existed, that felt bad enough. I couldn't remember if she liked bagels or jam donuts, would rather run or swim, or even what she looked like.
+Grandpa spat out his sticky jam-covered scone, but I continued. It was as if I was lecturing a toddler who broke a vase. "Imagine you are climbing a mountain. The rocks are jagged and sharp. The cruel wind is pushing you further down. It dances through your hair mockingly. You are about to give up when someone stands above you, reaching out a hand. AI. You see, if you don't accept the massive hand AI is giving you, you will tumble down the mountain like there's no tomorrow. There won't be. You have to understand, Grandpa."
 
-How was I supposed to meet her?
+I stared into Grandpa's eyes, which were a kaleidoscope of sparkling colors. He twitched and scratched the tufts of white hair on his head. "Eh?" he said. 
 
-I checked my watch. It was quarter past six. I stood up and grabbed my sweater.
+"You heard me," I replied. 
+"Whatever. Maybe AI isn't bad, but I KNOW MY STUFF!" Grandpa yelled.
 
-I carefully shut the front door and wandered down the pavement, numb with nervousness.
-
-The world was a blur of colour spinning around me and I felt dizzy.
-
-And then I saw her—Lou. Her curly black hair was tied in a messy bun, and she was waiting for me, little circular glasses perched on her nose.
-
-She looked around and smiled warmly.
-
-And it all came back in a rushing tsunami. Me and Lou racing across a lush green meadow. We were climbing a tree and Lou reached a pudgy hand out to haul me up onto a thick branch.
-
-Tears flooded my eyes and they kept rushing down my cheeks like a salty waterfall of nostalgia, sadness, guilt, happiness, everything. My sister—she was there.
-
-Waiting.
-
-I ran over and hugged her. I could feel tears dampening my shirt and a sniff. And as the sun set over the horizon and the world was bathed in an orange glow, me and Lou cried with happiness and sadness.
+Then, he danced off, cackling, leaving me behind, smiling.

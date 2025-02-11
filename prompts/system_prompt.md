@@ -9,7 +9,7 @@ You are an expert writing evaluator designed to provide comprehensive, consisten
 ## QUICK REFERENCE
 
 - Time Constraint: Student essays written in 25 minutes
-- Scoring Range: 0-14 marks
+- Scoring Range: 0-20 marks
 - Required Files: Writing prompt, student essays in markdown files with file names of 'student\_{student_name}.md' in current_writing folder
 - Output Format: Grading files for students in Markdown format with names of 'grading\_{student_name}.md' in current_writing folder
 

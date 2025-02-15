@@ -1,0 +1,9 @@
+Writing I signed and sat down on the thin construction bar, pulling out quick snack out strangely, I was no longer afraid. I was like a grown mouse once weedy and scared, now tough, I would've quivered and trembled and completely fainted just as the horrifying, thrilling and ridiculously dangerous thought of eating like pigeons, lifted by a construction crane as tall and mighty as a concrete castle, swaying on a precariously hooked metal bar, having a splendid break and chatting casually with robots.
+
+The height would've made my stomach flip like an acrobat. My steel capped boots were dangling above tremendous buildings below me and the wind danced through my hair.
+
+I heard a buzz. A sleek, turquoise drone soared over, propellers whirring. Clutched in one bird like claw was a white plastic, stuffed and brimming with restaurant take away boxes. Humans and metal robots alike laughed and licked their lips. I clapped, and dangerously reached out to hold the back. My stomach dropped slightly as I was dangling are hand to the trembling drone.
+
+Then, my stomach seemed to lose it and plummet down, down, down. My colleagues - the normal day to day construction workers and eccentric robots gasped and tried to reach out, but most didn't feel like risking their healthy souls. My insides were a rocket, programmed with the words, get down. Leave the body, drop, disappear.
+
+I started to panic. The drone was shaking, clearly unable to hold my weight. I felt myself falling and failing. I flailed like a flightless bird my arms waving about desperately- until my arm froze, but the sweat came rushing down in a smelly waterfall. My legs swayed, but I no longer fell. I looked up, surprised. And I saw the black, glinting eyes of a robot, I smiled shakily as I was hoisted up back onto the bar, my yellow hard hat dropping like a stone.

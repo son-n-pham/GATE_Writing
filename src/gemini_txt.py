@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 import google.generativeai as genai
-from config.py import LLM_MODEL
+from src.config import LLM_MODEL
 
 # Load environment variables from .env file
 load_dotenv()
@@ -19,12 +19,33 @@ generation_config = {
 }
 
 # Add error handling for API key
+
+
 def validate_api_key():
     if not os.getenv("GEMINI_API_KEY"):
         raise ValueError("GEMINI_API_KEY not found in environment variables")
 
+
+def list_available_models():
+    """List all available Gemini models"""
+    try:
+        models = genai.list_models()
+        print("\nAvailable Gemini Models:")
+        print("-" * 50)
+        for model in models:
+            if "gemini" in model.name:
+                print(f"Name: {model.name}")
+                print(f"Display Name: {model.display_name}")
+                print(f"Description: {model.description}")
+                print("-" * 50)
+    except Exception as e:
+        print(f"Error listing models: {e}")
+
+
 try:
     validate_api_key()
+
+    list_available_models()
 
     model = genai.GenerativeModel(
         model_name="gemini-2.0-flash-exp",

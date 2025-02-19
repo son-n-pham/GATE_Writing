@@ -2,109 +2,105 @@
 
 1. Story Structure and Plot Flow (2/2 marks)
 
-- Evidence: Clear progression from morning observation through evening reflection
-- Analysis: Natural flow from physical description to deeper cultural significance
-- Score Justification: Strong chronological structure with seamless transitions between time periods
-- Improvement Strategy: Structure effectively supports theme development
+   - Evidence: Clear chronological progression from icebergs' arrival through their presence to final departure
+   - Analysis: Strong narrative arc with smooth transitions between temporal phases
+   - Score Justification: Perfect flow from initial description through rising action to resolution
+   - Improvement Strategy: Structure effectively supports narrative - maintain this approach
 
-2. Atmosphere and Theme (2/2 marks)
+2. Topic Relevance (5/5 marks)
 
-- Evidence: "sky painted itself in twilight purples and deep blues" and "wind carried whispers of change"
-- Analysis: Rich atmospheric details create a contemplative mood that supports themes of change and permanence
-- Score Justification: Setting details consistently reinforce themes of time, change, and cultural significance
-- Improvement Strategy: Successfully integrates atmosphere with thematic elements
+   - Evidence: "The twin sentinels of ice loomed over our coastal town" directly addresses prompt
+   - Analysis: Integrates all key elements from image: icebergs, community, houses, boats, and human activity
+   - Score Justification: Fully developed treatment of prompt elements
+   - Improvement Strategy: Successfully maintains focus throughout
 
-3. Sensory Details (2/2 marks)
+3. Atmosphere and Theme (2/2 marks)
 
-- Evidence: "aroma of bergamot," "boots crunched against the frost-covered ground," "transforming into a torch of orange and pink crystal"
-- Analysis: Incorporates all five senses naturally throughout the narrative
-- Score Justification: Rich sensory details create immersive experience
-- Improvement Strategy: Effective balance of different sensory elements
+   - Evidence: "like ancient guardians, their crystalline faces reflecting the golden sunrise"
+   - Analysis: Creates a magical, contemplative atmosphere while maintaining realism
+   - Score Justification: Strong mood establishment and maintenance
+   - Improvement Strategy: Excellent atmospheric control - continue this technique
 
-4. Character Development (2/2 marks)
+4. Sensory Details (2/2 marks)
 
-- Evidence: Narrator's evolution from observer to philosophical understanding through Grandma's influence
-- Analysis: Clear growth in perspective and understanding
-- Score Justification: Character shows deeper appreciation of the icebergs' significance
-- Improvement Strategy: Strong character development through reflection
+   - Evidence: "cameras clicking like crickets", "thunderous cracks", "steaming mug of coffee"
+   - Analysis: Incorporates all five senses naturally throughout
+   - Score Justification: Rich sensory landscape created
+   - Improvement Strategy: Consistent sensory integration achieved
 
-5. Sizzling Start (1/1 mark)
+5. Character Development (2/2 marks)
 
-- Evidence: "Morning light splintered across the crystalline faces of the ancient sentinels"
-- Analysis: Immediately establishes setting and tone with vivid imagery
-- Score Justification: Engaging opening that draws reader in
-- Improvement Strategy: Effective hook combining imagery and mystery
+   - Evidence: Narrator's perspective evolves from wonder to understanding deeper meaning
+   - Analysis: Clear character growth through observation and reflection
+   - Score Justification: Strong internal development arc
+   - Improvement Strategy: Character development well-paced and meaningful
 
-6. Conflict Development (2/2 marks)
+6. Sizzling Start (1/1 mark)
 
-- Evidence: Tension between permanence and change, tradition and modern reality
-- Analysis: Subtle development of environmental and cultural conflicts
-- Score Justification: Well-developed thematic conflicts without oversimplification
-- Improvement Strategy: Successfully balances multiple conflict layers
+   - Evidence: Opens with vivid description of icebergs as "twin sentinels"
+   - Analysis: Immediately establishes setting and tone
+   - Score Justification: Engaging opening that draws reader in
+   - Improvement Strategy: Strong hook established
 
-7. Figurative Language (3/3 marks)
+7. Conflict Development (2/2 marks)
 
-- Evidence:
-  1. Metaphor: "diamond crowns floating on the horizon"
-  2. Simile: "coats flapped like birds' wings"
-  3. Personification: "sky painted itself"
-- Analysis: Varied and sophisticated use of literary devices
-- Score Justification: Multiple examples enhance imagery and meaning
-- Improvement Strategy: Effective use of diverse figurative language
+   - Evidence: Tension between preservation and inevitable change, community adaptation
+   - Analysis: Multiple layers of conflict - natural, social, and personal
+   - Score Justification: Well-developed conflicts with satisfying resolution
+   - Improvement Strategy: Balanced conflict development achieved
 
-8. Moral/Theme Message (2/2 marks)
+8. Figurative Language (3/3 marks)
 
-- Evidence: "some changes, no matter how inevitable, could still be beautiful"
-- Analysis: Natural emergence of themes about change, tradition, and acceptance
-- Score Justification: Sophisticated handling of complex themes
-- Improvement Strategy: Successfully conveys message without preaching
+   - Evidence: "like ancient guardians", "like ghostly ships", "shed tears of meltwater"
+   - Analysis: Rich use of metaphor, simile, and personification
+   - Score Justification: Multiple types of figurative language used effectively
+   - Improvement Strategy: Varied and natural integration demonstrated
 
-9. Ending (2/2 marks)
+9. Moral/Theme Message (2/2 marks)
 
-- Evidence: Final paragraph connecting physical presence to cultural legacy
-- Analysis: Ties together physical and metaphorical elements of story
-- Score Justification: Meaningful conclusion that resolves themes
-- Improvement Strategy: Strong thematic resolution
+   - Evidence: "nothing lasts forever – but everything leaves its mark on the world"
+   - Analysis: Clear theme about impermanence and impact
+   - Score Justification: Theme emerges naturally through story
+   - Improvement Strategy: Thematic development well-executed
 
-10. Original Idea (1/1 mark)
+10. Ending (2/2 marks)
 
-- Evidence: Integration of indigenous legend with modern environmental concerns
-- Analysis: Fresh perspective combining cultural and environmental elements
-- Score Justification: Unique approach to common theme
-- Improvement Strategy: Successfully balances familiar and novel elements
+    - Evidence: Final paragraph links physical events to universal truth
+    - Analysis: Satisfying conclusion that elevates story's meaning
+    - Score Justification: Strong resolution with broader implications
+    - Improvement Strategy: Effective conclusion achieved
 
-11. Technical Accuracy (1/1 mark)
+11. Original Idea (1/1 mark)
 
-- Evidence: Consistent grammar, spelling, and punctuation throughout
-- Analysis: Clean, error-free writing
-- Score Justification: High technical proficiency
-- Improvement Strategy: Maintains professional standard
+    - Evidence: Unique focus on community transformation and temporal nature of natural wonders
+    - Analysis: Fresh perspective on environmental change and human adaptation
+    - Score Justification: Original approach to prompt
+    - Improvement Strategy: Creative angle well-developed
+
+12. Technical Accuracy (1/1 mark)
+
+    - Evidence: Consistent grammar, punctuation, and spelling throughout
+    - Analysis: Clear, error-free writing
+    - Score Justification: High technical proficiency demonstrated
+    - Improvement Strategy: Technical excellence maintained
 
 ### Overall Assessment
 
-- Total Score: 20/20 (100%)
+- Total Score: 25/25 (100%)
 - Key Strengths:
 
-  1. Masterful integration of sensory and figurative language
-  2. Sophisticated handling of multiple thematic layers
-  3. Strong balance of physical description and philosophical reflection
+  1. Masterful integration of descriptive and reflective elements
+  2. Strong thematic development about change and impact
+  3. Rich sensory and figurative language throughout
 
 - Priority Improvements:
 
-  1. Already strong - continue developing multiple perspective layers
-  2. Consider exploring more complex narrative structures
-  3. Experiment with different time frames and pacing
+  1. Already demonstrates mastery of all criteria
+  2. Could experiment with different narrative perspectives in future pieces
+  3. Might explore more dialogue in future works
 
 - Strategic Development Plan:
-  The essay demonstrates exemplary creative writing skills. Future development could focus on:
-
-1. Experimenting with non-linear narrative structures
-2. Incorporating multiple cultural perspectives
-3. Exploring more experimental literary techniques
-
-This example essay successfully demonstrates how to:
-
-- Integrate multiple literary devices naturally
-- Balance descriptive and reflective elements
-- Create meaningful thematic depth
-- Maintain technical accuracy while being creative
+  This example essay demonstrates mastery of the rubric criteria through:
+  1. Balanced integration of description and reflection
+  2. Natural development of theme through narrative
+  3. Strong technical execution supporting creative elements

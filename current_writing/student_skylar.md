@@ -1,11 +1,19 @@
-I was made of water, frozen into an iceberg. I've overlooked the coast of Westralis for years and years now, staring at the twisting snake like roads, and little wooden houses being built, then demolished. Everyday, some group of humans dressed in heavy winter coats and oggle at me curiously.
+Everything seemed so big. Towering white buildings. A tall bronze statue of the president. An ethereal light bathed Elisa's golden brown skin. She felt like a child among the mature and prim older students.
 
-How tightly they were bundled up reminded me of when the highwaymen tied thick hankerchiefs around their faces while they robbed elaborate coaches of silk and gold, drinking up everylast piece of treasure like a hyena.
+The whole campus was alive, a bustling city. Elisa was lost and elbowed around. She looked down at the crumpled time table in her sweaty hand. She was already late for her first class.
 
-And when the grass withered under summer's spell, I gazed out under my icy eyelids and watched. The water lapped against my broad shoulders as I bobbed and floated among the cruel, relentless waves.
+"Excuse me, where is block C?" she asked timidly to an older student.
 
-I was a powerful guardian, watching over my little town- a proud lion, protecting its cub. Every day the fierce wind dances around me, lashing out at my face with razor sharp claws made of harsh gusts of gale. Every day, I felt myself getting weaker and weaker.
+He looked down at the small, scared frizzy haired girl.
+"Somewhere," he said rudely.
 
-I could almost hear myself creak like a weary dog and whine like a hungry dog, and I knew I couldn't last much longer. As I looked out to my little town of Westralis, I smiled. I would miss how the birds perched on the powerlines, and how the cars criss crossed and glided along.
+Elisa looked around. The smug grin upon the President's face seemed to mock her.
 
-And there, as the morning light bathed the world with light, I cracked, and like the mighty titanic, I trembled and my head sank underneath the cold water.
+Someone tapped lightly on her shoulder.
+"Need help?" A girl Elisa's age asked.
+
+She was a first year herself but she had the air of a girl who had memorized the complex tapestry of the school map. The girl pushed her thick glasses up her freckly nose and held up a hand to shake.
+
+Elisa decided she liked the girl's intelligent green eyes and dark chocolate brown hair, so she shook her hand, even though the whole hand shaking seemed a little too formal.
+
+Until then, Elisa never thought she would find someone like her. But at her new school she had discovered the first of her people. Her small pride of lions.

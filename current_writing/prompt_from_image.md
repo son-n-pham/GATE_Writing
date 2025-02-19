@@ -1,5 +1,0 @@
-# Image Writing Prompt
-
-{
-  "description": "I see a scenic view featuring two massive icebergs in the distance, set against a clear blue sky. The landscape in the foreground consists of a rural community with houses, roads, and patches of dry grass. There are people walking on the road and standing near the houses, suggesting a sense of community and everyday life. Several cars are parked along the roadside, and a few boats are docked near the shore. The main colors are blue (sky and icebergs), white (icebergs), brown (land), and a mix of colors for the houses and cars. The text visible at the top of the image reads \"Icebergs.\" The writing task requires students to create a narrative or descriptive piece inspired by the scene. The image serves as a prompt by providing a vivid visual of a unique and contrasting environment, combining elements of nature (icebergs, sea) with human settlement, sparking imagination about the lives of people in this location and the challenges and beauty of living near such large natural phenomena."
-}

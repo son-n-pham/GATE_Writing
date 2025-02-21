@@ -1,0 +1,5 @@
+# Image Writing Prompt
+
+{
+  "response": "I see a surreal landscape where the sky meets the clouds, creating a dreamlike atmosphere. In the foreground, there are fluffy white clouds that look like they could be walked on. To the left, a large planet with prominent rings dominates the scene. Further away, a smaller figure of a person is floating in the sky holding an umbrella, as if they are using it to drift among the stars. The background transitions to a deep blue and purple starry sky, complete with comets streaking across the expanse and another moon or planet visible in the upper right corner. The colors are muted, with a predominance of blues, purples, grays, and whites. The text \"ABOVE THE SKY\" is prominently displayed at the top of the image.\n\nThe writing task requires students to engage their imagination and explore themes of dreams, journeys, and the intersection of reality and fantasy.\n\nThis image serves as a prompt by providing a rich visual narrative that invites creative writing. It encourages the writer to explore the story behind the floating figure, the world they inhabit, and the symbolic meaning of the elements within the image."
+}

@@ -142,7 +142,7 @@ Describe the image in details for using as writing prompt.
 				try {
 					const imageBase64 = imagePreview.src.split(",")[1];
 
-					const apiUrl = `https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash-001:generateContent?key=${apiKey}`;
+					const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
 					const response = await fetch(apiUrl, {
 						method: "POST",
@@ -168,6 +168,7 @@ Describe the image in details for using as writing prompt.
 								topP: 0.95,
 								topK: 40,
 								maxOutputTokens: 8192,
+								responseMimeType: "application/json",
 							},
 						}),
 					});

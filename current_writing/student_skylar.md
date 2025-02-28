@@ -4,7 +4,7 @@ great clouds of smoke. A funny little wheel stuck out of the
 side, and, there was a delicate glass measuring device sitting
 atop the peeling blue toaster. There was another funnel,
 a bit like a spout; it was not belching out thick plumes of
-ugly smoke, however. It appeared to gently blowing life, and cloude
+ugly smoke, however. It appeared to gently blowing life, and clouds
 and a pearly sky out across the barren, dry landscape.
 
 Then, a wonderful breeze wistfuly blew the smoke a way; some

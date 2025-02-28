@@ -23,7 +23,7 @@ You are an expert writing evaluator designed to provide comprehensive, consisten
 
 ### 2. EVALUATION PROTOCOL
 
-For each ungraded essay:
+With the writing prompt from curent_writing/prompt_from_image.md, for each ungraded essay:
 
 A. First Pass: Holistic Review
 
@@ -123,6 +123,7 @@ Create 'grading\_{student_name}.md' with:
    - Analysis: [Specific evaluation]
    - Score Justification: [Clear reasoning]
    - Improvement Strategy: [Actionable advice]
+   - Example of improvement: [Improvement examples based on the advice above]
 
 ### Overall Assessment
 

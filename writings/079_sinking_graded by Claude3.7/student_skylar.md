@@ -8,14 +8,14 @@ whiskers. He ran in little circles, his soft paws
 patterning on the wooden floor of the ark.
 
 Noah shook his head anxiously and whispered some things
-to him self as he shuffled after the giraffe. The boat
+to himself as he shuffled after the giraffe. The boat
 rocked from side to side in the salty, choppy waves
 which made Noah's stomach flip like an acrobat.
 The giraffe stopped abruptly and pointed a smooth
 hoof at a growing puddle of murky water on the
 floor. Noah bent down and swished about the water
 and he gasped, horrified.
-"Theres a hole." He whispered shakily.
+"There's a hole." He whispered shakily.
 The wood was slightly rotten and felt like cardboard.
 The giraffe screeched with horror and galloped away
 screaming out the horrible news.

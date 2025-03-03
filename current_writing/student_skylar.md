@@ -1,40 +1,13 @@
-"WATER! WATER! "The giraffe yelped shaking
-it's long spotted neck,
-Noah stroked his long wispy beard nervously as he ran
-over.
-"We're going to DIE!" Squeaked a timid little
-meta mouse with a little wet pink nose and long fine
-whiskers. He ran in little circles, his soft paws
-patterning on the wooden floor of the ark.
+Betty hurried herself among the thick, warm blankets and fluffy white pillows. It was cold, dark, and damp in the burrow, and Betty was frightened. A little shiver ran down her back. She shivered under the blanket and reached a shaky paw out to flick on the lamp.
 
-Noah shook his head anxiously and whispered some things
-to him self as he shuffled after the giraffe. The boat
-rocked from side to side in the salty, choppy waves
-which made Noah's stomach flip like an acrobat.
-The giraffe stopped abruptly and pointed a smooth
-hoof at a growing puddle of murky water on the
-floor. Noah bent down and swished about the water
-and he gasped, horrified.
-"Theres a hole." He whispered shakily.
-The wood was slightly rotten and felt like cardboard.
-The giraffe screeched with horror and galloped away
-screaming out the horrible news.
+The soft, golden light illuminated Betty’s room—from the wooden bed and polished floor to the walls of dusty leather-bound books, and to the balls of yarn and knitting supplies strewn across the bedside table.
 
-Noah could hear a lion's terrified bellow and he
-could picture the chaotic scene vividly- the boat
-tipped with all of the animals & sliding off with
-all the water rising and rising.
+The lamp didn’t make it much warmer, so Betty called out for Mother Mouse. Betty could hear Mother’s paws pattering gently on the wooden floor and then the creak of an old, groaning door. Mother came in, wearing a brownish-green cardigan and bottle-green pants. She scurried over to the fireplace, and soon a warm, crackling fire was burning brightly in the hearth. The flames danced cheerily as Mother plopped herself next to Betty and fussed about. She tucked Betty’s chin in, fluffing her plump pillows.
 
-But then-there was a lunatic worthy screech of
-laughter. Noah stood straight up like he had been
-struck by lightning and quickly hurried over to check
-on the animals. Everyone was howling with
-laughter-so much so that there were tears and
-cries.
+“Can you read me a bedtime story?” Betty asked once she was nice and toasty in her bed, with the sweet taste of hot chocolate lingering in her mouth.
 
-"IT WAS A PRANK!" An exhilerated baboon
-cried, tears cascading down his cheeks in a waterfall.
+“Why yes, I can,” replied Mother, a smile crinkling her aged eyes.
 
-Noah put his hands on his hips angrily and growled
-like an annoyed bear- wishing he hadn't been fooled so
-easily.
+She reached out a pink paw and slid a faded green book off a wooden shelf. The golden words Classic Fairy Tales were neatly printed on the cover. Betty snuggled up right next to Mother as she read aloud in a smooth, gentle voice. The images were forming vividly in Betty’s mind as she gazed in wonderment at the small words on the yellowing page. She felt so warm and cozy, and a soft mewl left her lips as she lay in bed, watching Mother reach out and point at Cinderella’s glass slipper.
+
+She truly appreciated how incredibly lucky she was to live a peaceful, lavish life in a burrow with a wonderful mother.

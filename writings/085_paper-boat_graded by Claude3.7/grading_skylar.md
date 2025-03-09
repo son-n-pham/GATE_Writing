@@ -103,7 +103,6 @@
   2. Strong character development showing distinct personalities
   3. Effective use of figurative language that enhances imagery
 - Priority Improvements:
-
   1. Develop a clear ending that resolves the narrative and provides closure
   2. Enhance conflict development with complications and resolution
   3. Strengthen the moral/theme by demonstrating it through action rather than statement
